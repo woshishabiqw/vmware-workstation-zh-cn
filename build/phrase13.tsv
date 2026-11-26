@@ -1,0 +1,246 @@
+Novell NetWare||Novell NetWare
+One or more of your virtual machine's network adapters have changed since the upload process began||自上传过程开始以来，你的虚拟机的一个或多个网络适配器已更改
+Open this virtual machine in Workstation for more information.||在 Workstation 中打开此虚拟机以了解更多信息。
+Operation aborted||操作已中止
+Operation canceled||操作已取消
+Partition %d||分区 %d
+Path "%s" was not found||未找到路径“%s”
+Pause notification||暂停通知
+Please check the user manual for help on fixing these issues.||请查阅用户手册以获取修复这些问题的帮助。
+Please see VMware Player Help for more information.||请参阅 VMware Player 帮助了解更多信息。
+Please see VMware Remote Console Help for more information.||请参阅 VMware Remote Console 帮助了解更多信息。
+Power operation is not available.||电源操作不可用。
+Powering on the virtual machine may fail because the number of cores per socket is invalid.||由于每个插槽的核心数无效，虚拟机可能无法开机。
+Powering on the virtual machine will fail because it is configured to use more virtual processor cores than the host supports.||由于配置使用的虚拟处理器核心数超过主机支持的数量，虚拟机将无法开机。
+Powering on the virtual machine will fail because the number of cores is invalid.||由于核心数无效，虚拟机将无法开机。
+Press %s to release the mouse cursor||按 %s 释放鼠标光标
+Product not found||找不到产品
+Queued MKS ticket acquisition timed out after %ld ms||排队获取 MKS 票据在 %ld ms 后超时
+Reencrypting virtual machine...||正在重新加密虚拟机...
+Registering virtual machine||正在注册虚拟机
+Removing encryption from virtual machine...||正在移除虚拟机的加密...
+Reserved||保留
+Reserved (SCSI Controller)||保留（SCSI 控制器）
+Resetting...||正在重置...
+Restricted virtual machines are not supported.||不支持受限虚拟机。
+Role updates already in progress.||角色更新已在进行中。
+SATA devices are not supported on %s virtual machines.||%s 虚拟机不支持 SATA 设备。
+See Tools Installation Guide for installation instructions.||有关安装说明，请参阅 Tools 安装指南。
+See the product documentation for %s installation instructions.||有关 %s 安装说明，请参阅产品文档。
+Select a host to upload %s.||选择要上传 %s 的主机。
+Server didn't provide a list of instances.||服务器未提供实例列表。
+Server didn't provide an authorization key.||服务器未提供授权密钥。
+Server didn't provide an orgList.||服务器未提供 orgList。
+Server doesn't support VCloud API 1.5.||服务器不支持 vCloud API 1.5。
+Server error||服务器错误
+Server returned unexpected object of type %s at %s.||服务器在 %s 返回了类型为 %s 的意外对象。
+Shared folders are disabled||共享文件夹已禁用
+Shut _Down All Virtual Machines||关闭所有虚拟机的电源
+Single MKS||单一 MKS
+Snapshots taken every %.1f %s: %d||每 %.1f %s拍摄快照：%d
+Snapshots taken every %d %s: %d||每 %d %s拍摄快照：%d
+Snapshots taken every day: %d||每天拍摄的快照：%d
+Snapshots taken every half hour: %d||每半小时拍摄的快照：%d
+Snapshots taken every hour: %d||每小时拍摄的快照：%d
+Snapshots taken every minute: %d||每分钟拍摄的快照：%d
+Snapshots taken every month: %d||每月拍摄的快照：%d
+Snapshots taken every second: %d||每秒拍摄的快照：%d
+Snapshots taken every week: %d||每周拍摄的快照：%d
+Solaris||Solaris
+Sound adapter is not supported on %s virtual machines.||%s 虚拟机不支持声卡。
+System||系统
+THz||THz
+Taking ownership of this virtual machine failed.\nA serious error occurred: %s.\nConfiguration file: %s.||获取此虚拟机的所有权失败。\n发生严重错误：%s。\n配置文件：%s。
+Taking ownership of this virtual machine failed.\nThe virtual machine is in use by an application on your host computer.\nConfiguration file: %s.||获取此虚拟机的所有权失败。\n此虚拟机正被你的主机上的某个应用程序使用。\n配置文件：%s。
+Team file not found: %s||找不到团队文件：%s
+Template virtual machines are not supported.||不支持模板虚拟机。
+The SSL thumbprint provided could not be matched for host %s.||提供的 SSL 指纹无法与主机 %s 匹配。
+The SSL thumbprint provided was not in a standard format.||提供的 SSL 指纹不是标准格式。
+The Shared Virtual Machines directory is not configured. Set the directory for shared VMs in Edit > Preferences > Shared VMs.||未配置共享虚拟机目录。请在“编辑”>“首选项”>“共享虚拟机”中设置共享虚拟机目录。
+The VMware Tools installation image for this guest operating system does not have a valid signature and may be corrupt. Please download VMware Tools again or reinstall the product.||此客户机操作系统的 VMware Tools 安装映像没有有效签名，可能已损坏。请重新下载 VMware Tools 或重新安装该产品。
+The VMware Tools installation image for this guest operating system is not accessible. If you are currently downloading VMware Tools, please wait for the download to finish.||无法访问此客户机操作系统的 VMware Tools 安装映像。如果你当前正在下载 VMware Tools，请等待下载完成。
+The VMware Workstation Server is not available.||VMware Workstation Server 不可用。
+The account you set for Autologin must not be a domain account. You must type the user name of a local account in the virtual machine.||你为自动登录设置的帐户不能是域帐户。你必须输入虚拟机中本地帐户的用户名。
+The administrator or creator of this virtual machine must make changes to its configuration.||此虚拟机的管理员或创建者必须对其配置进行更改。
+The connection to VMware Workstation Server was lost while trying to share the VM.||尝试共享虚拟机时，与 VMware Workstation Server 的连接已断开。
+The connection to VMware Workstation Server was lost while trying to stop sharing the VM.||尝试停止共享虚拟机时，与 VMware Workstation Server 的连接已断开。
+The current amount of free space on the hard disk (%0.1f GB) is not enough to create the specified disk file. Please choose a different location or specify a smaller disk size.||硬盘上的当前可用空间 (%0.1f GB) 不足以创建指定的磁盘文件。请选择其他位置或指定更小的磁盘大小。
+The current arrangement of monitors is not supported.||当前显示器排列不受支持。
+The datastore %s could not be found||找不到数据存储 %s
+The destination directory is not writeable.||目标目录不可写。
+The destination path %s is invalid.||目标路径 %s 无效。
+The download failed because the file is no longer available.||下载失败，因为文件已不再可用。
+The download has been paused due to a network failure.||由于网络故障，下载已暂停。
+The extraction is paused due to an empty destination directory||由于目标目录为空，提取已暂停
+The file at "%s" is not a valid team file.||“%s”处的文件不是有效的团队文件。
+The guest OS does not support Autologin.\n\nTo enable Autologin, you must be running Windows 2000 or later.||客户机操作系统不支持自动登录。\n\n要启用自动登录，你必须运行 Windows 2000 或更高版本。
+The guest operating system is not installed on this virtual machine. Insert the installer disc and click "Restart VM".||此虚拟机上未安装客户机操作系统。请插入安装光盘并单击“重启虚拟机”。
+The host computer for this virtual machine is in maintenance mode.||此虚拟机的主机处于维护模式。
+The host computer for this virtual machine is not connected to the vCenter Server.||此虚拟机的主机未连接到 vCenter Server。
+The host is shutting down/restarting, try later.||主机正在关闭/重新启动，请稍后再试。
+The host's monitor layout has changed since the virtual machine was powered on.  You must power the virtual machine off and back on to use multiple monitors in Full Screen mode.||自虚拟机开机以来，主机的显示器布局已更改。你必须在全屏模式下关闭并重新开启虚拟机电源才能使用多个显示器。
+The import failed because %s did not pass OVF specification conformance or virtual hardware compliance checks.\n\nClick Retry to relax OVF specification and virtual hardware compliance checks and try the import again, or click Cancel to cancel the import. If you retry the import, you might not be able to use the virtual machine in %s.||导入失败，因为 %s 未通过 OVF 规范一致性或虚拟硬件合规性检查。\n\n单击“重试”以放宽 OVF 规范和虚拟硬件合规性检查并再次尝试导入，或单击“取消”取消导入。如果你重试导入，可能无法在 %s 中使用该虚拟机。
+The import operation failed with more than %zu errors. The OVF you are trying to import is probably corrupt or an unsupported legacy version. The first %zu errors are shown below:\n\n||导入操作失败，错误超过 %zu 个。你尝试导入的 OVF 可能已损坏或为不支持的旧版。前 %zu 个错误如下所示：\n\n
+The installed version of VMware Tools is not up to date, and 3D graphics are disabled. Log in to the guest operating system and click "Update Tools" to enable 3D graphics.||已安装的 VMware Tools 版本不是最新，且 3D 图形已禁用。请登录客户机操作系统并单击“更新 Tools”以启用 3D 图形。
+The installed version of VMware Tools is not up to date. Log in to the guest operating system and click "Update Tools."||已安装的 VMware Tools 版本不是最新。请登录客户机操作系统并单击“更新 Tools”。
+The license key that you have entered has expired.\nTo purchase a license for %s, Please refer how to purchase product %s||你输入的许可证密钥已过期。\n要购买 %s 的许可证，请参阅如何购买产品 %s
+The license key that you have entered is invalid.\nTo purchase a license for %s, Please refer how to purchase product %s||你输入的许可证密钥无效。\n要购买 %s 的许可证，请参阅如何购买产品 %s
+The multiple monitors feature is only available in Full Screen mode.||多显示器功能仅在全屏模式下可用。
+The name '%s' already exists.||名称“%s”已存在。
+The operation has timed out||操作已超时
+The password could not be changed because the old password is incorrect. Try again with the correct password.||无法更改密码，因为旧密码不正确。请使用正确的密码重试。
+The path "%s" is malformed.||路径“%s”格式不正确。
+The path "%s" is not absolute.||路径“%s”不是绝对路径。
+The path cannot be found||找不到路径
+The path specifies an unknown filesystem type.||该路径指定了未知的文件系统类型。
+The requested operation is already in progress||请求的操作已在进行中
+The requested virtual machine could not be found.||找不到请求的虚拟机。
+The selected folder is an invalid location.||所选文件夹是无效位置。
+The selected folder must be within a datacenter.||所选文件夹必须位于数据中心内。
+The server-side WebSocket connection limit has been exceeded. This can be adjusted on the server-side to allow more concurrent connections.||已超过服务器端 WebSocket 连接限制。可在服务器端调整此限制以允许更多并发连接。
+The single-use MKS ticket has already been consumed.||一次性 MKS 票据已被使用。
+The system cannot connect to the computer at %s||系统无法连接到位于 %s 的计算机
+The thumbprint provided by host '%s' does not meet the client's security requirements. Check host configuration and supported thumbprint types, or configure the client to allow less secure thumbprints.||主机“%s”提供的指纹不满足客户端的安全要求。请检查主机配置和受支持的指纹类型，或将客户端配置为允许安全性较低的指纹。
+The virtual CD/DVD device could not connect the VMware Tools installation image. The guest operating system may be using the CD/DVDdevice.||虚拟 CD/DVD 设备无法连接 VMware Tools 安装映像。客户机操作系统可能正在使用 CD/DVD 设备。
+The virtual Smart Card device cannot emulate a Smart Card event because the device is not connected to the virtual machine.||由于设备未连接到虚拟机，虚拟智能卡设备无法模拟智能卡事件。
+The virtual Smart Card device cannot emulate a Smart Card event because the physical Smart Card is not inserted into the reader.||由于物理智能卡未插入读卡器，虚拟智能卡设备无法模拟智能卡事件。
+The virtual Smart Card device cannot emulate a Smart Card insertion event until a removal event is issued by the virtual device.||在虚拟设备发出移除事件之前，虚拟智能卡设备无法模拟智能卡插入事件。
+The virtual Smart Card device cannot emulate a Smart Card removal event until an insertion event is issued by the virtual device.||在虚拟设备发出插入事件之前，虚拟智能卡设备无法模拟智能卡移除事件。
+The virtual device can only be used on the host||虚拟设备只能用于主机
+The virtual machine %s (%s) cannot be deleted because it is still powered on.||虚拟机 %s (%s) 无法删除，因为它仍处于开启状态。
+The virtual machine appears to be in use||虚拟机似乎正在使用中
+The virtual machine being edited has been closed||正在编辑的虚拟机已关闭
+The virtual machine configuration has been edited concurrently||虚拟机配置已被同时编辑
+The virtual machine could not be changed to the selected monitor layout.\n\nIf you just added a monitor to the host computer, you must power off and power on the virtual machine to use that monitor.||无法将虚拟机更改为所选的显示器布局。\n\n如果你刚刚向主机添加了显示器，你必须关闭并重新开启虚拟机电源才能使用该显示器。
+The virtual machine does not support the selected hardware version.\n||虚拟机不支持所选的硬件版本。\n
+The virtual machine hardware version must be Workstation 6 or higher.||虚拟机硬件版本必须为 Workstation 6 或更高。
+The virtual machine has to be powered off for this operation.||此操作需要关闭虚拟机电源。
+The virtual machine is encrypted using an old encryption algorithm. You can upgrade it to use the latest supported encryption mode. However, upgrading might break backward compatibility and prevent the virtual machine from working on older versions of %s. Refer to the KB article below for more details:\n\n%s||虚拟机使用旧加密算法加密。你可以将其升级为使用最新支持的加密模式。但是，升级可能会破坏向后兼容性，并导致虚拟机无法在旧版本的 %s 上运行。有关更多详细信息，请参阅以下知识库文章：\n\n%s
+The virtual machine may perform poorly or fail to power on because the total number of processor cores exceeds the maximum supported value of %d.||由于处理器核心总数超过支持的最大值 %d，虚拟机可能性能不佳或无法开机。
+The virtual machine might not run properly because it is configured to use more virtual processor cores than the guest supports.||由于配置使用的虚拟处理器核心数超过客户机支持的数量，虚拟机可能无法正常运行。
+The virtual machine might not run properly because it is configured to use more virtual processor sockets than the guest supports.||由于配置使用的虚拟处理器插槽数超过客户机支持的数量，虚拟机可能无法正常运行。
+The virtual machine must be powered off before it can be upgraded.\n||虚拟机必须先关闭电源才能升级。\n
+The virtual machine must have finished booting.||虚拟机必须已完成启动。
+The virtual machine must have up-to-date VMware Tools installed and running.||虚拟机必须已安装并运行最新版本的 VMware Tools。
+The virtual machine path is too long||虚拟机路径太长
+The virtual machine's Display setting must be "Use host settings" or specify more than one monitor with a sufficiently-high maximum resolution.||虚拟机的显示设置必须为“使用主机设置”，或指定多个具有足够高最大分辨率的显示器。
+There is already a shared folder with this name.||已存在同名的共享文件夹。
+There is not an existing shared folder with this name.||不存在同名的共享文件夹。
+There is not enough disk space to encrypt this virtual machine. Please free up some disk space and try again later.||没有足够的磁盘空间加密此虚拟机。请释放一些磁盘空间后重试。
+There is not enough disk space to remove encryption from this virtual machine. Please free up some disk space and try again later.||没有足够的磁盘空间移除此虚拟机的加密。请释放一些磁盘空间后重试。
+There is not enough space on the disk to create the file. Free %s and try again.||磁盘上没有足够的空间创建该文件。请释放 %s 后重试。
+There was an error checking user permissions to share a virtual machine.||检查共享虚拟机的用户权限时出错。
+There were one or more problems downloading components:\n\n%s||下载组件时出现一个或多个问题：\n\n%s
+This virtual machine appears to be in use.\nIf this virtual machine is not in use, press the "%s" button to obtain ownership of it. Otherwise, press the "%s" button to avoid damaging it.\nConfiguration file: %s.||此虚拟机似乎正在使用中。\n如果此虚拟机未在使用，请单击“%s”按钮获取其所有权。否则，请单击“%s”按钮以避免损坏它。\n配置文件：%s。
+This virtual machine cannot be cloned.||此虚拟机无法克隆。
+This virtual machine cannot be moved because it has linked clones.||此虚拟机无法移动，因为它具有链接克隆。
+This virtual machine cannot be moved because it is a linked clone.||此虚拟机无法移动，因为它是链接克隆。
+This virtual machine cannot be moved because some of its files are spread across multiple directories.||此虚拟机无法移动，因为它的部分文件分散在多个目录中。
+This virtual machine cannot be moved because template mode is enabled.||此虚拟机无法移动，因为已启用模板模式。
+This virtual machine cannot be moved.||此虚拟机无法移动。
+This virtual machine cannot be shared because it cannot be transferred to Shared Virtual Machines directory.\n\n%s\n%s||此虚拟机无法共享，因为它无法传输到共享虚拟机目录。\n\n%s\n%s
+This virtual machine cannot be shared.\n\nContact %s Technical Support for assistance.||此虚拟机无法共享。\n\n请联系 %s 技术支持寻求帮助。
+This virtual machine cannot use multiple monitors for the following reasons:||此虚拟机无法使用多个显示器，原因如下：
+This virtual machine has been deleted from the host computer but not from the vCenter Server.||此虚拟机已从主机删除，但未从 vCenter Server 删除。
+This virtual machine has one or more shared folders configured. Shared folders are not allowed by default. You can enable them in VM > Settings > Options > Shared Folders.||此虚拟机配置了一个或多个共享文件夹。默认情况下不允许共享文件夹。你可以在“虚拟机”>“设置”>“选项”>“共享文件夹”中启用它们。
+This virtual machine is already a standard VM.||此虚拟机已是标准虚拟机。
+This virtual machine is already being shared.||此虚拟机已在共享中。
+This virtual machine is encrypted.||此虚拟机已加密。
+This virtual machine is in an inconsistent state.\nIts configuration file is unencrypted but at least one of its components is already encrypted. Check to make sure it is not using a disk from an encrypted virtual machine.||此虚拟机处于不一致状态。\n其配置文件未加密，但至少有一个组件已加密。请检查以确保它没有使用来自加密虚拟机的磁盘。
+This virtual machine is in stretch mode. You must exit stretch mode before you can use multiple monitors.||此虚拟机处于拉伸模式。你必须退出拉伸模式才能使用多个显示器。
+This virtual machine is running a version of %s that might have compatibility problems with %s.||此虚拟机运行的 %s 版本可能与 %s 存在兼容性问题。
+To import "%s" you must read and accept the following license agreement(s):||要导入“%s”，你必须阅读并接受以下许可协议：
+URL proxy: Bad format or range error: %s||URL 代理：格式或范围错误：%s
+URL proxy: Bad range for proxy port (1-65535): %d||URL 代理：代理端口范围无效 (1-65535)：%d
+URL proxy: Invalid FQDN, IPv4, or IPv6 proxy address: %s||URL 代理：FQDN、IPv4 或 IPv6 代理地址无效：%s
+URL proxy: Username cannot be empty when password is specified.||URL 代理：指定密码时，用户名不能为空。
+USB 2.0 is not supported on %s virtual machines.||%s 虚拟机不支持 USB 2.0。
+USB 3.2 is not supported on %s virtual machines.||%s 虚拟机不支持 USB 3.2。
+USB is not supported on %s virtual machines.||%s 虚拟机不支持 USB。
+Unable to add device %s. The device configuration is invalid on this server.||无法添加设备 %s。此服务器上的设备配置无效。
+Unable to collect status information with the given paths: %s||无法使用给定路径收集状态信息：%s
+Unable to connect to "%s" on port %d||无法连接到“%s”（端口 %d）
+Unable to connect to the MKS: %s||无法连接到 MKS：%s
+Unable to convert %s value: %d||无法转换 %s 值：%d
+Unable to decrypt the virtual machine: %s||无法解密虚拟机：%s
+Unable to edit device %s. The device configuration is invalid on this server.||无法编辑设备 %s。此服务器上的设备配置无效。
+Unable to find a valid virtual machine from the creation operation||无法从创建操作中找到有效的虚拟机
+Unable to find available directory; giving up after trying %d times.||无法找到可用目录；尝试 %d 次后放弃。
+Unable to get the config targets from the virtual machine's EnvironmentBrowser||无法从虚拟机的 EnvironmentBrowser 获取配置目标
+Unable to load a list of files from the server||无法从服务器加载文件列表
+Unable to load datastores from this host. This could potentially be caused by insufficient permissions.||无法从此主机加载数据存储。这可能是由于权限不足所致。
+Unable to load the config option descriptors||无法加载配置选项描述符
+Unable to load the config options using descriptor key %s from host %s||无法使用描述符键 %s（来自主机 %s）加载配置选项
+Unable to load the config targets from host %s||无法从主机 %s 加载配置目标
+Unable to load the config targets from the virtual machine's EnvironmentBrowser||无法从虚拟机的 EnvironmentBrowser 加载配置目标
+Unable to locate the host computer for this virtual machine.||无法定位此虚拟机的主机。
+Unable to parse "%s" into a color.||无法将“%s”解析为颜色。
+Unable to parse server response||无法解析服务器响应
+Unable to perform the operation without file system knowledge.||没有文件系统信息时无法执行该操作。
+Unable to read configuration data.||无法读取配置数据。
+Unable to recusively list files from the server.||无法从服务器递归列出文件。
+Unable to reencrypt the virtual machine: %s||无法重新加密虚拟机：%s
+Unable to remove device %s. The device could not be removed on this server.||无法移除设备 %s。无法在此服务器上移除该设备。
+Unable to retrieve any hosts on this connection. There is no available host to use.||无法在此连接上检索任何主机。没有可用的主机。
+Unable to retrieve any hosts on this connection. This could potentially be caused by insufficient permissions.||无法在此连接上检索任何主机。这可能是由于权限不足所致。
+Unable to retrieve any hosts on this connection. This may be caused by insufficient permissions.||无法在此连接上检索任何主机。这可能是由于权限不足所致。
+Unable to retrieve the required host on this connection. This could potentially be caused by insufficient permissions.||无法在此连接上检索所需的主机。这可能是由于权限不足所致。
+Unable to update run-time folder sharing status: %s||无法更新运行时文件夹共享状态：%s
+Unexpected authentication request: %s||意外的身份验证请求：%s
+Unknown Product||未知产品
+Unknown connection type.||未知连接类型。
+Unregistering virtual machine||正在注销虚拟机
+Unsupported operation||不支持的操作
+Update not available.||更新不可用。
+Upgrade the virtual hardware to use a multi-core CPU configuration.||升级虚拟硬件以使用多核 CPU 配置。
+Upgrade the virtual hardware to use a multi-core CPU configuration. To upgrade, select VM > Manage > Change Hardware Compatibility.||升级虚拟硬件以使用多核 CPU 配置。要升级，请选择“虚拟机”>“管理”>“更改硬件兼容性”。
+User account doesn't have permission to access virtual machines on this server.||用户帐户无权访问此服务器上的虚拟机。
+User directory not ready||用户目录未就绪
+User doesn't have access to VM console||用户无权访问虚拟机控制台
+VCAOD VCloud has not been loaded.||尚未加载 VCAOD vCloud。
+VM sharing is not enabled.||未启用虚拟机共享。
+VMX file is corrupt||VMX 文件已损坏
+VMware ESX||VMware ESX
+VMware Fusion||VMware Fusion
+VMware Tools||VMware Tools
+VMware Tools enables many features and improves mouse movement, video and performance. Log in to the guest operating system and click "Install Tools".||VMware Tools 可启用许多功能，并改善鼠标移动、视频和性能。请登录客户机操作系统并单击“安装 Tools”。
+VMware Tools for this virtual machine have not been found on your computer. Without VMware Tools, Easy Install will not fully complete.||在你的计算机上未找到此虚拟机的 VMware Tools。没有 VMware Tools，简易安装将无法完全完成。
+VMware Tools is installing. Follow the instructions in the guest operating system to complete the installation.||VMware Tools 正在安装。请按照客户机操作系统中的说明完成安装。
+VMware Tools is no longer shipped with %s for this guest operating system. Download it from %s and refer to %s for installation steps.||此客户机操作系统的 %s 不再随附 VMware Tools。请从 %s 下载，并参阅 %s 了解安装步骤。
+VMware Tools is no longer shipped with %s for this guest operating system. Refer to %s to install open-vm-tools.||此客户机操作系统的 %s 不再随附 VMware Tools。请参阅 %s 以安装 open-vm-tools。
+VMware Tools is not available for this guest.||此客户机无法使用 VMware Tools。
+VMware Tools needs to be installed manually after you finish installing the operating system. Refer to https://kb.vmware.com/s/article/78708.||安装完操作系统后，需要手动安装 VMware Tools。请参阅 https://kb.vmware.com/s/article/78708。
+VMware Tools needs to be installed manually after you finish installing the operating system. Windows Server 2012 R2 Update (KB2919355) should be installed before installing VMware Tools.||安装完操作系统后，需要手动安装 VMware Tools。安装 VMware Tools 之前应安装 Windows Server 2012 R2 更新 (KB2919355)。
+VMware vCloud Air||VMware vCloud Air
+Virtual machine destroyed during initialization||虚拟机在初始化期间被销毁
+Virtual machines cannot be shared unless powered off.\n\nPower off this virtual machine before starting the Share VM wizard.||虚拟机必须关闭电源才能共享。\n\n请在启动“共享虚拟机”向导之前关闭此虚拟机的电源。
+Virtual machines configured with physical disks cannot be shared.||使用物理磁盘配置的虚拟机无法共享。
+Warning! The virtual machine %s (%s) has linked clones dependent on it.  Deleting this virtual machine will destroy the linked virtual machines, and you will no longer be able to use them.\n\nThis action is irreversible!\nAre you sure you want to delete this virtual machine permanently?||警告！虚拟机 %s (%s) 具有依赖于它的链接克隆。删除此虚拟机将销毁链接的虚拟机，你将无法再使用它们。\n\n此操作不可逆！\n确定要永久删除此虚拟机吗？
+When the guest OS starts, log in automatically as:||客户机操作系统启动时，自动登录为：
+You do not have permission to enter a license key. Try again using the system administrator account.||你无权输入许可证密钥。请使用系统管理员帐户重试。
+You don't have enough disk space to perform this operation. You must free up at least %.0lf MB.||你没有足够的磁盘空间执行此操作。你必须至少释放 %.0lf MB。
+You don't have enough disk space to perform this operation. You must free up at least %.1lf GB.||你没有足够的磁盘空间执行此操作。你必须至少释放 %.1lf GB。
+You have selected a snapshot that has linked virtual machines dependent upon it. Deleting this snapshot will destroy the linked virtual machines and you will no longer be able to use them.\n\nVirtual machines linked to this snapshot:\n%s\nAre you sure you want to delete this snapshot?||你选择了一个带有依赖它的链接虚拟机的快照。删除此快照将销毁链接的虚拟机，你将无法再使用它们。\n\n链接到此快照的虚拟机：\n%s\n确定要删除此快照吗？
+You must convert the team at "%s" before you can use it in this version of %s. When you convert a team, the team configuration (.vmtm) file will be deleted, and the virtual machines will be added to a new folder in the library. The virtual machines will retain their packet loss and bandwidth settings.\n\nConversion cannot be undone.||你必须先转换位于“%s”的团队，才能在此版本的 %s 中使用它。转换团队时，团队配置文件（.vmtm）将被删除，虚拟机将被添加到库中的新文件夹。虚拟机将保留其丢包率和带宽设置。\n\n转换无法撤销。
+You must enter a host path for the shared folder.||你必须为共享文件夹输入主机路径。
+You must enter a name for the shared folder.||你必须为共享文件夹输入名称。
+You must specify the current password.||你必须指定当前密码。
+You must update %s in the virtual machine to use multiple monitors in Full Screen mode.||你必须更新虚拟机中的 %s 才能在全屏模式下使用多个显示器。
+Your host computer must have more than one monitor.||你的主机必须具有多个显示器。
+_Assign Permissions||分配权限
+_Don't Assign Permissions||不分配权限
+_Open All Background Virtual Machines||打开所有后台虚拟机
+_Pause All Virtual Machines||暂停所有虚拟机
+_Suspend All Virtual Machines||挂起所有虚拟机
+days||天
+disconnected||已断开连接
+helper process %s failed with status %d||辅助进程 %s 失败，状态为 %d
+hours||小时
+maintenance mode||维护模式
+minutes||分钟
+months||月
+not responding||无响应
+seconds||秒
+vmrc://[<user>|(<ticket-type>:<ticket>)@]<host>[:<port>][/[<path>][?<object-type>=<object-id>][&[...]]||vmrc://[<user>|(<ticket-type>:<ticket>)@]<host>[:<port>][/[<path>][?<object-type>=<object-id>][&[...]]
+vmware-rvm://[<user>|(<user>:<password>)@]<host>[:<port>]||vmware-rvm://[<user>|(<user>:<password>)@]<host>[:<port>]
+weeks||周

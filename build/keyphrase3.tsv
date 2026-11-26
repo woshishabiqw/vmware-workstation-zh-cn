@@ -1,0 +1,313 @@
+msg.foundryErrMsgId.VIX_ASYNC||I/O 操作将异步完成
+msg.foundryErrMsgId.VIX_E_ALREADY_EXISTS||已存在
+msg.foundryErrMsgId.VIX_E_ANON_GUEST_OPERATIONS_PROHIBITED||此虚拟机不允许匿名客户机操作。必须先调用 VixVM_LoginInGuest 才能执行客户机操作
+msg.foundryErrMsgId.VIX_E_ARGUMENT_TOO_BIG||指定的某个参数过大
+msg.foundryErrMsgId.VIX_E_ASYNC_MIXEDMODE_UNSUPPORTED||不允许在同一磁盘句柄上混合使用同步和异步 I/O
+msg.foundryErrMsgId.VIX_E_AUTHENTICATION_FAIL||加密虚拟机的身份验证失败
+msg.foundryErrMsgId.VIX_E_BAD_VM_INDEX||索引参数与结果集不对应
+msg.foundryErrMsgId.VIX_E_BUFFER_TOOSMALL||缓冲区太小
+msg.foundryErrMsgId.VIX_E_CANCELLED||操作已取消
+msg.foundryErrMsgId.VIX_E_CANNOT_AUTHENTICATE_WITH_GUEST||虚拟机无法通过客户机验证用户
+msg.foundryErrMsgId.VIX_E_CANNOT_CONNECT_TO_HOST||无法连接到主机
+msg.foundryErrMsgId.VIX_E_CANNOT_CONNECT_TO_VM||无法连接到虚拟机
+msg.foundryErrMsgId.VIX_E_CANNOT_MOUNT_VM_IN_VMDB||无法连接到虚拟机 (vmdb)
+msg.foundryErrMsgId.VIX_E_CANNOT_POWER_ON_VM||虚拟机无法启动
+msg.foundryErrMsgId.VIX_E_CANNOT_READ_VM_CONFIG||无法读取虚拟机配置文件
+msg.foundryErrMsgId.VIX_E_CANNOT_START_READ_ONLY_VM||无法开启只读虚拟机的电源
+msg.foundryErrMsgId.VIX_E_CANNOT_WAIT_IN_CALLBACK||不能在回调函数内部调用 VixJob_Wait
+msg.foundryErrMsgId.VIX_E_CONSOLE_GUEST_OPERATIONS_PROHIBITED||此虚拟机不允许控制台用户执行客户机操作
+msg.foundryErrMsgId.VIX_E_CRYPTO_BAD_BUFFER_SIZE||安全库错误
+msg.foundryErrMsgId.VIX_E_CRYPTO_BAD_FORMAT||安全库错误
+msg.foundryErrMsgId.VIX_E_CRYPTO_BAD_PASSWORD||密码不正确
+msg.foundryErrMsgId.VIX_E_CRYPTO_EMPTY||安全库错误
+msg.foundryErrMsgId.VIX_E_CRYPTO_ERROR||安全库错误
+msg.foundryErrMsgId.VIX_E_CRYPTO_INVALID_OPERATION||安全库错误
+msg.foundryErrMsgId.VIX_E_CRYPTO_KEYSAFE_LOCATOR||安全库错误
+msg.foundryErrMsgId.VIX_E_CRYPTO_LOCKED||安全库错误
+msg.foundryErrMsgId.VIX_E_CRYPTO_NEED_PASSWORD||此操作需要密码
+msg.foundryErrMsgId.VIX_E_CRYPTO_NOT_IN_DICTIONARY||安全库错误
+msg.foundryErrMsgId.VIX_E_CRYPTO_NO_CRYPTO||安全库错误
+msg.foundryErrMsgId.VIX_E_CRYPTO_RANDOM_DEVICE||安全库错误
+msg.foundryErrMsgId.VIX_E_CRYPTO_UNKNOWN_ALGORITHM||安全库错误
+msg.foundryErrMsgId.VIX_E_DATACENTER_MISMATCH||输入参数包含不属于同一数据中心的实体
+msg.foundryErrMsgId.VIX_E_DIFFERENT_VM||虚拟机与缺失的虚拟机不匹配
+msg.foundryErrMsgId.VIX_E_DIRECTORY_NOT_EMPTY||指定的目录不为空
+msg.foundryErrMsgId.VIX_E_DISK_ATTACH_ROOTLINK||父虚拟磁盘和子虚拟磁盘都是根链接
+msg.foundryErrMsgId.VIX_E_DISK_CANTREPAIR||磁盘已损坏且无法修复。
+msg.foundryErrMsgId.VIX_E_DISK_CANTSHRINK||指定的虚拟磁盘无法收缩，因为它不是父磁盘
+msg.foundryErrMsgId.VIX_E_DISK_CAPACITY_MISMATCH||父虚拟磁盘的容量与子磁盘的容量不同
+msg.foundryErrMsgId.VIX_E_DISK_CID_MISMATCH||自创建子磁盘以来父虚拟磁盘已被修改。父虚拟磁盘的内容 ID 与子磁盘中的父内容 ID 不匹配
+msg.foundryErrMsgId.VIX_E_DISK_ENCODING||磁盘编码错误
+msg.foundryErrMsgId.VIX_E_DISK_FULL||写入文件时出错；磁盘已满。数据尚未保存。请释放一些磁盘空间后重试
+msg.foundryErrMsgId.VIX_E_DISK_INVAL||提供的某个参数无效
+msg.foundryErrMsgId.VIX_E_DISK_INVALIDCHAIN||磁盘链无效：不能在同一链中混合使用宿主式磁盘和托管式磁盘
+msg.foundryErrMsgId.VIX_E_DISK_INVALIDDISK||指定的文件不是虚拟磁盘
+msg.foundryErrMsgId.VIX_E_DISK_INVALIDPARTITIONTABLE||分区表无效
+msg.foundryErrMsgId.VIX_E_DISK_INVALID_CONNECTION||连接句柄无效
+msg.foundryErrMsgId.VIX_E_DISK_KEY_NOTFOUND||在磁盘数据库中找不到指定的键
+msg.foundryErrMsgId.VIX_E_DISK_NEEDKEY||未提供一个或多个必需的密钥
+msg.foundryErrMsgId.VIX_E_DISK_NEEDSREPAIR||指定的虚拟磁盘需要修复
+msg.foundryErrMsgId.VIX_E_DISK_NEEDVMFS||该文件系统不是 VMFS
+msg.foundryErrMsgId.VIX_E_DISK_NODEVICE||设备不存在
+msg.foundryErrMsgId.VIX_E_DISK_NOINIT||磁盘库尚未初始化
+msg.foundryErrMsgId.VIX_E_DISK_NOIO||所调用的函数要求为 I/O 打开虚拟磁盘
+msg.foundryErrMsgId.VIX_E_DISK_NOKEY||未提供用于加密磁盘的密钥
+msg.foundryErrMsgId.VIX_E_DISK_NOKEYOVERRIDE||未经明确请求，不会创建加密磁盘的未加密子磁盘
+msg.foundryErrMsgId.VIX_E_DISK_NOLICENSE||主机未获得此功能的许可
+msg.foundryErrMsgId.VIX_E_DISK_NOTENCDESC||不是加密描述符文件
+msg.foundryErrMsgId.VIX_E_DISK_NOTENCRYPTED||不是加密磁盘
+msg.foundryErrMsgId.VIX_E_DISK_NOTNORMAL||只能加密带有嵌入描述符的稀疏区段
+msg.foundryErrMsgId.VIX_E_DISK_NOTSUPPORTED||此版本不支持指定的功能
+msg.foundryErrMsgId.VIX_E_DISK_OPENPARENT||无法打开此虚拟磁盘的父磁盘
+msg.foundryErrMsgId.VIX_E_DISK_OUTOFRANGE||你请求访问的虚拟磁盘区域超出范围
+msg.foundryErrMsgId.VIX_E_DISK_PARENT_NOTALLOWED||不允许将磁盘类型用作父磁盘
+msg.foundryErrMsgId.VIX_E_DISK_PARTIALCHAIN||无法对部分链执行所调用的函数。请打开父虚拟磁盘
+msg.foundryErrMsgId.VIX_E_DISK_PARTMISMATCH||自创建磁盘以来物理磁盘上的分区表已更改。请从虚拟机中移除物理磁盘，然后重新添加
+msg.foundryErrMsgId.VIX_E_DISK_RAWTOOBIG||物理磁盘太大
+msg.foundryErrMsgId.VIX_E_DISK_RAWTOOSMALL||物理磁盘太小
+msg.foundryErrMsgId.VIX_E_DISK_SUBSYSTEM_INIT_FAIL||一个或多个必需的子系统初始化失败
+msg.foundryErrMsgId.VIX_E_DISK_THIN_NOT_SUPPORTED||虚拟机具有精简磁盘
+msg.foundryErrMsgId.VIX_E_DISK_TOOMANYOPENFILES||已超过主机打开文件数的限制
+msg.foundryErrMsgId.VIX_E_DISK_TOOMANYREDO||重做日志层数过多
+msg.foundryErrMsgId.VIX_E_DISK_UNSUPPORTEDDEVICE||此类型的设备不支持该操作
+msg.foundryErrMsgId.VIX_E_DISK_UNSUPPORTEDDISKVERSION||虚拟磁盘的版本高于此程序支持的版本
+msg.foundryErrMsgId.VIX_E_DISK_ZEROEDTHICK_NOT_SUPPORTED||虚拟机具有置零厚置备磁盘
+msg.foundryErrMsgId.VIX_E_DUPLICATE_NAME||另一个对象正在使用此名称
+msg.foundryErrMsgId.VIX_E_EMPTY_PASSWORD_NOT_ALLOWED_IN_GUEST||客户机操作系统不支持空密码
+msg.foundryErrMsgId.VIX_E_FAIL||未知错误
+msg.foundryErrMsgId.VIX_E_FILE_ACCESS_ERROR||你无权访问此文件
+msg.foundryErrMsgId.VIX_E_FILE_ALREADY_EXISTS||文件已存在
+msg.foundryErrMsgId.VIX_E_FILE_ALREADY_LOCKED||文件已在使用中
+msg.foundryErrMsgId.VIX_E_FILE_ERROR||主机或客户机操作系统上发生文件访问错误
+msg.foundryErrMsgId.VIX_E_FILE_NAME_INVALID||文件名无效
+msg.foundryErrMsgId.VIX_E_FILE_NAME_TOO_LONG||文件名太长
+msg.foundryErrMsgId.VIX_E_FILE_NOT_FOUND||未找到文件
+msg.foundryErrMsgId.VIX_E_FILE_READ_ONLY||文件受写保护
+msg.foundryErrMsgId.VIX_E_FILE_TOO_BIG||文件对于该文件系统来说太大
+msg.foundryErrMsgId.VIX_E_GUEST_AUTHTYPE_DISABLED||客户机操作系统中已禁用该身份验证类型
+msg.foundryErrMsgId.VIX_E_GUEST_OPERATIONS_PROHIBITED||此虚拟机不允许客户机操作
+msg.foundryErrMsgId.VIX_E_GUEST_USER_PERMISSIONS||客户机操作系统中身份验证失败或权限不足
+msg.foundryErrMsgId.VIX_E_GUEST_VOLUMES_NOT_FROZEN||驱动器未冻结
+msg.foundryErrMsgId.VIX_E_HGFS_MOUNT_FAIL||在客户机操作系统中挂载共享文件夹文件系统时出错
+msg.foundryErrMsgId.VIX_E_HOST_CONNECTION_LOST||与主机的连接已断开
+msg.foundryErrMsgId.VIX_E_HOST_DISK_INVALID_VALUE||指定的设备不是有效的物理磁盘设备
+msg.foundryErrMsgId.VIX_E_HOST_DISK_SECTORSIZE||磁盘扇区大小检查失败
+msg.foundryErrMsgId.VIX_E_HOST_FILE_ERROR_EOF||读取超出文件末尾
+msg.foundryErrMsgId.VIX_E_HOST_NBD_HASHFILE_INIT||NBD_ERR_HASHFILE_INIT
+msg.foundryErrMsgId.VIX_E_HOST_NBD_HASHFILE_VOLUME||NBD_ERR_HASHFILE_VOLUME
+msg.foundryErrMsgId.VIX_E_HOST_NETBLKDEV_HANDSHAKE||协议错误
+msg.foundryErrMsgId.VIX_E_HOST_NETWORK_CONN_REFUSED||服务器拒绝了连接
+msg.foundryErrMsgId.VIX_E_HOST_NOT_CONNECTED||无法连接到主机
+msg.foundryErrMsgId.VIX_E_HOST_SERVER_NOT_AVAILABLE||主机不可用
+msg.foundryErrMsgId.VIX_E_HOST_SERVER_NOT_FOUND||无法联系指定的服务器
+msg.foundryErrMsgId.VIX_E_HOST_SERVER_SHUTDOWN||服务器已关闭
+msg.foundryErrMsgId.VIX_E_HOST_SOCKET_CREATION_ERROR||无法创建套接字
+msg.foundryErrMsgId.VIX_E_HOST_TCP_CONN_LOST||连接已断开
+msg.foundryErrMsgId.VIX_E_HOST_TCP_SOCKET_ERROR||通信时出错
+msg.foundryErrMsgId.VIX_E_HOST_USER_PERMISSIONS||主机操作系统中权限不足
+msg.foundryErrMsgId.VIX_E_INCORRECT_FILE_TYPE||访问文件时出错：文件类型错误
+msg.foundryErrMsgId.VIX_E_INTERACTIVE_SESSION_NOT_PRESENT||指定的客户机用户必须以交互方式登录才能执行此操作
+msg.foundryErrMsgId.VIX_E_INTERACTIVE_SESSION_USER_MISMATCH||指定的客户机用户与当前以交互方式登录的用户不匹配
+msg.foundryErrMsgId.VIX_E_INVALID_ARG||其中一个参数无效
+msg.foundryErrMsgId.VIX_E_INVALID_AUTHENTICATION_SESSION||提供的身份验证会话不存在
+msg.foundryErrMsgId.VIX_E_INVALID_DATACENTER||指定的数据中心无效
+msg.foundryErrMsgId.VIX_E_INVALID_DATASTORE||指定的数据存储无效
+msg.foundryErrMsgId.VIX_E_INVALID_DATASTORE_PATH||此路径下没有数据存储
+msg.foundryErrMsgId.VIX_E_INVALID_HANDLE||句柄不是有效的 VIX 对象
+msg.foundryErrMsgId.VIX_E_INVALID_HOSTNAME_SPECIFICATION||主机名参数格式不正确。对于给定的服务提供程序，主机名必须是形如 https://<hostname>:<port>/sdk 的 URL
+msg.foundryErrMsgId.VIX_E_INVALID_LOGIN_CREDENTIALS||客户机操作系统不接受提供的身份验证凭据
+msg.foundryErrMsgId.VIX_E_INVALID_MESSAGE_BODY||消息正文已损坏或缺失
+msg.foundryErrMsgId.VIX_E_INVALID_MESSAGE_HEADER||消息头已损坏或版本不正确
+msg.foundryErrMsgId.VIX_E_INVALID_PROPERTY_VALUE||属性值无效
+msg.foundryErrMsgId.VIX_E_INVALID_SECONDARY_UUID||UUID 无效或未标识辅助虚拟机
+msg.foundryErrMsgId.VIX_E_INVALID_SERIALIZED_DATA||序列化对象无效，无法反序列化
+msg.foundryErrMsgId.VIX_E_INVALID_STATE||由于系统的当前状态，操作失败
+msg.foundryErrMsgId.VIX_E_INVALID_UTF8_STRING||字符串参数编码不正确
+msg.foundryErrMsgId.VIX_E_INVALID_XML||文件无效。内容可能已损坏。
+msg.foundryErrMsgId.VIX_E_LICENSE||当前许可证不支持此操作
+msg.foundryErrMsgId.VIX_E_LOGIN_TYPE_NOT_SUPPORTED||不支持此登录类型
+msg.foundryErrMsgId.VIX_E_MISSING_ANON_GUEST_ACCOUNT||虚拟机配置必须指定用于匿名客户机操作的客户机帐户名
+msg.foundryErrMsgId.VIX_E_MISSING_REQUIRED_PROPERTY||此句柄缺少必需的属性
+msg.foundryErrMsgId.VIX_E_MNTAPI_ALREADY_OPENED||卷或 DiskSet 的句柄已打开
+msg.foundryErrMsgId.VIX_E_MNTAPI_CANT_MAKE_VAR_DIR||无法创建目录 '/var/run/vmware/fuse'
+msg.foundryErrMsgId.VIX_E_MNTAPI_CANT_READ_PARTS||无法读取或解析虚拟磁盘上的分区表
+msg.foundryErrMsgId.VIX_E_MNTAPI_CODECONVERSION||转换字符串时出错
+msg.foundryErrMsgId.VIX_E_MNTAPI_CREATE_PARTITIONTABLE_ERROR||创建分区表时出错
+msg.foundryErrMsgId.VIX_E_MNTAPI_DAEMON||VMware fuse 守护进程启动失败
+msg.foundryErrMsgId.VIX_E_MNTAPI_DICT||访问元数据时出错。你可能没有足够的权限访问此磁盘，或者元数据可能已损坏。
+msg.foundryErrMsgId.VIX_E_MNTAPI_DICT_LOCKED||此磁盘的元数据已锁定。请检查是否有其他正在运行的虚拟磁盘挂载程序。
+msg.foundryErrMsgId.VIX_E_MNTAPI_DISK_CANT_OPEN||无法打开虚拟磁盘
+msg.foundryErrMsgId.VIX_E_MNTAPI_DISK_IS_MOUNTED||指定的磁盘已挂载
+msg.foundryErrMsgId.VIX_E_MNTAPI_DISK_NOT_FOUND||找不到指定的虚拟磁盘
+msg.foundryErrMsgId.VIX_E_MNTAPI_DISK_NOT_MOUNTED||指定的磁盘未挂载
+msg.foundryErrMsgId.VIX_E_MNTAPI_DISK_NOT_SAFE||挂载该虚拟磁盘不安全。它可能已连接到已挂起或已开机的虚拟机，或者位于快照链中
+msg.foundryErrMsgId.VIX_E_MNTAPI_DRIVE_LETTER_ALREADY_ASSIGNED||指定的驱动器号已分配
+msg.foundryErrMsgId.VIX_E_MNTAPI_DRIVE_LETTER_IN_USE||指定的驱动器号已被占用
+msg.foundryErrMsgId.VIX_E_MNTAPI_FORMAT_FAILURE||无法格式化卷
+msg.foundryErrMsgId.VIX_E_MNTAPI_GETFILE_ERROR||获取文件错误
+msg.foundryErrMsgId.VIX_E_MNTAPI_INCOMPATIBLE_VERSION||产品版本号低于预期版本号
+msg.foundryErrMsgId.VIX_E_MNTAPI_INTERNAL||发生内部错误。请联系 VMware 支持
+msg.foundryErrMsgId.VIX_E_MNTAPI_ITEM_NOT_FOUND||文件无效。缺少文件必需的部分。
+msg.foundryErrMsgId.VIX_E_MNTAPI_LOOP_FAILED||回环设备操作失败
+msg.foundryErrMsgId.VIX_E_MNTAPI_MOUNTPT_IN_USE||挂载点已被占用
+msg.foundryErrMsgId.VIX_E_MNTAPI_MOUNTPT_NOT_FOUND||找不到指定的挂载点
+msg.foundryErrMsgId.VIX_E_MNTAPI_NO_CONNECTION_DETAILS||无法获取 vixDiskLib 连接详细信息
+msg.foundryErrMsgId.VIX_E_MNTAPI_NO_DRIVER||找不到驱动程序
+msg.foundryErrMsgId.VIX_E_MNTAPI_NO_MOUNTABLE_PARTITONS||该虚拟磁盘没有任何主机系统可挂载的分区
+msg.foundryErrMsgId.VIX_E_MNTAPI_NO_ROOT||此应用程序必须以 setuid root 身份运行
+msg.foundryErrMsgId.VIX_E_MNTAPI_OPEN_FAILURE||无法打开 DiskSet
+msg.foundryErrMsgId.VIX_E_MNTAPI_OPEN_HANDLES||另一个进程正在对此已挂载的虚拟磁盘执行操作
+msg.foundryErrMsgId.VIX_E_MNTAPI_OS_ERROR||发生操作系统错误
+msg.foundryErrMsgId.VIX_E_MNTAPI_PARTITION_NOT_FOUND||找不到指定的分区
+msg.foundryErrMsgId.VIX_E_MNTAPI_PARTITION_RANGE||指定的分区号无效
+msg.foundryErrMsgId.VIX_E_MNTAPI_PERM||权限不足，无法执行此操作
+msg.foundryErrMsgId.VIX_E_MNTAPI_PUTFILE_ERROR||放置文件错误
+msg.foundryErrMsgId.VIX_E_MNTAPI_REGDELKEY_ERROR||删除注册表项时出错
+msg.foundryErrMsgId.VIX_E_MNTAPI_REGWRITE_ERROR||写入注册表时出错
+msg.foundryErrMsgId.VIX_E_MNTAPI_REG_NOT_OPENED||无法打开注册表项
+msg.foundryErrMsgId.VIX_E_MNTAPI_SYSTEM||系统调用失败
+msg.foundryErrMsgId.VIX_E_MNTAPI_UMOUNT||umount 命令失败
+msg.foundryErrMsgId.VIX_E_MNTAPI_UMOUNT_APP_NOT_FOUND||在标准系统目录（如 /bin、/usr/bin 或 /sbin）中找不到 umount 应用程序
+msg.foundryErrMsgId.VIX_E_MNTAPI_UNSUPPORTED_FT_VOLUME||不支持 Windows NT4 容错卷类型
+msg.foundryErrMsgId.VIX_E_MNTAPI_UNSUPPROTED_BOOT_LOADER||不支持该引导加载程序
+msg.foundryErrMsgId.VIX_E_MNTAPI_UNSUPPROTED_OS||不支持当前操作系统
+msg.foundryErrMsgId.VIX_E_MNTAPI_VOLUME_ALREADY_MOUNTED||指定的卷已挂载
+msg.foundryErrMsgId.VIX_E_MNTAPI_VOLUME_NOT_MOUNTED||指定的卷未挂载
+msg.foundryErrMsgId.VIX_E_MNTAPI_VOLUME_NOT_WRITABLE||该卷受写保护
+msg.foundryErrMsgId.VIX_E_MUST_BE_CONSOLE_USER||只有控制台用户才能运行该命令
+msg.foundryErrMsgId.VIX_E_NEED_DIFFERENT_REPAIR||此句柄需要使用另一种修复方式
+msg.foundryErrMsgId.VIX_E_NEED_KEY||执行此操作需要解密密钥
+msg.foundryErrMsgId.VIX_E_NETWORK_FILE_COPY_FAILED||文件的网络复制失败
+msg.foundryErrMsgId.VIX_E_NET_HTTP_COULDNT_CONNECT||无法连接到主机或代理
+msg.foundryErrMsgId.VIX_E_NET_HTTP_COULDNT_RESOLVE_HOST||无法解析主机
+msg.foundryErrMsgId.VIX_E_NET_HTTP_COULDNT_RESOLVE_PROXY||无法解析代理
+msg.foundryErrMsgId.VIX_E_NET_HTTP_GENERIC||发生一般性 HTTP 错误
+msg.foundryErrMsgId.VIX_E_NET_HTTP_HTTP_RETURNED_ERROR||服务器返回 HTTP 错误代码 >= 400
+msg.foundryErrMsgId.VIX_E_NET_HTTP_OPERATION_TIMEDOUT||网络操作超时
+msg.foundryErrMsgId.VIX_E_NET_HTTP_SSL_CONNECT_ERROR||SSL/TLS 握手时发生问题
+msg.foundryErrMsgId.VIX_E_NET_HTTP_SSL_SECURITY||发生 SSL 错误
+msg.foundryErrMsgId.VIX_E_NET_HTTP_TOO_MANY_REDIRECTS||达到最大重定向次数
+msg.foundryErrMsgId.VIX_E_NET_HTTP_TRANSFER||发送/接收网络数据失败
+msg.foundryErrMsgId.VIX_E_NET_HTTP_UNSUPPORTED_PROTOCOL||提供的 URL 使用了不受支持的协议
+msg.foundryErrMsgId.VIX_E_NET_HTTP_URL_MALFORMAT||URL 格式不正确
+msg.foundryErrMsgId.VIX_E_NOTHING_TO_REPAIR||此句柄没有需要修复的内容
+msg.foundryErrMsgId.VIX_E_NOT_A_DIRECTORY||该对象不是目录
+msg.foundryErrMsgId.VIX_E_NOT_A_FILE||该对象不是文件
+msg.foundryErrMsgId.VIX_E_NOT_FOR_REMOTE_HOST||只有本地主机才能支持此功能
+msg.foundryErrMsgId.VIX_E_NOT_FOUND||文件无效。缺少文件必需的部分
+msg.foundryErrMsgId.VIX_E_NOT_SUPPORTED||不支持该操作
+msg.foundryErrMsgId.VIX_E_NOT_SUPPORTED_FOR_VM_VERSION||此虚拟机版本不支持该操作
+msg.foundryErrMsgId.VIX_E_NOT_SUPPORTED_ON_HANDLE_TYPE||此类型的句柄不支持该操作
+msg.foundryErrMsgId.VIX_E_NOT_SUPPORTED_ON_REMOTE_OBJECT||远程对象不支持该命令
+msg.foundryErrMsgId.VIX_E_NO_DISPLAY_SERVER||无法启动 UI，因为当前环境中没有显示服务器
+msg.foundryErrMsgId.VIX_E_NO_GUEST_OS_INSTALLED||虚拟机中未安装操作系统
+msg.foundryErrMsgId.VIX_E_NO_SUCH_PROCESS||没有此类进程
+msg.foundryErrMsgId.VIX_E_NO_SUCH_SECONDARY||所标识的容错辅助虚拟机不存在
+msg.foundryErrMsgId.VIX_E_OBJECT_IS_BUSY||无法执行此函数，因为该句柄正在执行另一个函数
+msg.foundryErrMsgId.VIX_E_OBJECT_NOT_FOUND||请求引用的对象不存在
+msg.foundryErrMsgId.VIX_E_OPERATION_ALREADY_IN_PROGRESS||操作已在进行中
+msg.foundryErrMsgId.VIX_E_OPERATION_DISABLED||该操作已被客户机操作系统禁用
+msg.foundryErrMsgId.VIX_E_OPERATION_NOT_ALLOWED_FOR_LOGIN_TYPE||此登录类型不允许该命令
+msg.foundryErrMsgId.VIX_E_OP_NOT_SUPPORTED_ON_GUEST||此客户机操作系统不支持请求的操作
+msg.foundryErrMsgId.VIX_E_OP_NOT_SUPPORTED_ON_NON_VMWARE_VM||该命令仅在 VMware 虚拟机上受支持
+msg.foundryErrMsgId.VIX_E_OUT_OF_MEMORY||内存分配失败。内存不足。
+msg.foundryErrMsgId.VIX_E_POWEROP_SCRIPTS_NOT_AVAILABLE||无法执行脚本
+msg.foundryErrMsgId.VIX_E_PROGRAM_NOT_STARTED||程序无法在客户机操作系统上运行
+msg.foundryErrMsgId.VIX_E_PROPERTY_TYPE_MISMATCH||提供的数据与属性类型不匹配
+msg.foundryErrMsgId.VIX_E_READ_ONLY_PROPERTY||无法更改只读属性
+msg.foundryErrMsgId.VIX_E_REG_INCORRECT_VALUE_TYPE||指定的注册表值类型与现有注册表值类型不匹配
+msg.foundryErrMsgId.VIX_E_REG_KEY_ALREADY_EXISTS||Windows 注册表项已存在
+msg.foundryErrMsgId.VIX_E_REG_KEY_HAS_SUBKEYS||该 Windows 注册表项包含子项。要删除此项，请使用递归选项
+msg.foundryErrMsgId.VIX_E_REG_KEY_INVALID||Windows 注册表项无效。项路径中的 HKEY 根无效，或者该键不存在
+msg.foundryErrMsgId.VIX_E_REG_KEY_PARENT_VOLATILE||不能在易失性注册表父项下创建非易失性注册表子项
+msg.foundryErrMsgId.VIX_E_REG_VALUE_NOT_FOUND||未找到指定注册表项的 Windows 注册表值
+msg.foundryErrMsgId.VIX_E_REMOVE_NETWORK_IN_USE||在连接到该 LAN 网段的所有虚拟机均关闭电源之前，无法移除该网段
+msg.foundryErrMsgId.VIX_E_REQUIRES_LARGE_FILES||该文件系统不支持大文件
+msg.foundryErrMsgId.VIX_E_ROOT_GUEST_OPERATIONS_PROHIBITED||此虚拟机不允许管理员用户执行客户机操作
+msg.foundryErrMsgId.VIX_E_RPC_ERROR||过程返回错误。客户机可能已停止。
+msg.foundryErrMsgId.VIX_E_SCREEN_CAPTURE_BAD_FORMAT||请求了不受支持的格式
+msg.foundryErrMsgId.VIX_E_SCREEN_CAPTURE_COMPRESSION_FAIL||无法压缩屏幕截图
+msg.foundryErrMsgId.VIX_E_SCREEN_CAPTURE_ERROR||无法截取屏幕
+msg.foundryErrMsgId.VIX_E_SCREEN_CAPTURE_LARGE_DATA||屏幕截图数据大于最大大小
+msg.foundryErrMsgId.VIX_E_SECONDARY_EXISTS||所标识的容错辅助虚拟机已存在
+msg.foundryErrMsgId.VIX_E_SNAPSHOT_CHECKPOINT||无法保存快照文件
+msg.foundryErrMsgId.VIX_E_SNAPSHOT_CONFIG||配置文件中存在错误
+msg.foundryErrMsgId.VIX_E_SNAPSHOT_DISKLIB||磁盘错误
+msg.foundryErrMsgId.VIX_E_SNAPSHOT_DISKLOCKED||一个或多个磁盘正忙
+msg.foundryErrMsgId.VIX_E_SNAPSHOT_DUMPER||无法打开快照文件
+msg.foundryErrMsgId.VIX_E_SNAPSHOT_DUPLICATEDDISK||虚拟磁盘被多次使用
+msg.foundryErrMsgId.VIX_E_SNAPSHOT_EXISTS||快照已存在
+msg.foundryErrMsgId.VIX_E_SNAPSHOT_HIERARCHY_TOODEEP||快照层次结构太深
+msg.foundryErrMsgId.VIX_E_SNAPSHOT_INCONSISTENT||快照文件处于不一致状态
+msg.foundryErrMsgId.VIX_E_SNAPSHOT_INDEPENDENTDISK||无法为具有独立磁盘的已开机虚拟机拍摄快照
+msg.foundryErrMsgId.VIX_E_SNAPSHOT_INVAL||发生与快照相关的错误
+msg.foundryErrMsgId.VIX_E_SNAPSHOT_LOCKED||快照操作已在进行中
+msg.foundryErrMsgId.VIX_E_SNAPSHOT_MAXSNAPSHOTS||超过了允许的最大快照数
+msg.foundryErrMsgId.VIX_E_SNAPSHOT_MEMORY_ON_INDEPENDENT_DISK||无法拍摄内存快照，因为虚拟机配置了独立磁盘
+msg.foundryErrMsgId.VIX_E_SNAPSHOT_MIN_FREE_SPACE||可用空间少于配置的最小可用空间
+msg.foundryErrMsgId.VIX_E_SNAPSHOT_NAMETOOLONG||文件名太长
+msg.foundryErrMsgId.VIX_E_SNAPSHOT_NOCHANGE||自上次快照操作以来虚拟机状态未发生变化
+msg.foundryErrMsgId.VIX_E_SNAPSHOT_NONUNIQUE_NAME||该名称无法唯一标识某个快照
+msg.foundryErrMsgId.VIX_E_SNAPSHOT_NOPERM||权限不足
+msg.foundryErrMsgId.VIX_E_SNAPSHOT_NOTFOUND||快照不存在
+msg.foundryErrMsgId.VIX_E_SNAPSHOT_NOT_REVERTABLE||无法恢复。该快照被标记为不可恢复。
+msg.foundryErrMsgId.VIX_E_SNAPSHOT_QUIESCING_ERROR||使虚拟机静默失败。
+msg.foundryErrMsgId.VIX_E_SNAPSHOT_QUIESCING_UNAVAILABLE||虚拟机不支持静默快照。
+msg.foundryErrMsgId.VIX_E_SNAPSHOT_VERSION||此虚拟机不允许使用快照
+msg.foundryErrMsgId.VIX_E_SNAPSHOT_VIXFILE||无法为所有元数据文件拍摄快照
+msg.foundryErrMsgId.VIX_E_SUSPEND_DISABLED||此虚拟机已禁用挂起。
+msg.foundryErrMsgId.VIX_E_SUSPEND_ERROR||挂起虚拟机时出错
+msg.foundryErrMsgId.VIX_E_TEMPLATE_VM||无法对模板虚拟机执行此操作
+msg.foundryErrMsgId.VIX_E_TIMEOUT_WAITING_FOR_TOOLS||等待客户机操作系统中 VMware Tools 启动时发生超时错误
+msg.foundryErrMsgId.VIX_E_TOOLS_INSTALL_ALREADY_UP_TO_DATE||VMware Tools 已是最新
+msg.foundryErrMsgId.VIX_E_TOOLS_INSTALL_AUTO_NOT_SUPPORTED||无法自动升级 VMware Tools 安装
+msg.foundryErrMsgId.VIX_E_TOOLS_INSTALL_CANCELLED||VMware Tools 安装已取消
+msg.foundryErrMsgId.VIX_E_TOOLS_INSTALL_DEVICE_NOT_CONNECTED||用于安装 VMware Tools 的客户机操作系统设备未连接
+msg.foundryErrMsgId.VIX_E_TOOLS_INSTALL_ERROR||VMware Tools 安装因未知错误失败
+msg.foundryErrMsgId.VIX_E_TOOLS_INSTALL_GUEST_NOT_READY||客户机操作系统中未运行 VMware Tools。无法自动升级
+msg.foundryErrMsgId.VIX_E_TOOLS_INSTALL_IMAGE_COPY_FAILED||无法将 VMware Tools 映像复制到客户机操作系统
+msg.foundryErrMsgId.VIX_E_TOOLS_INSTALL_IMAGE_INACCESIBLE||VMware Tools 映像不可访问
+msg.foundryErrMsgId.VIX_E_TOOLS_INSTALL_INIT_FAILED||VMware Tools 安装初始化失败
+msg.foundryErrMsgId.VIX_E_TOOLS_INSTALL_IN_PROGRESS||VMware Tools 安装已在进行中
+msg.foundryErrMsgId.VIX_E_TOOLS_INSTALL_NO_DEVICE||客户机操作系统未配置可供 VMware Tools 安装使用的设备
+msg.foundryErrMsgId.VIX_E_TOOLS_INSTALL_NO_IMAGE||此客户机操作系统没有可用的 VMware Tools 映像
+msg.foundryErrMsgId.VIX_E_TOOLS_INSTALL_SIG_CHECK_FAILED||VMware Tools 映像签名检查失败。映像可能已损坏。
+msg.foundryErrMsgId.VIX_E_TOOLS_NOT_RUNNING||客户机中未运行 VMware Tools
+msg.foundryErrMsgId.VIX_E_TOOLS_TOO_OLD_FOR_OPERATION||请升级此虚拟机上的 VMware Tools；当前版本不支持请求的操作
+msg.foundryErrMsgId.VIX_E_TOO_MANY_HANDLES||打开的句柄过多
+msg.foundryErrMsgId.VIX_E_TOO_MANY_LOGONS||已超过支持的活动身份验证会话数
+msg.foundryErrMsgId.VIX_E_TOO_MANY_VMS||无法开启团队中所有虚拟机的电源。请确保此计算机上的物理和软件资源能够支持如此多已开机的虚拟机
+msg.foundryErrMsgId.VIX_E_TYPE_MISMATCH||文件无效。某个对象的类型错误。
+msg.foundryErrMsgId.VIX_E_UNFINISHED_JOB||作业尚未完成
+msg.foundryErrMsgId.VIX_E_UNRECOGNIZED_COMMAND||虚拟机无法识别该命令
+msg.foundryErrMsgId.VIX_E_UNRECOGNIZED_COMMAND_IN_GUEST||VMware Tools 无法识别该命令
+msg.foundryErrMsgId.VIX_E_UNRECOGNIZED_PROPERTY||无法识别的句柄属性标识符
+msg.foundryErrMsgId.VIX_E_UNSUPPORTED_FILE_SYSTEM||不支持此文件系统类型
+msg.foundryErrMsgId.VIX_E_VI_OP_NOT_SUPPORTED_ON_GUEST||此客户机操作系统不支持请求的 vSphere 操作
+msg.foundryErrMsgId.VIX_E_VMDB||系统返回错误。与虚拟机的通信可能已中断。
+msg.foundryErrMsgId.VIX_E_VMDB_NOT_MOUNTED||虚拟机未正确打开
+msg.foundryErrMsgId.VIX_E_VMTEAM_IS_IN_POWER_OP||团队正在执行电源操作
+msg.foundryErrMsgId.VIX_E_VMTEAM_IS_NOT_RUNNING||团队未开机
+msg.foundryErrMsgId.VIX_E_VMTEAM_IS_RUNNING||团队已开机
+msg.foundryErrMsgId.VIX_E_VMX_MSG_DIALOG_AND_NO_UI||虚拟机被阻塞，正在等待用户操作
+msg.foundryErrMsgId.VIX_E_VM_ALREADY_LOADED||虚拟机已加载
+msg.foundryErrMsgId.VIX_E_VM_ALREADY_UP_TO_DATE||虚拟机已是最新
+msg.foundryErrMsgId.VIX_E_VM_CONFIG_ERROR||虚拟机的配置出错
+msg.foundryErrMsgId.VIX_E_VM_EXCEEDS_HOST_RESOURCE_LIMIT||虚拟机超出了主机的资源限制
+msg.foundryErrMsgId.VIX_E_VM_HOST_DISCONNECTED||无法与虚拟机的主机通信，因为主机已断开连接
+msg.foundryErrMsgId.VIX_E_VM_INSUFFICIENT_HOST_MEMORY||没有足够的物理内存来开启此虚拟机的电源
+msg.foundryErrMsgId.VIX_E_VM_IS_IN_VMTEAM||虚拟机属于某个团队
+msg.foundryErrMsgId.VIX_E_VM_IS_NOT_IN_VMTEAM||虚拟机不属于任何团队
+msg.foundryErrMsgId.VIX_E_VM_IS_RUNNING||不应开启虚拟机的电源。它已在运行。
+msg.foundryErrMsgId.VIX_E_VM_NOT_ENOUGH_CPUS||此虚拟机配置为使用 2 个 CPU 运行，但主机只有 1 个 CPU。虚拟机无法开机。
+msg.foundryErrMsgId.VIX_E_VM_NOT_FOUND||找不到虚拟机
+msg.foundryErrMsgId.VIX_E_VM_NOT_RUNNING||虚拟机需要开启电源
+msg.foundryErrMsgId.VIX_E_VM_UNSUPPORTED_GUEST||操作目标主机不支持指定的客户机操作系统
+msg.foundryErrMsgId.VIX_E_WORKING_COPY_EXISTS||另一个客户端已在编辑此句柄
+msg.foundryErrMsgId.VIX_E_WRAPPER_MULTIPLE_SERVICEPROVIDERS||无法使用多个服务提供程序进行连接
+msg.foundryErrMsgId.VIX_E_WRAPPER_PLAYER_NOT_INSTALLED||指定了服务类型 VIX_SERVICEPROVIDER_VMWARE_PLAYER，但未安装
+msg.foundryErrMsgId.VIX_E_WRAPPER_RUNTIME_NOT_INSTALLED||找不到支持库；VIX 似乎尚未安装
+msg.foundryErrMsgId.VIX_E_WRAPPER_SERVICEPROVIDER_NOT_FOUND||找不到指定的服务提供程序
+msg.foundryErrMsgId.VIX_E_WRAPPER_VERSION_NOT_FOUND||找不到指定的版本
+msg.foundryErrMsgId.VIX_E_WRAPPER_WORKSTATION_NOT_INSTALLED||指定了服务类型 VIX_SERVICEPROVIDER_VMWARE_WORKSTATION，但未安装
+msg.foundryErrMsgId.VIX_OK||操作成功

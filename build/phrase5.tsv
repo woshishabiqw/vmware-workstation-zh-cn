@@ -1,0 +1,228 @@
+"%s" is currently in use by one or more permissions.||“%s”当前正被一个或多个权限使用。
+%s (connected to %s)||%s（已连接到 %s）
+%s - Screen %d||%s - 屏幕 %d
+%s does not support %s.||%s 不支持 %s。
+%s for this virtual machine have not been found on your computer. Installation will not be able to continue.||在你的计算机上未找到此虚拟机的 %s。安装将无法继续。
+%s installation cannot be started manually while Easy Install is in progress.||简易安装进行中时，无法手动启动 %s 安装。
+%s installation cannot be started until the current download finishes.||在当前的下载完成之前，无法启动 %s 安装。
+%s must be converted to a %s virtual machine to be used in %s.||必须将 %s 转换为 %s 虚拟机，才能在 %s 中使用。
+%s version %s||%s 版本 %s
+(Connected to %s on Server)||（已连接到服务器上的 %s）
+(Connected to device on Server)||（已连接到服务器上的设备）
+(Devices reconnecting or unplugged from the host)||（正在重新连接或已从主机拔出的设备）
+(Disconnected)||（已断开连接）
+(Optional)||（可选）
+(none)||（无）
+(server)||（服务器）
+A LAN segment must be selected.||必须选择一个 LAN 网段。
+A Virtual Machine||虚拟机
+A role is a named set of privileges.||角色是一组已命名的权限。
+A role name cannot be blank.||角色名称不能为空。
+A_utomatically connect new USB devices||自动连接新的 USB 设备
+Add User or Group||添加用户或组
+All Items||所有项目
+All Privileges||所有权限
+All downloadable components are up to date.||所有可下载组件均为最新。
+Allow or restrict user access by assigning roles.||通过分配角色来允许或限制用户访问。
+An Application||应用程序
+An unknown error occurred||发生了未知错误
+Another user is currently editing the permissions for %s. Any changes will be shown as they happen.||另一位用户当前正在编辑 %s 的权限。任何更改都会实时显示。
+AutoProtect cannot be used because this virtual machine is using a physical disk.||由于此虚拟机正在使用物理磁盘，无法使用自动保护。
+AutoProtect will keep a range of snapshots to provide different restore options:||自动保护将保留一系列快照，以提供不同的恢复选项：
+BIOS||BIOS
+Browse for Downloaded Virtual Machine Location||浏览已下载虚拟机的位置
+Browse for Imported Virtual Machine Location||浏览已导入虚拟机的位置
+CD/DVD||CD/DVD
+C_lone||克隆
+Ca_talog:||目录：
+Cannot exit while still downloading.  Cancel all downloads and try again.||正在下载时无法退出。请取消所有下载后重试。
+Choose Image||选择映像
+Click %s to connect the %s installer CD to the virtual machine.\n\n%s||单击 %s 将 %s 安装程序 CD 连接到虚拟机。\n\n%s
+Client||客户端
+Clone of %s (%d)||%s（%d）的克隆
+Collapse this folder||折叠此文件夹
+Completed loading virtual machine information.||已完成加载虚拟机信息。
+Connect to Disk Image _File (flp)...||连接到磁盘映像文件 (flp)...
+Connect to Disk Image _File (iso)...||连接到磁盘映像文件 (iso)...
+Connect to Disk Image _File...||连接到磁盘映像文件...
+Connected||已连接
+Connecting to a file across sessions will work only for files in your Shared VMs directory.||跨会话连接文件仅适用于共享虚拟机目录中的文件。
+Connection Status:||连接状态：
+Connections||连接
+Create a new folder||创建新文件夹
+Custom (%s)||自定义 (%s)
+Custom Network cannot be empty.||自定义网络不能为空。
+Customize the installation||自定义安装
+Delete Role||删除角色
+Destination Folder||目标文件夹
+Destination Server||目标服务器
+Disconnected||已断开连接
+Do you want %s to remember the login information for %s?||是否要让 %s 记住 %s 的登录信息？
+Do you want to change the stored login information for %s?||是否要更改 %s 的已存储登录信息？
+Do you want to delete the virtual machine "%s" from the disk?\n\nDeleting from disk is irreversible!||是否要从磁盘删除虚拟机“%s”？\n\n从磁盘删除是不可逆的！
+Do you want to ignore these problems and proceed anyway?||是否要忽略这些问题并继续？
+Do you want to remove the team "%s" from the Library or delete it from disk?\n\nDeleting from disk is irreversible!||是否要从库中移除团队“%s”，还是从磁盘删除它？\n\n从磁盘删除是不可逆的！
+Do you want to remove the virtual machine "%s" from the Library or delete it from disk?\n\nDeleting from disk is irreversible!||是否要从库中移除虚拟机“%s”，还是从磁盘删除它？\n\n从磁盘删除是不可逆的！
+Download Virtual Machine||下载虚拟机
+Each device can be connected either to the host or one virtual machine at a time. Smart card readers can be connected to multiple virtual machines.||每个设备一次只能连接到主机或一台虚拟机。智能卡读卡器可以连接到多台虚拟机。
+Each device can only be connected to either the host or one virtual machine at a time.||每个设备一次只能连接到主机或一台虚拟机。
+Edit Roles||编辑角色
+Enable secure boot||启用安全启动
+Enabling VBS also enables UEFI, secure boot, Intel VT-x/EPT, and IOMMU.||启用 VBS 还会启用 UEFI、安全启动、Intel VT-x/EPT 和 IOMMU。
+Enter Password||输入密码
+Enter your proxy credentials in order for %s to check for updates and download components.||输入你的代理凭据，以便 %s 检查更新并下载组件。
+Error connecting remote device: %s||连接远程设备时出错：%s
+Error loading roles||加载角色时出错
+Error saving roles: %s||保存角色时出错：%s
+Error while modifying device: %s.||修改设备时出错：%s。
+Expand this folder||展开此文件夹
+Export failed: %s.||导出失败：%s。
+Failed to remove the password for %s: %s||无法移除 %s 的密码：%s
+Failed to retrieve the password for %s: %s||无法获取 %s 的密码：%s
+Failed to store the password for %s: %s||无法存储 %s 的密码：%s
+Favorites||收藏夹
+Free Space||可用空间
+Fro_m: ||来自：
+Full||已满
+Group||组
+H_ostname:||主机名：
+Hide _Downloads||隐藏下载
+Host:||主机：
+I _accept the terms in the license agreement.||我接受许可协议中的条款。
+I _do not accept the terms in the license agreement||我不接受许可协议中的条款
+ISO image file||ISO 映像文件
+If you do not download %s, installation will not be able to continue.||如果你不下载 %s，安装将无法继续。
+If you do not download the latest version of %s, the existing version will be installed.||如果你不下载最新版本的 %s，将安装现有版本。
+Inherited From||继承自
+Invalid Security Certificate||无效的安全证书
+Launching the daemon failed: Unable to find %s||启动守护进程失败：找不到 %s
+Loading datastores...||正在加载数据存储...
+Loading host...||正在加载主机...
+Loading hosts...||正在加载主机...
+Loading virtual machine configuration information||正在加载虚拟机配置信息
+Local (Across Sessions)||本地（跨会话）
+Local (Single Session)||本地（单会话）
+Local Client||本地客户端
+Manage Permissions For %s||管理 %s 的权限
+Network '%s' doesn't match any available item in the list. Please select a valid network from the list.||网络“%s”与列表中的任何可用项都不匹配。请从列表中选择一个有效的网络。
+New Fol_der||新建文件夹
+New Role||新建角色
+New Role (%d)||新建角色 (%d)
+No datastores found||未找到数据存储
+No destination location specified.||未指定目标位置。
+No users found||未找到用户
+None||无
+Notes||备注
+On Another Console||在另一个控制台上
+One or more of the virtual machine's disks are mounted on the host. To share the virtual machine, unmount the disks.||该虚拟机的一个或多个磁盘已挂载在主机上。要共享该虚拟机，请卸载这些磁盘。
+Open VM _directory||打开虚拟机目录
+Please review the following license agreement to continue||请查看以下许可协议以继续
+Proxy Server:||代理服务器：
+Proxy:||代理：
+Questions||问题
+Re_assign affected permissions to:||将受影响的权限重新分配给：
+Remote Server||远程服务器
+Remote device error: %s||远程设备错误：%s
+Remove "%s" from the library?||从库中移除“%s”？
+Remove "%s" from the library?\n\nThis will not delete virtual machines from disk.||从库中移除“%s”？\n\n这不会从磁盘删除虚拟机。
+Remove this item||移除此项目
+Ren_ame...||重命名...
+Rename this item||重命名此项目
+Role||角色
+Search virtual machine names, notes, and guest operating system types||搜索虚拟机名称、备注和客户机操作系统类型
+Select Library Node||选择库节点
+Select a datacenter or folder||选择数据中心或文件夹
+Select a privilege to view its description.||选择一个权限以查看其说明。
+Server Credentials||服务器凭据
+Set Password||设置密码
+Sho_w all USB input devices||显示所有 USB 输入设备
+Show the VM files in folder||在文件夹中显示虚拟机文件
+Snapshots cannot be used because this virtual machine is using a physical disk.||由于此虚拟机正在使用物理磁盘，无法使用快照。
+Sound is not supported over remote connections.||远程连接不支持声音。
+Statistics||统计信息
+Switch to list view||切换到列表视图
+Switch to thumbnail view||切换到缩略图视图
+Template mode cannot be turned on because this virtual machine is using a physical disk.||由于此虚拟机正在使用物理磁盘，无法开启模板模式。
+The IPC connection timed out||IPC 连接超时
+The Perl-based installer for VMware Tools for FreeBSD has been discontinued. FreeBSD systems are supported only through the open-vm-tools packages directly available from FreeBSD package repositories.||用于 FreeBSD 的基于 Perl 的 VMware Tools 安装程序已被停用。FreeBSD 系统仅通过可直接从 FreeBSD 软件包存储库获取的 open-vm-tools 软件包提供支持。
+The current host window manager does not support multiple monitors.||当前主机窗口管理器不支持多个显示器。
+The disk mode cannot be changed because the virtual machine has snapshots.||由于虚拟机存在快照，无法更改磁盘模式。
+The following devices can be connected to this virtual machine using the status bar or choosing VM > Removable Devices:||可以使用状态栏或选择“虚拟机”>“可移动设备”来将以下设备连接到此虚拟机：
+The following devices can be connected to this virtual machine using the status bar or choosing the 'Devices' menu:||可以使用状态栏或选择“设备”菜单来将以下设备连接到此虚拟机：
+The following software is available for download:||以下软件可供下载：
+The location "%s" already exists.||位置“%s”已存在。
+The name '%s' is already in use.||名称“%s”已被使用。
+The name '%s' is reserved for system use.||名称“%s”为系统保留。
+The proxy credentials you entered were incorrect.\n\nEnter your proxy credentials in order for %s to check for updates and download components.||你输入的代理凭据不正确。\n\n请输入你的代理凭据，以便 %s 检查更新并下载组件。
+The server you are connecting to is presenting a security certificate with the following problems:||你正在连接的服务器出示的安全证书存在以下问题：
+The specified password is not allowed.\n\nPasswords must contain only ASCII characters (English letters, digits, and punctuation).||不允许使用指定的密码。\n\n密码只能包含 ASCII 字符（英文字母、数字和标点符号）。
+The specified path is invalid or does not exist. Would you like to keep this setting anyway?||指定的路径无效或不存在。是否仍要保留此设置？
+The virtual machine name must not be longer than %d characters.||虚拟机名称长度不得超过 %d 个字符。
+The virtual machine needs to have a virtual CD/DVD device to install %s.||虚拟机需要具有虚拟 CD/DVD 设备才能安装 %s。
+The vmware-collect-host-support-info script could not be found on this system. Support data will not be collected.||在此系统上找不到 vmware-collect-host-support-info 脚本。将不会收集支持数据。
+There are no configurable options for USB controllers on this server.||此服务器上没有可配置的 USB 控制器选项。
+There are no software updates available at this time.||当前没有可用的软件更新。
+There was an error saving your change: %s||保存你的更改时出错：%s
+This host does not support IDE disks for older virtual machine versions.||此主机不支持旧版虚拟机的 IDE 磁盘。
+This virtual machine is encrypted.\nYou must enter its password to continue.||此虚拟机已加密。\n你必须输入其密码才能继续。
+Type||类型
+Type here to search||在此处输入以搜索
+UEFI||UEFI
+USB 1.1||USB 1.1
+USB 2.0||USB 2.0
+USB 3.2||USB 3.2
+USB Co_mpatibility:||USB 兼容性：
+Unable to find any local disks. You must be running as root to configure a physical disk.||找不到任何本地磁盘。你必须以 root 身份运行才能配置物理磁盘。
+Unable to install virtual printer on this virtual machine: %s||无法在此虚拟机上安装虚拟打印机：%s
+Unable to load permissions: %s||无法加载权限：%s
+Unable to load users: %s.||无法加载用户：%s。
+Unable to save %s device: Please specify a socket.||无法保存 %s 设备：请指定套接字。
+Update Server:||更新服务器：
+User||用户
+Using USB devices with a USB 3.2 controller may require additional drivers to be installed in the guest.||在客户机中使用 USB 3.2 控制器的 USB 设备可能需要安装额外的驱动程序。
+Using USB devices with a USB 3.2 controller may require additional drivers to be installed in the guest. <a href="%s">Download a USB 3.2 driver for this virtual machine.</a>||在客户机中使用 USB 3.2 控制器的 USB 设备可能需要安装额外的驱动程序。<a href=&quot;%s&quot;>为此虚拟机下载 USB 3.2 驱动程序。</a>
+VMware Encrypted VM: %s||VMware 加密虚拟机：%s
+VMware Saved Login: %s||VMware 已保存登录：%s
+VMware's Customer Experience Improvement Program ("CEIP") provides VMware with information that enables VMware to improve its products and services, to fix problems, and to advise you on how best to deploy and use our products. As part of the CEIP, VMware collects technical information about your organization's use of VMware products and services on a regular basis in association with your organization's VMware license key(s). This information does not personally identify any individual.\nAdditional information regarding the data collected through CEIP and the purposes for which it is used by VMware is set forth in the Trust &amp; Assurance Center at http://www.vmware.com/trustvmware/ceip.html.\n\nJoin the VMware Customer Experience Improvement Program ("CEIP")?\nIf you prefer not to participate in VMware's CEIP for this product, you should select "No" below.\nYou may join or leave VMware's CEIP for this product at any time.||VMware 客户体验改善计划（“CEIP”）向 VMware 提供信息，使 VMware 能够改进其产品和服务、修复问题，并就如何最好地部署和使用我们的产品向你提供建议。作为 CEIP 的一部分，VMware 会定期收集有关你所在组织使用 VMware 产品和服务的技术信息，并将其与你所在组织的 VMware 许可证密钥关联。这些信息不会识别任何个人身份。\n有关通过 CEIP 收集的数据以及 VMware 使用这些数据的目的的更多信息，请参见位于 http://www.vmware.com/trustvmware/ceip.html 的信任与保证中心。\n\n是否加入 VMware 客户体验改善计划（“CEIP”）？\n如果你不希望参与此产品的 VMware CEIP，应在下方选择“否”。\n你可以随时加入或退出此产品的 VMware CEIP。
+VNC Connection LED||VNC 连接指示灯
+VNC Connections: %s||VNC 连接：%s
+View Certificate||查看证书
+View _Downloads||查看下载
+Virtual Machine Name and Location||虚拟机名称和位置
+Virtual Machine Upload Wizard||虚拟机上传向导
+Virtual printers are not supported by this virtual machine.\n||此虚拟机不支持虚拟打印机。\n
+Waiting for host...||正在等待主机...
+What would you like to do?||你想做什么？
+Would you like to check for product updates on startup?||是否要在启动时检查产品更新？
+You do not have permission to write to the location "%s". Choose another location.||你无权写入位置“%s”。请选择其他位置。
+You must specify a password.||你必须指定密码。
+_%d. Connect to %s||%d. 连接到 %s
+_%d. Connect to %s (Auto detect)||%d. 连接到 %s（自动检测）
+_Always trust this host with this certificate||始终信任此主机的此证书
+_Collapse||折叠
+_Connect to %s on Server||连接到服务器上的 %s
+_Connect to device on Server||连接到服务器上的设备
+_Datastore:||数据存储：
+_Details||详细信息
+_Disconnect %s||断开 %s
+_Disconnect %s in Another Console||断开另一个控制台中的 %s
+_Disconnect %s on Server||断开服务器上的 %s
+_Disconnect device in Another Console||断开另一个控制台中的设备
+_Disconnect device on Server||断开服务器上的设备
+_Domain:||域：
+_Download||下载
+_Edit Roles...||编辑角色...
+_Never show this hint when starting a VM||启动虚拟机时不再显示此提示
+_Never show this when a new device is available||有新设备可用时不再显示此提示
+_Remove affected permissions||移除受影响的权限
+_Role:||角色：
+_Save username and password||保存用户名和密码
+_To: ||收件人：
+_vDC:||vDC：
+audio device||音频设备
+floppy||软盘
+floppy image file||软盘映像文件
+generic SCSI||通用 SCSI
+output file||输出文件
+parallel port||并行端口
+serial port||串行端口

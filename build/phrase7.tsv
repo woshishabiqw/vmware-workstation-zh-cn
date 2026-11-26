@@ -1,0 +1,139 @@
+"%s" is not a valid VNC URL.||“%s”不是有效的 VNC URL。
+%s: Does not support local VMs.\n||%s：不支持本地虚拟机。\n
+%s: Fullscreen mode requires a virtual machine to be specified.\n||%s：全屏模式需要指定虚拟机。\n
+%s: Invalid VMRC URL: %s\n||%s：无效的 VMRC URL：%s\n
+%s: No MKS path was specified in this URL: %s\n||%s：此 URL 中未指定 MKS 路径：%s\n
+%s: No SSL thumbprint was specified in this URL: %s\n||%s：此 URL 中未指定 SSL 指纹：%s\n
+%s: No host specified in URL: %s\n||%s：URL 中未指定主机：%s\n
+%s: No virtual machine ID was specified in this URL: %s\n||%s：此 URL 中未指定虚拟机 ID：%s\n
+%s: The ssl thumbprint parameter exceeds the maximum length.\n||%s：ssl 指纹参数超过最大长度。\n
+%s: The websocket parameter exceeds the maximum length.\n||%s：websocket 参数超过最大长度。\n
+%s: Too many arguments; only one virtual machine can be specified at a time.\n||%s：参数过多；一次只能指定一台虚拟机。\n
+%s: requires either a host or a VMRC URI as arguments.\n||%s：需要主机或 VMRC URI 作为参数。\n
+(Connected to %s network on Server)||（已连接到服务器上的 %s 网络）
+(Secondary) %s||（辅助）%s
+<Virtual machine config file>||<虚拟机配置文件>
+A managed object id indicating the VM to connect to||一个托管对象 ID，指示要连接的虚拟机
+Are you sure that you want to power off the virtual machine?\n\nPlease make sure that the virtual machine is in a safe state for shutdown; abrupt power off can damage data. When possible, shut down your virtual machine from its operating system.||确定要关闭虚拟机电源吗？\n\n请确保虚拟机处于可安全关机的状态；突然关闭电源可能会损坏数据。在可能的情况下，请从虚拟机的操作系统中将其关闭。
+Are you sure that you want to suspend the virtual machine?\n\nSuspend will preserve your environment and data for later use.||确定要挂起虚拟机吗？\n\n挂起会保留你的环境和数据，以供日后使用。
+Are you sure you want to reset the virtual machine?\n\nPlease make sure the virtual machine is in a safe state for shutdown; abrupt power off can damage data. When possible, shut down your virtual machine from its operating system.||确定要重置虚拟机吗？\n\n请确保虚拟机处于可安全关机的状态；突然关闭电源可能会损坏数据。在可能的情况下，请从虚拟机的操作系统中将其关闭。
+Are you sure you want to restart the virtual machine?\n\nPlease make sure the virtual machine is in a safe state for shutdown; abrupt power off can damage data.||确定要重启虚拟机吗？\n\n请确保虚拟机处于可安全关机的状态；突然关闭电源可能会损坏数据。
+Close Behavior||关闭行为
+Confirm _before closing a virtual machine||关闭虚拟机前确认
+Connect to VNC server - %s||连接到 VNC 服务器 - %s
+Connection Proxy Settings||连接代理设置
+Connection Proxy for Remote Virtual Machine||远程虚拟机的连接代理
+Create a new virtual machine, which will then be added to the top of your library.||创建新虚拟机，随后会将其添加到库的顶部。
+Datacenter containing the VM to open||包含要打开的虚拟机所在的数据中心
+Disconnect and _Quit||断开连接并退出
+Disconnected from remote VM.||已断开与远程虚拟机的连接。
+Disconnection failure: Cannot disconnect because there is no active connection.||断开连接失败：由于没有活动连接，无法断开。
+Disconnection successful.||断开连接成功。
+Display Behaviors||显示行为
+Display the program version||显示程序版本
+Do you want to remove the virtual machine "%s" from the library or delete it from disk?\n\nWarning! Deleting a virtual machine from disk is irreversible.||是否要从库中移除虚拟机“%s”，还是从磁盘删除它？\n\n警告！从磁盘删除虚拟机是不可逆的。
+Download||下载
+Download _All Components Now||立即下载所有组件
+Download a Virtual Appliance from the marketplace. You can then open it in %s.||从应用市场下载虚拟设备。然后你可以在 %s 中打开它。
+Enable connection proxy for remote virtual machine||为远程虚拟机启用连接代理
+Enter Full Screen mode||进入全屏模式
+Enter _Full Screen||进入全屏
+Error importing OVF: %s.||导入 OVF 时出错：%s。
+Error opening virtual machine %s: %s||打开虚拟机 %s 时出错：%s
+Error while changing power state: %s||更改电源状态时出错：%s
+Esc||Esc
+Exit Full Screen mode||退出全屏模式
+Exit _Full Screen||退出全屏
+Failed to connect to VNC server:||无法连接到 VNC 服务器：
+Get advanced features such as snapshots, virtual network management, and more.||获取快照、虚拟网络管理等高级功能。
+H_elp||帮助
+Hardware acceleration||硬件加速
+Hi_nts||提示
+Host Name:||主机名：
+Message _Log||消息日志
+OS:||操作系统：
+Open Virtual Machine||打开虚拟机
+Open a Virtual Machine||打开虚拟机
+Open an existing virtual machine, which will then be added to the top of your library.||打开现有虚拟机，随后会将其添加到库的顶部。
+P_ower||电源
+Password used to authenticate to the remote host||用于对远程主机进行身份验证的密码
+Password:||密码：
+Player Preferences||Player 首选项
+Player _Preferences||Player 首选项
+Player is currently closing. The virtual machine can be powered off if it is not responding. This is equivalent to suddenly unplugging the power cord of a physical computer. Do you want to power it off now?||Player 正在关闭。如果虚拟机没有响应，可以关闭其电源。这相当于突然拔掉物理计算机的电源线。是否立即关闭电源？
+Po_wer Off Guest||关闭客户机电源
+Po_wer Off Guest and Quit||关闭客户机电源并退出
+Power Off and _Quit||关闭电源并退出
+RAM:||RAM：
+Recently Used Virtual Machines||最近使用的虚拟机
+Remote Console Preferences||远程控制台首选项
+Remote Console _Preferences||远程控制台首选项
+Remote host containing VMs you wish to access||包含你要访问的虚拟机的远程主机
+Removable _Devices||可移动设备
+Request a Product _Feature||请求产品功能
+Resize the virtual machine and the window||调整虚拟机和窗口的大小
+Send _Ctrl+Alt+Del||发送 Ctrl+Alt+Del
+Server:||服务器：
+Show Help||显示帮助
+Show/hide toolbar||显示/隐藏工具栏
+Start in fullscreen mode||以全屏模式启动
+State:||状态：
+Stretch the virtual machine in the window||在窗口中拉伸虚拟机
+Suspend and _Quit||挂起并退出
+The VNC protocol does not provide for the confidentiality or integrity of a remote session, and should not be used over untrusted links. Recommended use is only over a trusted network such as a VPN, or SSH tunnel.\n\nDo you want to continue?||VNC 协议不保证远程会话的机密性或完整性，不应在不受信任的链路上使用。建议仅在受信任的网络（如 VPN 或 SSH 隧道）上使用。\n\n是否继续？
+The connection to the server has been lost.||与服务器的连接已断开。
+The virtual machine cannot be found at %s||在 %s 处找不到虚拟机
+The virtual machine is busy.||虚拟机正忙。
+This product participates in VMware's Customer Experience Improvement Program ("CEIP"). The CEIP provides VMware with information that enables VMware to improve its products and services, to fix problems, and to advise you on how best to deploy and use our products. As part of the CEIP, VMware collects technical information about your organization's use of VMware products and services on a regular basis in association with your organization's VMware license key(s). This information does not personally identify any individual. For additional information regarding the CEIP, please see the Trust &amp; Assurance Center at <a href="%s">%s</a>.||此产品参与 VMware 客户体验改善计划（“CEIP”）。CEIP 向 VMware 提供信息，使 VMware 能够改进其产品和服务、修复问题，并就如何最好地部署和使用我们的产品向你提供建议。作为 CEIP 的一部分，VMware 会定期收集有关你所在组织使用 VMware 产品和服务的技术信息，并将其与你所在组织的 VMware 许可证密钥关联。这些信息不会识别任何个人身份。有关 CEIP 的更多信息，请参见位于 <a href=&quot;%s&quot;>%s</a> 的信任与保证中心。
+This virtual machine is encrypted. In order to open it, provide the encryption password.||此虚拟机已加密。要打开它，请提供加密密码。
+This virtual machine is powered off or suspended||此虚拟机已关闭电源或已挂起
+To grab input, press Ctrl+G||要捕获输入，请按 Ctrl+G
+To release input, press %s||要释放输入，请按 %s
+Try '%s --help' for more information.\n||请尝试“%s --help”获取更多信息。\n
+Upgrade||升级
+Upgrade to VMware _Workstation Pro||升级到 VMware Workstation Pro
+User:||用户：
+Username used to authenticate to the remote host||用于对远程主机进行身份验证的用户名
+VM Window Resize:||虚拟机窗口大小调整：
+VM location:||虚拟机位置：
+VM log file:||虚拟机日志文件：
+V_NC Connection||VNC 连接
+View online help.||查看在线帮助。
+Virtual Machine Library||虚拟机库
+Virtual Machine Not Found||找不到虚拟机
+Virtual Machine _Settings||虚拟机设置
+Warning! This action is irreversible!\nAre you sure you want to delete the virtual machine "%s" permanently?||警告！此操作不可逆！\n确定要永久删除虚拟机“%s”吗？
+Welcome to VMware Player||欢迎使用 VMware Player
+Welcome to VMware Remote Console||欢迎使用 VMware Remote Console
+When using %s to open remote virtual machine, use the configured proxy setting for the connection.||使用 %s 打开远程虚拟机时，请为该连接使用已配置的代理设置。
+Where <Virtual machine config file> has the syntax:\n    vmrc://[<user>|(<ticket-type>:<ticket>)@]<host>[:<port>]/?moid=<VM-id>\n    [&httpproxy=<proxy server>[:<proxy port>][&proxyuser=<proxy username>]\n    [&proxypasswd=<proxy auth password>]]\nor has the syntax:\n    vmrc://settings\n\n    example: vmrc://clone:ticket@vsphere-server/?moid=42\n    example: vmrc://username@vsphere-server/?moid=79\n    example: vmrc://<host>[:port]/?moid=1&httpproxy=<server>&proxyuser=<name>\n    exmaple: vmrc://settings\n\nHints:\n    The '&' character in <proxy username> or <proxy auth password>\n    should be encoded as '%26'.\n\nThe following arguments may be used for MKS connections:\n    &websocket=<WebSocket URL>\n    &mksticket=<ticket>\n    &thumbprint=<SSL thumbprint>\n    &path=<VM path>\n\n    example: vmrc://vRAserver/?thumbprint=aa:bb:cc\n             &websocket=wss://host:443/ticket/123\n||其中 <虚拟机配置文件> 的语法为：\n    vmrc://[<user>|(<ticket-type>:<ticket>)@]<host>[:<port>]/?moid=<VM-id>\n    [&httpproxy=<proxy server>[:<proxy port>][&proxyuser=<proxy username>]\n    [&proxypasswd=<proxy auth password>]]\n或语法为：\n    vmrc://settings\n\n    示例：vmrc://clone:ticket@vsphere-server/?moid=42\n    示例：vmrc://username@vsphere-server/?moid=79\n    示例：vmrc://<host>[:port]/?moid=1&httpproxy=<server>&proxyuser=<name>\n    示例：vmrc://settings\n\n提示：\n    <proxy username> 或 <proxy auth password> 中的 '&' 字符\n    应编码为 '%26'。\n\n以下参数可用于 MKS 连接：\n    &websocket=<WebSocket URL>\n    &mksticket=<ticket>\n    &thumbprint=<SSL thumbprint>\n    &path=<VM path>\n\n    示例：vmrc://vRAserver/?thumbprint=aa:bb:cc\n             &websocket=wss://host:443/ticket/123\n
+_Browse for Virtual Machine||浏览虚拟机
+_Connect (Disconnect from host)||连接（断开与主机的连接）
+_Create a New VM||创建新虚拟机
+_Delete VM from Disk||从磁盘删除虚拟机
+_Disconnect %s (Auto detect)||断开 %s（自动检测）
+_Disconnect (Connect to host)||断开（连接到主机）
+_Download a Virtual Appliance||下载虚拟设备
+_Edit virtual machine settings||编辑虚拟机设置
+_Help Contents||帮助内容
+_Host-only||仅主机
+_Leave the virtual machine running||让虚拟机保持运行
+_Open a VM||打开虚拟机
+_Open a Virtual Machine||打开虚拟机
+_Other||其他
+_Power On Guest||启动客户机
+_Power off the virtual machine||关闭虚拟机电源
+_Quit||退出
+_Remove VM from the Library||从库中移除虚拟机
+_Remove Virtual Machine from Library||从库中移除虚拟机
+_Reset Guest||重置客户机
+_Send Ctrl+Alt+Del||发送 Ctrl+Alt+Del
+_Snapshot||快照
+_Suspend Guest and Quit||挂起客户机并退出
+_Suspend the virtual machine||挂起虚拟机
+_Virtual Machine||虚拟机
+datacenter||datacenter
+host:port||host:port
+moid||moid
+password||password
+username||username

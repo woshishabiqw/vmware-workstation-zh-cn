@@ -1,0 +1,289 @@
+%d days left||剩余 %d 天
+%s - version %s||%s - 版本 %s
+%s Activation||%s 激活
+%s Movie||%s 影片
+%s aborted.||%s 已中止。
+%s is connected to a device in another console. Are you sure that you want to disconnect this remote device?||%s 已连接到另一个控制台中的设备。确定要断开此远程设备吗？
+%s is connecting to the update server...||%s 正在连接到更新服务器...
+(unavailable)||（不可用）
+1 day left||剩余 1 天
+3D acceleration is not supported in this guest operating system.||此客户机操作系统不支持 3D 加速。
+A certificate error occurred while connecting to the update server. Check your Internet settings or contact your system administrator.||连接更新服务器时发生证书错误。请检查你的 Internet 设置或联系系统管理员。
+A certificate in the host's chain does not have a valid signature.||主机证书链中的某个证书没有有效签名。
+A certificate in the host's chain has an unknown revocation status.||主机证书链中的某个证书的吊销状态未知。
+A certificate in the host's chain is based on an untrusted root.||主机证书链中的某个证书基于不受信任的根。
+A certificate in the host's chain is explicitly not trusted.||主机证书链中的某个证书被明确设置为不信任。
+A certificate in the host's chain is not time-valid.||主机证书链中的某个证书在时间上无效。
+A certificate in the host's chain is not valid in its proposed usage.||主机证书链中的某个证书在其预期用途上无效。
+A certificate trust list used to create this chain did not have a valid signature.||用于创建此链的证书信任列表没有有效签名。
+A certificate trust list used to create this chain is not valid for this usage.||用于创建此链的证书信任列表不适用于此用途。
+A certificate trust list used to create this chain was not time-valid.||用于创建此链的证书信任列表在时间上无效。
+A communication error occurred for the update server (HTTP 403). Check your Internet settings or contact your system administrator.||与更新服务器通信时出错 (HTTP 403)。请检查你的 Internet 设置或联系系统管理员。
+A communication error occurred with the update server (%s). Try again later and if the problem persists, contact VMware Support or your system administrator.||与更新服务器通信时出错 (%s)。请稍后重试，如果问题仍然存在，请联系 VMware 支持或系统管理员。
+A cycle in the certificate chain of trust was detected.||检测到证书信任链中存在循环。
+A valid license key is required to power on virtual machines.||需要有效的许可证密钥才能开启虚拟机电源。
+AMD Opteron "Piledriver" Generation||AMD Opteron “Piledriver” 代
+AMD Opteron "Steamroller" Generation||AMD Opteron “Steamroller” 代
+AMD Opteron Gen. 3 (no 3DNow!)||AMD Opteron 第 3 代（无 3DNow！）
+AMD Opteron Generation 1||AMD Opteron 第 1 代
+AMD Opteron Generation 2||AMD Opteron 第 2 代
+AMD Opteron Generation 3||AMD Opteron 第 3 代
+AMD Opteron Generation 4||AMD Opteron 第 4 代
+AMD Zen Generation||AMD Zen 代
+AVI Movies (*.avi)||AVI 影片 (*.avi)
+Aborted||已中止
+Administrative privileges are needed to complete the software update.||完成软件更新需要管理员权限。
+All Files||所有文件
+All Folders||所有文件夹
+All Image Files||所有映像文件
+All updates finished.||所有更新已完成。
+An authorization error occurred for the proxy server (HTTP 407). Try again later and if the problem persists, contact your system administrator.||代理服务器发生授权错误 (HTTP 407)。请稍后重试，如果问题仍然存在，请联系系统管理员。
+An authorization error occurred for the update server (HTTP 401). Check your Internet settings or contact your system administrator.||更新服务器发生授权错误 (HTTP 401)。请检查你的 Internet 设置或联系系统管理员。
+An error occurred contacting the proxy server. Check your Internet and proxy settings or contact your system administrator.||联系代理服务器时出错。请检查你的 Internet 和代理设置或联系系统管理员。
+An error occurred for %s.||%s 发生错误。
+An error occurred retrieving data from the server.||从服务器检索数据时出错。
+An error occurred when trying to check the server's SSL certificate.||尝试检查服务器的 SSL 证书时出错。
+An error occurred while reading/writing files. Try again later and if the problem persists, contact your system administrator.||读取/写入文件时出错。请稍后重试，如果问题仍然存在，请联系系统管理员。
+An invalid URL was specified for the update or proxy server. Check your configuration file and/or contact your system administrator.||为更新服务器或代理服务器指定的 URL 无效。请检查你的配置文件并/或联系系统管理员。
+Available Updates||可用更新
+BMP Files (*.bmp)||BMP 文件 (*.bmp)
+Bad Gateway||错误网关
+Bad Request||错误请求
+Canceled||已取消
+Canceled: %s||已取消：%s
+Cannot check for software updates while downloading %s.\n\nWait until the download of %s finishes or cancel the download.||正在下载 %s 时无法检查软件更新。\n\n请等待 %s 的下载完成或取消下载。
+Cannot connect the device "%s": %s||无法连接设备“%s”：%s
+Cannot download software updates while downloading %s.\n\nWait until the download of %s finishes or cancel the download.||正在下载 %s 时无法下载软件更新。\n\n请等待 %s 的下载完成或取消下载。
+Certificates in the host's certificate chain are not properly time-nested.||主机证书链中的证书在时间上未正确嵌套。
+Changes to the amount of memory will not take effect until the virtual machine is powered off.||对内存量的更改只有在虚拟机关闭电源后才会生效。
+Check that the device exists and that it is not being used by another program.||请检查该设备是否存在，以及是否未被其他程序使用。
+Check that you have sufficient permissions to use the virtual CD/DVD drive in passthrough mode, or configure it to use emulated mode instead.||请检查你是否有足够的权限以直通模式使用虚拟 CD/DVD 驱动器，或将其配置为使用模拟模式。
+Compacting virtual disk...||正在压缩虚拟磁盘...
+Component no longer available||组件不再可用
+Conflict||冲突
+Connecting to update server...||正在连接到更新服务器...
+Connection timed out.||连接超时。
+Copying %s...||正在复制 %s...
+Copying...||正在复制...
+Corrupt file received from update server. Check your network connectivity and try again later. If the problem persists, contact VMware Support or your system administrator.||从更新服务器收到损坏的文件。请检查网络连接并稍后重试。如果问题仍然存在，请联系 VMware 支持或系统管理员。
+Could not connect to the update server. Check your Internet settings or contact your system administrator.||无法连接到更新服务器。请检查你的 Internet 设置或联系系统管理员。
+Could not find local USB device "%s".||找不到本地 USB 设备“%s”。
+Could not find product update on update server. Contact VMware Support or your system administrator.||在更新服务器上找不到产品更新。请联系 VMware 支持或系统管理员。
+Could not open the client device "%s". %s||无法打开客户端设备“%s”。%s
+Could not open the client device. %s||无法打开客户端设备。%s
+Could not resolve host.||无法解析主机。
+Could not resolve proxy.||无法解析代理。
+Defragmenting virtual disk...||正在对虚拟磁盘进行碎片整理...
+Device "%s" disconnected.||设备“%s”已断开连接。
+Disconnected - %s||已断开连接 - %s
+Disconnected - Software update preference is set to not check for updates.||已断开连接 - 软件更新首选项设置为不检查更新。
+Download of %s pending...||%s 的下载待处理...
+Download pending...||下载待处理...
+Downloading %s...||正在下载 %s...
+Downloading...||正在下载...
+Enter %s?\n\n||输入 %s？\n\n
+Enter your license key to activate %s.||输入你的许可证密钥以激活 %s。
+Error reading update manifest files (%s). Check your network connectivity and try again later. If the problem persists, contact VMware Support or your system administrator.||读取更新清单文件 (%s) 时出错。请检查网络连接并稍后重试。如果问题仍然存在，请联系 VMware 支持或系统管理员。
+Error sending HTTP request.||发送 HTTP 请求时出错。
+Error toggling removable device: %s||切换可移动设备时出错：%s
+Error updating %s. See details for more information.||更新 %s 时出错。请查看详细信息了解更多。
+Error: %s||错误：%s
+Exclusive mode||独占模式
+Expanding virtual disk...||正在扩展虚拟磁盘...
+Expectation Failed||期望失败
+Extracting %s...||正在提取 %s...
+Extracting...||正在提取...
+Failure connecting removable device %s: %s.||连接可移动设备 %s 失败：%s。
+Failure disconnecting removable device %s: %s.||断开可移动设备 %s 失败：%s。
+File not found: %s\n\n%s||找不到文件：%s\n\n%s
+Finished||已完成
+Finished updating||已完成更新
+Finished updating %s.||已完成更新 %s。
+Finished: %s||已完成：%s
+Floppy Images (*.flp, *.img)||软盘映像 (*.flp, *.img)
+Forbidden||禁止
+GIF Files (*.gif)||GIF 文件 (*.gif)
+Gateway Timeout||网关超时
+Gone||已不存在
+HTTP Version Not Supported||不支持 HTTP 版本
+HTTP exchange canceled.||HTTP 交换已取消。
+Host "%s" does not have an SSL certificate or thumbprint. Refusing connection.||主机“%s”没有 SSL 证书或指纹。拒绝连接。
+ISO Images (*.iso)||ISO 映像 (*.iso)
+Install of %s failed. Contact VMware Support or your system administrator.||安装 %s 失败。请联系 VMware 支持或系统管理员。
+Intel "Broadwell" Generation||Intel “Broadwell” 代
+Intel "Haswell" Generation||Intel “Haswell” 代
+Intel "Ivy Bridge" Generation||Intel “Ivy Bridge” 代
+Intel "Merom" Generation||Intel “Merom” 代
+Intel "Nehalem" Generation||Intel “Nehalem” 代
+Intel "Penryn" Generation||Intel “Penryn” 代
+Intel "Sandy Bridge" Generation||Intel “Sandy Bridge” 代
+Intel "Skylake" Generation||Intel “Skylake” 代
+Intel "Westmere" Generation||Intel “Westmere” 代
+Internal Server Error||内部服务器错误
+Internal error (no client).\nContact VMware Support or your system administrator.||内部错误（无客户端）。\n请联系 VMware 支持或系统管理员。
+Invalid file received from the update server (%s). Check your network connectivity and try again later. If the problem persists, contact VMware Support or your system administrator.||从更新服务器收到无效文件 (%s)。请检查网络连接并稍后重试。如果问题仍然存在，请联系 VMware 支持或系统管理员。
+JPEG Files (*.jpg, *.jpeg)||JPEG 文件 (*.jpg, *.jpeg)
+Legacy Virtual Machines (*.cfg)||旧版虚拟机 (*.cfg)
+Length Required||需要长度
+Locate missing file: %s||定位缺失的文件：%s
+Method Not Allowed||方法不允许
+No Response||无响应
+No administrative privileges were provided to complete the software update.||未提供完成软件更新所需的管理员权限。
+No pending updates.||没有待处理的更新。
+Not Acceptable||不可接受
+Not Found||未找到
+Not Implemented||未实现
+Not connected to the update server. See details for more information.||未连接到更新服务器。请查看详细信息了解更多。
+Obtain a license key online at our website.||在我们的网站上在线获取许可证密钥。
+One of the certificates has an invalid extension.||其中一个证书的扩展无效。
+Open Virtualization Format VMs (*.ovf, *.ova)||开放虚拟化格式虚拟机 (*.ovf, *.ova)
+Other error: %zu.||其他错误：%zu。
+Output Files (*.txt)||输出文件 (*.txt)
+PNG Files (*.png)||PNG 文件 (*.png)
+Payment Required||需要付款
+Precondition Failed||前提条件失败
+Proxy Authorization Required||需要代理授权
+Purchase a license key online at the VMware Store.||在 VMware 商店在线购买许可证密钥。
+Purchase or obtain an evaluation license key online at the VMware Store.||在 VMware 商店在线购买或获取评估许可证密钥。
+Receive the latest information and announcements about %s products and services, and the opportunity to receive 30 days of complimentary Web-based support.||获取有关 %s 产品和服务的最新信息和公告，并有机会获得 30 天的免费基于 Web 的支持。
+Reconfiguring virtual disk...||正在重新配置虚拟磁盘...
+Registering will provide you with the latest information and announcements about %s products and services.||注册后你将获得有关 %s 产品和服务的最新信息和公告。
+Request Entity Too Large||请求实体过大
+Request Range Not Satisfiable||请求范围无法满足
+Request Timeout||请求超时
+Request Too Long||请求过长
+Restricting the available CPU features helps allow snapshots or suspended instances of this VM to be resumed on other hosts.||限制可用的 CPU 功能有助于让此虚拟机的快照或挂起实例能在其他主机上恢复。
+Security error connecting to server.||连接到服务器时发生安全错误。
+Server returned %s (%d)||服务器返回 %s (%d)
+Service Unavailable||服务不可用
+Snapshot not found. The selected snapshot may have been deleted by another user.||找不到快照。所选快照可能已被其他用户删除。
+Snapshots (*.vmsn)||快照 (*.vmsn)
+Snapshots cannot be taken of Workstation 4.x or older virtual machines.||无法为 Workstation 4.x 或更早版本的虚拟机拍摄快照。
+Snapshots cannot be taken of virtual machines that are read-only.||无法为只读虚拟机拍摄快照。
+Snapshots cannot be taken of virtual machines with independent disks while they are running or suspended.||无法为具有独立磁盘且正在运行或已挂起的虚拟机拍摄快照。
+Snapshots cannot be used with virtual machines that have raw disks.||具有原始磁盘的虚拟机无法使用快照。
+Software Updates: %s||软件更新：%s
+Software update internal client error (%s). Contact VMware Support or your system administrator.||软件更新内部客户端错误 (%s)。请联系 VMware 支持或系统管理员。
+Some modes will cause the virtual machine failed to power on.||某些模式会导致虚拟机无法开机。
+Starting download: %s||开始下载：%s
+Step 1: Buy %s||第 1 步：购买 %s
+Step 1: Get %s||第 1 步：获取 %s
+Step 1: Get License Key||第 1 步：获取许可证密钥
+Step 2: Enter license key||第 2 步：输入许可证密钥
+Step 3: Register your version of %s||第 3 步：注册你的 %s 版本
+Success||成功
+Teams (*.vmtm)||团队 (*.vmtm)
+Thank you for beta testing %s!||感谢你参与 %s 的 Beta 测试！
+Thank you for evaluating %s!||感谢你评估 %s！
+Thank you for installing %s!||感谢你安装 %s！
+The adjusted memory value must be a multiple of %u MB for this guest operating system while it is running.\n\nThe nearest allowed values are %u and %u MB.||此客户机操作系统在运行时的调整后内存值必须是 %u MB 的倍数。\n\n最接近的允许值为 %u 和 %u MB。
+The certificate does not have a valid signature.||证书没有有效签名。
+The certificate does not support a critical extension.||证书不支持某个关键扩展。
+The certificate has an incorrect version number.||证书的版本号不正确。
+The certificate has an unknown revocation status.||证书的吊销状态未知。
+The certificate is based on an untrusted root.||证书基于不受信任的根。
+The certificate is explicitly not trusted.||证书被明确设置为不信任。
+The certificate is not properly time-nested.||证书在时间上未正确嵌套。
+The certificate is not time-valid.||证书在时间上无效。
+The certificate is not valid for its proposed usage.||证书在其预期用途上无效。
+The certificate is part of a cycle in its chain of trust.||证书是其信任链中循环的一部分。
+The certificate or one of the certificates in the certificate chain is either missing a required basic constraints extension, or one is present and either the certificate cannot be used to issue other certificates, or the chain path length has been exceeded.||证书或证书链中的某个证书缺少必需的基本约束扩展，或者存在该扩展但证书不能用于签发其他证书，或已超过链路径长度。
+The certificate uses an unsafe digest algorithm.||证书使用了不安全的摘要算法。
+The connection to the update server timed out. Try again later. If the problem persists, contact VMware Support or your system administrator.||与更新服务器的连接超时。请稍后重试。如果问题仍然存在，请联系 VMware 支持或系统管理员。
+The connection to the update server was lost. Try again later. If the problem persists, contact VMware Support or your system administrator.||与更新服务器的连接已断开。请稍后重试。如果问题仍然存在，请联系 VMware 支持或系统管理员。
+The database could not be found on the update server (HTTP 404). Check your configuration file or contact your system administrator.||在更新服务器上找不到数据库 (HTTP 404)。请检查你的配置文件或联系系统管理员。
+The device "%s" disconnected: %s||设备“%s”已断开连接：%s
+The device "%s" is not configured to support connections to client device backings.||设备“%s”未配置为支持连接到客户端设备后端。
+The device with key "%s" can not be found.||找不到键为“%s”的设备。
+The device with key "%s" is already connected.||键为“%s”的设备已连接。
+The download was aborted.||下载已中止。
+The host certificate chain is not complete.||主机证书链不完整。
+The host name used for the connection does not match the subject name on the host certificate.||用于连接的主机名与主机证书上的主体名称不匹配。
+The host's certificate is self-signed.||主机的证书是自签名的。
+The key size is too small.||密钥大小太小。
+The memory value cannot be set to %u MB while this virtual machine is running.\n\nThe nearest allowed memory values for this guest operating system are %u MB or the original value of %u MB.||此虚拟机正在运行时无法将内存值设置为 %u MB。\n\n此客户机操作系统最接近的允许内存值为 %u MB 或原始值 %u MB。
+The operation completed before you canceled it.||操作在你取消之前已完成。
+The temporary directory %s is not writable. Make it writable and try again.||临时目录 %s 不可写。请使其可写后重试。
+The virtual machine might not be able to use all of the configured graphics memory unless the total system memory is increased to %s. The total virtual machine memory can be adjusted in the Memory settings page.||除非将系统总内存增加到 %s，否则虚拟机可能无法使用所有已配置的图形内存。虚拟机总内存可在“内存”设置页中调整。
+The virtual machine must be powered off to reduce the amount of memory.||必须关闭虚拟机电源才能减少内存量。
+There was a problem updating a software component. Try again later and if the problem persists, contact VMware Support or your system administrator.||更新软件组件时出现问题。请稍后重试，如果问题仍然存在，请联系 VMware 支持或系统管理员。
+This beta has expired. You need a newer version to power on virtual machines.||此 Beta 版已过期。你需要更新的版本才能开启虚拟机电源。
+This certificate's extended key usage extension does not allow it to be used for server authentication.||此证书的扩展密钥用法扩展不允许将其用于服务器身份验证。
+This file is required to clone this virtual machine.  If this file was moved, please provide its new location.||克隆此虚拟机需要此文件。如果此文件已被移动，请提供其新位置。
+This virtual machine contains an embedded certificate store. When connecting to %s the server presented a certificate with the following problems:||此虚拟机包含嵌入式证书存储。连接到 %s 时，服务器出示的证书存在以下问题：
+This virtual machine has '%s' enabled, but you are trying to use a guest operating system that does not support '%s'. Discard your changes or choose a different guest operating system.||此虚拟机已启用“%s”，但你尝试使用的客户机操作系统不支持“%s”。请放弃你的更改或选择其他客户机操作系统。
+This virtual machine is a template. It can be cloned only from an existing snapshot.||此虚拟机是模板。只能从现有快照进行克隆。
+This virtual machine is read-only. You must set it as a template to create linked clones from it.||此虚拟机是只读的。你必须将其设置为模板才能从中创建链接克隆。
+To enable DPI synchronization in the virtual machine, update VMware Tools.||要在虚拟机中启用 DPI 同步，请更新 VMware Tools。
+To leave %s, press the %s key combination.||要离开 %s，请按 %s 组合键。
+To leave %s, press the %s key.||要离开 %s，请按 %s 键。
+Tools packages are not available locally and cannot be downloaded while updating %s.\n\nWait until the product update finishes or cancel it.||Tools 软件包在本地不可用，且在更新 %s 时无法下载。\n\n请等待产品更新完成或取消更新。
+Tools packages cannot be downloaded while updating %s.\n\nWait until the product update finishes or cancel it.||更新 %s 时无法下载 Tools 软件包。\n\n请等待产品更新完成或取消更新。
+Trust for a certificate in the host's chain has been revoked.||主机证书链中某个证书的信任已被吊销。
+Trust for the certificate has been revoked.||证书的信任已被吊销。
+Unable to cancel download of %s: %s||无法取消 %s 的下载：%s
+Unable to connect for updates at the moment. For more information, see https://knowledge.broadcom.com/external/article?articleNumber=395172||目前无法连接以进行更新。有关详细信息，请访问 https://knowledge.broadcom.com/external/article?articleNumber=395172
+Unable to download because there is no connection to the update server. Check your Internet and proxy settings.||由于未连接到更新服务器，无法下载。请检查你的 Internet 和代理设置。
+Unable to find match for component %s.||无法找到与组件 %s 匹配的项。
+Unauthorized||未授权
+Unknown HTTP error.||未知 HTTP 错误。
+Unknown error.||未知错误。
+Unknown software update error (%s). Contact VMware Support or your system administrator.||未知的软件更新错误 (%s)。请联系 VMware 支持或系统管理员。
+Unsupported Media Type||不支持的媒体类型
+Update of %s pending...||%s 的更新待处理...
+Update pending...||更新待处理...
+Updating %s...||正在更新 %s...
+Updating...||正在更新...
+User canceled download.||用户取消了下载。
+VMware Fusion Core||VMware Fusion Core
+VMware Horizon Client For Mac||VMware Horizon Client（Mac 版）
+VMware OVFTool||VMware OVFTool
+VMware Player for Linux||VMware Player（Linux 版）
+VMware Player for Windows||VMware Player（Windows 版）
+VMware Remote Console for Linux||VMware Remote Console（Linux 版）
+VMware Remote Console for Windows||VMware Remote Console（Windows 版）
+VMware Remote Console for macOS||VMware Remote Console（macOS 版）
+VMware Tools for %s||适用于 %s 的 VMware Tools
+VMware Tools for Windows Vista or later||适用于 Windows Vista 或更高版本的 VMware Tools
+VMware Tools for Windows on ARM64||适用于 ARM64 上 Windows 的 VMware Tools
+VMware Workstation for Linux||VMware Workstation（Linux 版）
+VMware Workstation for Windows||VMware Workstation（Windows 版）
+Verifying %s...||正在验证 %s...
+Verifying...||正在验证...
+Virtual Disks (*.vmdk)||虚拟磁盘 (*.vmdk)
+Virtual Machine Metadata Files (*.vmxf)||虚拟机元数据文件 (*.vmxf)
+Virtual Machines (*.vmx)||虚拟机 (*.vmx)
+Virtual Machines (*.vmx, *.ovf, *.ova)||虚拟机 (*.vmx, *.ovf, *.ova)
+Virtual Machines and Teams||虚拟机和团队
+Virtualized VT-x/EPT or AMD-V/RVI will only be used when VT-x/EPT or AMD-V/RVI is supported on the current host. Enabling this option will make this VM incompatible with other VMware products.||仅当当前主机支持 VT-x/EPT 或 AMD-V/RVI 时，才会使用虚拟化的 VT-x/EPT 或 AMD-V/RVI。启用此选项会使此虚拟机与其他 VMware 产品不兼容。
+Visit our website to get the latest version.||访问我们的网站获取最新版本。
+WARNING: The certificate for this server has changed since you last connected. This could indicate a possible eavesdrop (man-in-the-middle) attack.||警告：此服务器的证书自你上次连接以来已更改。这可能表明存在窃听（中间人）攻击。
+You cannot enter exclusive mode while the virtual machine is paused.||虚拟机处于暂停状态时无法进入独占模式。
+You cannot make a clone of a Workstation 4.x virtual machine.||无法克隆 Workstation 4.x 虚拟机。
+You cannot make a clone of a recording.||无法克隆录制。
+You cannot make a clone of a shared or remote virtual machine.||无法克隆共享或远程虚拟机。
+You cannot make a clone of a virtual machine or snapshot that is powered on or suspended.||无法克隆已开启电源或已挂起的虚拟机或快照。
+You cannot make a clone of a virtual machine with a physical disk.||无法克隆使用物理磁盘的虚拟机。
+You cannot make a clone while the virtual machine is in the middle of an operation which might be modifying its disk.||当虚拟机正在执行可能修改其磁盘的操作时，无法进行克隆。
+You cannot make a linked clone of a virtual machine or snapshot with an independent disk.||无法创建带独立磁盘的虚拟机或快照的链接克隆。
+You cannot make a linked clone of an encrypted virtual machine.||无法创建加密虚拟机的链接克隆。
+You must update Tools to enable 3D acceleration in this virtual machine.||你必须更新 Tools 才能在此虚拟机中启用 3D 加速。
+Your current subscription has expired. Please make sure to renew your license for continued support. Note: Workstation Pro is now licensed for personal use.||你当前的订阅已过期。请务必续订许可证以继续获得支持。注意：Workstation Pro 现已按个人用途授权。
+Your hard drive is full. Free some space and try again.||你的硬盘已满。请释放一些空间后重试。
+Your license expires in %d days.||你的许可证将在 %d 天后过期。
+Your license expires in 1 day.||你的许可证将在 1 天后过期。
+Your system is out of date. Ensure the required software is installed or contact your system administrator.||你的系统已过时。请确保已安装所需的软件或联系系统管理员。
+a connection error occurred.||发生连接错误。
+a connection error occurred. The server side WebSocket connection limit has been exceeded. This can be adjusted on the server side to allow more concurrent connections.||发生连接错误。已超过服务器端 WebSocket 连接限制。可在服务器端调整此限制以允许更多并发连接。
+a connection error occurred. The web remote device ticket has expired.||发生连接错误。Web 远程设备票据已过期。
+all USB ports are currently being used. To connect this device, disconnect another USB device and try again.||所有 USB 端口当前都在使用中。要连接此设备，请断开另一个 USB 设备后重试。
+e.x.p build-%05u||e.x.p build-%05u
+it is not safe to connect the device to the virtual machine. In general, USB mice and keyboards appear as PS/2 devices and should not be connected as USB peripherals. USB devices containing files in use by a running virtual machine cannot be connected to the virtual machine. See the product documentation for more information.||将此设备连接到虚拟机不安全。通常，USB 鼠标和键盘显示为 PS/2 设备，不应作为 USB 外设连接。包含正在运行的虚拟机所用文件的 USB 设备无法连接到该虚拟机。有关详细信息，请参阅产品文档。
+the USB device is already connected to another virtual machine.||该 USB 设备已连接到另一台虚拟机。
+the USB device is no longer attached to the computer.||该 USB 设备已不再连接到计算机。
+the client requested disconnection.||客户端请求断开连接。
+the device is already connected.||该设备已连接。
+the host is currently using the USB device. Close applications that might be accessing the device, then try again.||主机当前正在使用该 USB 设备。请关闭可能正在访问该设备的应用程序，然后重试。
+the host requires this USB device for input.||主机需要此 USB 设备作为输入。
+the server requested disconnection.||服务器请求断开连接。
+the virtual machine has reached the maximum number of connected USB devices.||该虚拟机已达到可连接 USB 设备的最大数量。

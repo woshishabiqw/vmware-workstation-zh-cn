@@ -1,0 +1,338 @@
+%d MB||%d MB
+%s  Your preference to create %s by default will not apply.||%s  你默认创建 %s 的首选项将不会生效。
+%s (Recommended)||%s（推荐）
+%s (recommended)||%s（推荐）
+%s could not find a suitable default browser and is therefore unable to provide the information you requested. Please install Google Chrome or Mozilla Firefox. If you wish to use a different web browser, please place the following in your %s/preferences file:\n\npref.webBrowser = "/path/to/browser"||%s 找不到合适的默认浏览器，因此无法提供你请求的信息。请安装 Google Chrome 或 Mozilla Firefox。如果你想使用其他 Web 浏览器，请将以下内容放入你的 %s/preferences 文件中：\n\npref.webBrowser = &quot;/path/to/browser&quot;
+%s detected.||已检测到 %s。
+%u MB||%u MB
+'%s' doesn't match any available item in the list: Please select a valid device from the list.||“%s”与列表中的任何可用项都不匹配：请从列表中选择一个有效的设备。
+(optional)||（可选）
+3D Graphics||3D 图形
+A password requires a username.||密码需要用户名。
+Accelerate _3D graphics||加速 3D 图形
+Ad_vanced||高级
+Ad_vanced...||高级...
+Add Hardware Wizard||添加硬件向导
+Add a Shared Folder||添加共享文件夹
+Additional Information||附加信息
+Allow the guest operating system to use this serial port in polled mode (as opposed to interrupt mode).||允许客户机操作系统以轮询模式（而非中断模式）使用此串行端口。
+Always _enabled||始终启用
+Always ask for location||始终询问位置
+An unknown error occurred while taking a screen capture of the virtual machine.||截取虚拟机屏幕截图时发生未知错误。
+An unknown error occurred while taking a screen capture of the virtual machine. The PNG buffer was corrupted.||截取虚拟机屏幕截图时发生未知错误。PNG 缓冲区已损坏。
+Attributes||属性
+Br_idged: Connected directly to the physical network||桥接：直接连接到物理网络
+Bro_wse...||浏览...
+Browse for CD/DVD Image File||浏览 CD/DVD 映像文件
+Browse for Floppy Image File||浏览软盘映像文件
+Browse for Host Path||浏览主机路径
+Browse for custom location...||浏览自定义位置...
+CPU Compatibility||CPU 兼容性
+C_lear||清除
+C_onfirm:||确认：
+C_ustom: Specific virtual network||自定义：特定虚拟网络
+Cannot access this device. Specify another device or select a different option to continue.||无法访问此设备。请指定其他设备或选择其他选项以继续。
+Cannot read this file. Specify a different file or select a different option to continue.||无法读取此文件。请指定其他文件或选择其他选项以继续。
+Capture Screen||截屏
+Change Hardware Compatibility Wizard||更改硬件兼容性向导
+Changes to proxy settings on the host system will not take effect until you restart %s.||对主机系统代理设置的更改只有在你重新启动 %s 后才会生效。
+Clip_board||剪贴板
+Clone Virtual Machine Wizard||克隆虚拟机向导
+Clone the virtual machine||克隆虚拟机
+Close configuration file(s) at power off||关闭电源时关闭配置文件
+Co_nnect at power on||开启电源时连接
+Completed||已完成
+Con_firm New Password:||确认新密码：
+Confir_m:||确认：
+Conn_ected||已连接
+Connection||连接
+Connection Settings||连接设置
+Continue using the other console.||继续使用另一个控制台。
+Convert the selected AutoProtect snapshot into a normal snapshot||将选定的自动保护快照转换为普通快照
+Cop_y||复制
+Could not detect which operating system is in this disc. You will need to specify which operating system will be installed.||无法检测此光盘中安装的是哪个操作系统。你需要指定将要安装的操作系统。
+Could not detect which operating system is in this image. You will need to specify which operating system will be installed.||无法检测此映像中安装的是哪个操作系统。你需要指定将要安装的操作系统。
+Crea_te...||创建...
+Create Floppy Image File||创建软盘映像文件
+Current _Password:||当前密码：
+Custom: %s||自定义：%s
+Daily||每天
+De_vice:||设备：
+Delete Recording and Childre_n||删除录制及其子项
+Delete Recordings and Childre_n||删除录制及其子项
+Delete Snapshot and Childre_n||删除快照及其子项
+Delete Snapshots and Childre_n||删除快照及其子项
+Delete Snapshots/Recordings and Childre_n||删除快照/录制及其子项
+Delete the selected recording||删除选定的录制
+Delete the selected recordings||删除选定的录制
+Delete the selected snapshot||删除选定的快照
+Delete the selected snapshots||删除选定的快照
+Delete the selected snapshots and recordings||删除选定的快照和录制
+Desktop||桌面
+Detail||详细信息
+Dev_ice:||设备：
+Device Status||设备状态
+Dis_connect (Connect to host)||断开（连接到主机）
+Disa_bled||已禁用
+Distri_buted virtual switch||分布式虚拟交换机
+Do you want to disconnect from "%s" and remove it? This will close its open tabs.||是否要断开与“%s”的连接并将其移除？这将关闭其打开的标签页。
+Do you want to remove "%s"?||是否要移除“%s”？
+Enabled until _next power off or suspend||启用直到下次关闭电源或挂起
+Enter a proxy address before continuing.||继续之前请输入代理地址。
+Enter a proxy port between %d and %d before continuing.||继续之前请输入介于 %d 和 %d 之间的代理端口。
+Enter a snapshot name.||输入快照名称。
+Enter a valid Hostname, IPv4, or IPv6 address before continuing.||继续之前请输入有效的主机名、IPv4 或 IPv6 地址。
+Error loading networks: %s.||加载网络时出错：%s。
+Fi_le:||文件：
+File /dev/dsp does not exist on your system. Make sure your system has Open Sound System (OSS) support. You can try to install OSS Proxy Daemon (osspd package) or snd-pcm-oss kernel module.||你的系统上不存在文件 /dev/dsp。请确保你的系统支持开放声音系统 (OSS)。你可以尝试安装 OSS 代理守护程序（osspd 软件包）或 snd-pcm-oss 内核模块。
+File System||文件系统
+Folder Sharing||文件夹共享
+Folders||文件夹
+Global LAN Segments||全局 LAN 网段
+Graphics Memory||图形内存
+Guest OS recommended minimum||客户机操作系统建议最小值
+Guest Operating System||客户机操作系统
+Half-Hourly||每半小时
+Hard Disk:||硬盘：
+Hint||提示
+Host OS version:||主机操作系统版本：
+Host Path||主机路径
+Host _Path||主机路径
+Host name:||主机名：
+Host-onl_y: A private network shared with the host||仅主机：与主机共享的专用网络
+Hourly||每小时
+I will in_stall the operating system later.||我稍后安装操作系统。
+I/O Mode||I/O 模式
+IDE||IDE
+I_DE:||IDE：
+In Progress||进行中
+Incorrect password.||密码不正确。
+Information||信息
+Insert the guest operating system installer disc into the CD drive (%s) or select a different option to continue.||将客户机操作系统安装光盘插入 CD 驱动器 (%s)，或选择其他选项以继续。
+Insert the installer disc into this drive to continue.||将安装光盘插入此驱动器以继续。
+Install operating system from:||从此处安装操作系统：
+Installer _disc across sessions:||跨会话使用安装光盘：
+Installer _disc for this session:||本次会话使用安装光盘：
+Installer _disc:||安装光盘：
+Installer disc im_age file (ISO):||安装光盘映像文件 (ISO)：
+Local installer _disc:||本地安装光盘：
+Local installer disc im_age file (ISO):||本地安装光盘映像文件 (ISO)：
+Location:||位置：
+Log on _automatically (requires a password)||自动登录（需要密码）
+M_emory for this virtual machine:||此虚拟机的内存：
+Manually specifying the number and size of monitors might prevent Full Screen mode from working correctly.||手动指定显示器的数量和大小可能会导致全屏模式无法正常工作。
+Maximum recommended memory\n<small>(Memory swapping may occur beyond this size)</small>||建议的最大内存\n<small>（超过此大小时可能会发生内存交换）</small>
+Message Log||消息日志
+Mode:||模式：
+Monitors||显示器
+Movie Capture LED||影片录制指示灯
+Multiple monitor support is only available for virtual machines with up-to-date hardware versions. Upgrade your virtual machine if you want to use multiple monitors.||多显示器支持仅适用于硬件版本较新的虚拟机。如果你想使用多个显示器，请升级虚拟机。
+NA_T: Used to share the host's IP address||NAT：用于共享主机的 IP 地址
+NVMe||NVMe
+N_VMe:||NVMe：
+N_umber of cores per processor:||每个处理器的核心数：
+Na_med network||命名网络
+Na_med network (%s)||命名网络 (%s)
+Name:||名称：
+Network Adapter:||网络适配器：
+Never show this _hint again||不再显示此提示
+New Virtual Machine Wizard||新建虚拟机向导
+New _password:||新密码：
+Number of proc_essors:||处理器数量：
+Open VM Tabs||打开虚拟机标签页
+Open configuration file(s) in a new tab||在新标签页中打开配置文件
+Operating System:||操作系统：
+Other Devices:||其他设备：
+Output version information and exit||输出版本信息并退出
+Partition||分区
+Power on and go to full screen mode||开启电源并进入全屏模式
+Power on when configuration file(s) are opened||打开配置文件时开启电源
+Processors||处理器
+Product expiration:||产品到期时间：
+Proxy Credentials||代理凭据
+Proxy Credentials (optional)||代理凭据（可选）
+Proxy Settings||代理设置
+Proxy Settings For Remote Virtual Machine Connection||远程虚拟机连接的代理设置
+Question||问题
+Rea_d-only||只读
+Read-on_ly||只读
+Reading disc...||正在读取光盘...
+Reading image...||正在读取映像...
+Recommended memory||建议内存
+Recommended size for %s: %s||%s 的建议大小：%s
+Remote installer _disc:||远程安装光盘：
+Remote installer disc im_age file (ISO):||远程安装光盘映像文件 (ISO)：
+Removing TPM will render all encrypted data on this VM unrecoverable.||移除 TPM 将导致此虚拟机上所有加密数据无法恢复。
+Replicate physical net_work connection state||复制物理网络连接状态
+SATA||SATA
+SCSI||SCSI
+SCS_I:||SCSI：
+S_ATA:||SATA：
+Save Parallel Port Output File||保存并行端口输出文件
+Save Serial Port Output File||保存串行端口输出文件
+Save screenshots to:||将截图保存到：
+Save to %s||保存到 %s
+Save to desktop||保存到桌面
+Seconds between _powering on multiple VMs:||多台虚拟机开机之间的间隔秒数：
+Secure Boot||安全启动
+Select Driver Folder||选择驱动程序文件夹
+Select _All||全选
+Select the installer disc image to continue.||选择安装光盘映像以继续。
+Shared Folder Properties - %s||共享文件夹属性 - %s
+Shared Folders||共享文件夹
+Shared folders expose your files to programs in the virtual machine. This may put your computer and your data at risk. Only enable shared folders if you trust the virtual machine with your data.||共享文件夹会将你的文件暴露给虚拟机中的程序。这可能会危及你的计算机和数据。只有在信任该虚拟机可处理你的数据时才启用共享文件夹。
+Sp_ecify settings for monitors:||指定显示器设置：
+Specify a window geometry||指定窗口几何尺寸
+Specify the amount of memory allocated to this virtual machine. The memory size must be a multiple of 4 MB.||指定分配给此虚拟机的内存量。内存大小必须是 4 MB 的倍数。
+Support Information||支持信息
+Take a snapshot of this virtual machine at its current state||对此虚拟机的当前状态拍摄快照
+The bus is full. No more devices can be added.||总线已满。无法添加更多设备。
+The current multi-core CPU configuration cannot be used unless the virtual hardware is upgraded. To upgrade the virtual hardware, select VM > Manage > Change Hardware Compatibility.||除非升级虚拟硬件，否则无法使用当前的多核 CPU 配置。要升级虚拟硬件，请选择“虚拟机”>“管理”>“更改硬件兼容性”。
+The device node you selected is in use by %s.||你选择的设备节点正被 %s 使用。
+The file location is malformed. Provide the location of an accessible image file or select a different option to continue.||文件位置格式不正确。请提供可访问映像文件的位置，或选择其他选项以继续。
+The image file does not exist. Provide the location of an accessible image file or select a different option to continue.||映像文件不存在。请提供可访问映像文件的位置，或选择其他选项以继续。
+The name '%s' conflicts with an existing LAN segment. Choose another name.||名称“%s”与现有 LAN 网段冲突。请选择其他名称。
+The password must be at least %u characters in length.||密码长度必须至少为 %u 个字符。
+The passwords you typed do not match. Type the same password in both text boxes.||你输入的密码不匹配。请在两个文本框中输入相同的密码。
+The path does not exist on this host.||此主机上不存在该路径。
+The screenshot was saved to the host clipboard and to the host's %s folder.\n||截图已保存到主机剪贴板以及主机的 %s 文件夹。\n
+The screenshot was saved to the host clipboard.\n||截图已保存到主机剪贴板。\n
+The screenshot was saved to the host's %s folder.\n||截图已保存到主机的 %s 文件夹。\n
+The virtual machine will be created with a blank hard disk.||将使用空白硬盘创建虚拟机。
+The virtual machine will be created with the following settings:||将使用以下设置创建虚拟机：
+The virtual printer device is not supported on this server.||此服务器不支持虚拟打印机设备。
+This CD appears to have invalid contents. Please make sure the disc is not damaged.||此 CD 的内容似乎无效。请确保光盘未损坏。
+This controller does not support this device.||此控制器不支持此设备。
+This device is not supported on this bus.||此总线不支持此设备。
+This file is not a valid disc image. Please make sure you have selected the correct file.||此文件不是有效的光盘映像。请确保你选择了正确的文件。
+This operating system will use Easy Install.||此操作系统将使用简易安装。
+This password is for both user and root accounts.||此密码同时用于用户和 root 帐户。
+Time||时间
+To cycle multiple monitors, press <i>%s+M</i>.||要循环切换多个显示器，请按 <i>%s+M</i>。
+To interact with the server running on the local host, use the Shared VMs tab.||要与本地主机上运行的服务器交互，请使用“共享虚拟机”标签页。
+To modify shared folders while the virtual machine is powered on, VMware Tools must be installed and running in the guest operating system.||要在虚拟机开启电源时修改共享文件夹，必须在客户机操作系统中安装并运行 VMware Tools。
+To release control from the current virtual machine, press <i>%s</i>.||要释放对当前虚拟机的控制，请按 <i>%s</i>。
+To release control from the current virtual machine, press <i>Esc</i>.||要释放对当前虚拟机的控制，请按 <i>Esc</i>。
+To send a key combination that includes <i>%s</i> directly to the guest, press <i>%s+Space</i>, release the space bar without releasing <i>%s</i>, and press the desired key.||要将包含 <i>%s</i> 的组合键直接发送到客户机，请按 <i>%s+Space</i>，在不松开 <i>%s</i> 的情况下松开空格键，然后按所需的键。
+To switch to the next full-screen virtual machine, press <i>%s+Right-Arrow</i>.||要切换到下一个全屏虚拟机，请按 <i>%s+右方向键</i>。
+To switch to the previous full-screen virtual machine, press <i>%s+Left-Arrow</i>.||要切换到上一个全屏虚拟机，请按 <i>%s+左方向键</i>。
+To toggle full-screen mode, press <i>%s+Return</i>.||要切换全屏模式，请按 <i>%s+回车</i>。
+To use Easy Install, insert the first disc of the set.||要使用简易安装，请插入该套光盘中的第一张。
+Total processor cores:||处理器核心总数：
+UI log file:||UI 日志文件：
+Unable to connect to the remote host: %s||无法连接到远程主机：%s
+Unable to create floppy image: %s.||无法创建软盘映像：%s。
+Unable to save %s device: Please specify a physical device.||无法保存 %s 设备：请指定物理设备。
+Unable to save %s device: Please specify the %s.||无法保存 %s 设备：请指定 %s。
+Unable to save Display properties: %s||无法保存显示属性：%s
+Unable to save the captured screenshot to %s. Make sure that you have write access to the disk.||无法将截取的屏幕截图保存到 %s。请确保你对磁盘具有写入权限。
+Update Server||更新服务器
+Use ISO i_mage across sessions:||跨会话使用 ISO 映像：
+Use ISO i_mage for this session:||本次会话使用 ISO 映像：
+Use ISO i_mage:||使用 ISO 映像：
+Use Open Sound System (OSS): /dev/dsp||使用开放声音系统 (OSS)：/dev/dsp
+Use _legacy emulation on physical devices.||在物理设备上使用旧版模拟。
+Use _physical sound card:||使用物理声卡：
+Use a floppy _image across sessions:||跨会话使用软盘映像：
+Use a floppy _image for this session:||本次会话使用软盘映像：
+Use a floppy _image:||使用软盘映像：
+Use a local floppy _image:||使用本地软盘映像：
+Use a phys_ical parallel port:||使用物理并行端口：
+Use a phys_ical serial port:||使用物理串行端口：
+Use a remote floppy _image:||使用远程软盘映像：
+Use local ISO i_mage:||使用本地 ISO 映像：
+Use local output _file:||使用本地输出文件：
+Use output _file across sessions:||跨会话使用输出文件：
+Use output _file for this session:||本次会话使用输出文件：
+Use output _file:||使用输出文件：
+Use remote ISO i_mage:||使用远程 ISO 映像：
+Use remote output _file:||使用远程输出文件：
+Use soc_ket (named pipe)||使用套接字（命名管道）
+Version of Windows to install||要安装的 Windows 版本
+Virtual Device Node||虚拟设备节点
+Virtual printer support has been discontinued. Please remove the device.||已停止支持虚拟打印机。请移除此设备。
+Virtualization Engine||虚拟化引擎
+Virtualize _Intel VT-x/EPT or AMD-V/RVI||虚拟化 Intel VT-x/EPT 或 AMD-V/RVI
+What to Encrypt||要加密的内容
+Windows product key||Windows 产品密钥
+You can change the screenshot preferences in Edit > Preferences > Workspace.||你可以在“编辑”>“首选项”>“工作区”中更改截图首选项。
+You did not enter a Windows product key. Easy Install may require you to enter it during the installation process. Would you like to continue?||你未输入 Windows 产品密钥。简易安装可能会在安装过程中要求你输入。是否继续？
+You did not enter a Windows product key. Windows will install without one, but must be manually activated later. Would you like to continue?||你未输入 Windows 产品密钥。Windows 将在没有密钥的情况下安装，但之后必须手动激活。是否继续？
+You do not have permission to open the image file. Provide the location of an accessible image file or select a different option to continue.||你无权打开该映像文件。请提供可访问映像文件的位置，或选择其他选项以继续。
+You have entered a Full Name that may conflict with a built-in account in the guest operating system. If it does conflict, you may be asked for a new Full Name by the installer. Would you like to continue?||你输入的完整名称可能与客户机操作系统中的内置帐户冲突。如果确实冲突，安装程序可能会要求你提供新的完整名称。是否继续？
+You have entered a user name which is reserved by the guest operating system.||你输入的用户名已被客户机操作系统保留。
+You have entered an incorrect serial number for your installation of %s.  You must enter a serial number in the form:\n\tXXXXX-XXXXX-XXXXX-XXXXX-XXXXX.||你为 %s 安装输入的序列号不正确。你必须按以下格式输入序列号：\n\tXXXXX-XXXXX-XXXXX-XXXXX-XXXXX。
+You have entered an invalid Full name. A Full name must not contain the characters ':', '\', '=', '"', or ','.||你输入的完整名称无效。完整名称不能包含以下字符：冒号、反斜杠、等号、双引号或逗号。
+You have entered an invalid Full name. A Full name must not contain the characters ']]>' in a row.||你输入的完整名称无效。完整名称不能连续包含字符 ']]>'。
+You have entered an invalid User name. A User name must only consist of lowercase characters, numbers 0 to 9 or dashes.||你输入的用户名无效。用户名只能由小写字母、数字 0 到 9 或连字符组成。
+You have entered an invalid password. Passwords must not contain the characters ']]>' in a row.||你输入的密码无效。密码不能连续包含字符 ']]>'。
+You must enter a User name for the account on the guest. This will be used to login to the guest.||你必须为客户机上的帐户输入用户名。这将用于登录客户机。
+You must enter a password for the account on the guest. This will be used to login to the guest.||你必须为客户机上的帐户输入密码。这将用于登录客户机。
+You must enter the Full name. This will be used as the account name in the guest operating system.||你必须输入完整名称。它将用作客户机操作系统中的帐户名称。
+You must enter your current password in order to change it.||你必须输入当前密码才能更改它。
+You must select at least one or more screenshot save types.||你必须至少选择一种截图保存方式。
+Your Full name cannot be more than %u characters long for the selected guest operating system.||对于所选的客户机操作系统，你的完整名称长度不能超过 %u 个字符。
+Your User name cannot be more than %u characters long for the selected guest operating system.||对于所选的客户机操作系统，你的用户名长度不能超过 %u 个字符。
+Zoom In||放大
+Zoom Out||缩小
+Zoom in||放大
+Zoom out||缩小
+[configuration file(s)]||[配置文件]
+_Add...||添加...
+_Address:||地址：
+_AutoProtect Settings...||自动保护设置...
+_Automatically power on this virtual machine after creation.||创建后自动开启此虚拟机的电源。
+_Back||上一步
+_Browse...||浏览...
+_Clear Messages||清除消息
+_Client||客户端
+_Clone||克隆
+_Clone this Snapshot...||克隆此快照...
+_Clone this Virtual Machine...||克隆此虚拟机...
+_Connect (Disconnect from %s)||连接（断开与 %s 的连接）
+_Delete||删除
+_Delete Recording||删除录制
+_Delete Recordings||删除录制
+_Delete Snapshot||删除快照
+_Delete Snapshots||删除快照
+_Delete Snapshots and Recordings||删除快照和录制
+_Device:||设备：
+_Done||完成
+_Enabled||已启用
+_Enter the driver location for Easy Install:||输入简易安装的驱动程序位置：
+_Finish||完成
+_Full name:||完整名称：
+_Go to Snapshot||转到快照
+_Host||主机
+_Keep||保留
+_Keep these AutoProtect Snapshots||保留这些自动保护快照
+_Keep this AutoProtect Snapshot||保留此自动保护快照
+_LAN segment: A private network shared with other standard VMs||LAN 网段：与其他标准虚拟机共享的专用网络
+_Manual proxy settings||手动代理设置
+_Map as a network drive in Windows guests||在 Windows 客户机中映射为网络驱动器
+_Maximum resolution of any one monitor:||任一显示器的最大分辨率：
+_Monitor device||显示器设备
+_Name||名称
+_New Password:||新密码：
+_Next||下一步
+_No proxy||无代理
+_Number of monitors:||显示器数量：
+_Old password:||旧密码：
+_Open Message Log||打开消息日志
+_Physical SCSI device:||物理 SCSI 设备：
+_Port:||端口：
+_Remember password||记住密码
+_SCSI||SCSI
+_System proxy settings||系统代理设置
+_Take Snapshot||拍摄快照
+_Take Snapshot of this Virtual Machine...||拍摄此虚拟机的快照...
+_Type:||类型：
+_Use a local physical drive:||使用本地物理驱动器：
+_Use a physical drive across sessions:||跨会话使用物理驱动器：
+_Use a physical drive for this session:||本次会话使用物理驱动器：
+_Use a physical drive:||使用物理驱动器：
+_Use a remote physical drive:||使用远程物理驱动器：
+_Use host settings for monitors||使用主机的显示器设置
+_Virtual Device Node||虚拟设备节点
+_Yield CPU on poll||轮询时让出 CPU
+geometry||geometry

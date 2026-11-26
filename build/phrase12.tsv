@@ -1,0 +1,222 @@
+ (disconnected)|| （已断开连接）
+ (maintenance mode)|| （维护模式）
+ (not responding)|| （无响应）
+%d virtual machines running||%d 台虚拟机正在运行
+%s (unsupported)||%s（不支持）
+%s - Compatible with ESX Server||%s - 兼容 ESX Server
+%s could not apply the window change, because the virtual machine is no longer rendering its display.||%s 无法应用窗口更改，因为虚拟机已不再呈现其显示内容。
+%s does not support the multiple monitors feature in %s guests.||%s 不支持 %s 客户机中的多显示器功能。
+%s does not support the multiple monitors feature in shared or remote virtual machines.||%s 不支持共享或远程虚拟机中的多显示器功能。
+%s has encountered an error and has shut down Windows.  Click Restart Windows to start Windows again. Click Report to collect data and to request support from VMware.||%s 遇到错误并已关闭 Windows。单击“重新启动 Windows”再次启动 Windows。单击“报告”收集数据并向 VMware 请求支持。
+%s has encountered an error and has shut down the virtual machine. Click Restart to start the virtual machine again. Click Report to collect data and to request support from VMware.||%s 遇到错误并已关闭虚拟机。单击“重启”再次启动虚拟机。单击“报告”收集数据并向 VMware 请求支持。
+%s is a %s, which is not supported by %s. Choose another host or change the hardware version of the virtual machine to one of the following options:%s||%s 是 %s，%s 不支持它。请选择其他主机，或将虚拟机的硬件版本更改为以下选项之一：%s
+%s is not a valid virtual disk file.||%s 不是有效的虚拟磁盘文件。
+%s is not installed on this virtual machine. Insert the installer disc and click "Restart VM".||此虚拟机上未安装 %s。请插入安装光盘并单击“重启虚拟机”。
+%s... %d%% complete||%s... 已完成 %d%%
+%zd CD/DVDs||%zd 个 CD/DVD
+%zd CPU cores||%zd 个 CPU 核心
+%zd Floppies||%zd 个软盘
+%zd Generic SCSI||%zd 个通用 SCSI
+%zd Parallel Ports||%zd 个并行端口
+%zd Serial Ports||%zd 个串行端口
+%zd USB Controllers||%zd 个 USB 控制器
+'%s' cannot be used as the name for a shared folder.||“%s”不能用作共享文件夹的名称。
+(Logging is not enabled)||（未启用日志记录）
+1 virtual machine running||1 台虚拟机正在运行
+32-bit OS||32 位操作系统
+64-bit OS||64 位操作系统
+64-bit OS Arm||64 位操作系统 Arm
+A datastore is not configured for the specified configuration file.||未为指定的配置文件配置数据存储。
+A destination folder has not been selected.||尚未选择目标文件夹。
+A full screen application is running in this virtual machine.||此虚拟机中正在运行全屏应用程序。
+A networking error (%d) occurred while communicating with the computer at %s||发生网络错误 (%d)（与位于 %s 的计算机通信时）
+A virtual machine must be powered off before you can stop sharing it.\n\nPower off this virtual machine and re-run the Stop Sharing VM wizard.||必须先关闭虚拟机电源才能停止共享它。\n\n请关闭此虚拟机的电源并重新运行“停止共享虚拟机”向导。
+Already connecting.||已在连接。
+Already refreshing.||已在刷新。
+An encrypted virtual machine cannot be shared.||加密的虚拟机无法共享。
+An unknown error occurred when trying to enter the license key. If the problem persists, contact VMware technical support.||尝试输入许可证密钥时发生未知错误。如果问题仍然存在，请联系 VMware 技术支持。
+Another user connected to this virtual machine responded to the dialog before you did.||另一位连接到此虚拟机的用户在你之前响应了对话框。
+Any||任意
+Apple macOS||Apple macOS
+Attempted to start an already in-progress or finished download.||尝试启动一个已在进行中或已完成的下载。
+Authorization manager not present||授权管理器不存在
+AutoProtect will consume a minimum of %s of disk space.||自动保护将至少占用 %s 的磁盘空间。
+Autologin for this guest is disabled.\n\nEnable Autologin to have the guest OS automatically log in without requiring a user name and password.||此客户机的自动登录已禁用。\n\n启用自动登录可使客户机操作系统无需用户名和密码即可自动登录。
+Autologin in this guest is enabled for the user %s.||此客户机已为用户 %s 启用自动登录。
+Autologin settings are not available for this virtual machine.\n\nTo configure Autologin, ensure that the guest OS is running and that an up-to-date version of %s is running in the guest.||此虚拟机无法使用自动登录设置。\n\n要配置自动登录，请确保客户机操作系统正在运行，并且客户机中运行的是最新版本的 %s。
+Bad text received from server.||从服务器收到错误文本。
+Can't access console on powered off VM||无法访问已关闭电源虚拟机的控制台
+Canceling...||正在取消...
+Cannot Use Multiple Monitors||无法使用多个显示器
+Cannot change password because this virtual machine is powered on.||由于此虚拟机已开启电源，无法更改密码。
+Cannot connect to server, invalid username or password||无法连接到服务器，用户名或密码无效
+Cannot connect while disconnecting||断开连接时无法连接
+Cannot connect while disconnecting.||断开连接时无法连接。
+Cannot download %s, because component downloads are disabled.||无法下载 %s，因为组件下载已禁用。
+Cannot download %s, because software updates are disabled. See the Updates tab of the preferences dialog.||无法下载 %s，因为软件更新已禁用。请参阅首选项对话框的“更新”标签页。
+Cannot download %s, because software updates are disabled. See the preferences dialog.||无法下载 %s，因为软件更新已禁用。请参阅首选项对话框。
+Cannot find a valid peer process to connect to||找不到可连接的有效对等进程
+Cannot grab input on Secondary FT VM.||无法在辅助 FT 虚拟机上捕获输入。
+Cannot move VM to a directory that is not empty.||无法将虚拟机移动到非空目录。
+Cannot perform operation when virtual machine is offline.||虚拟机离线时无法执行操作。
+Cannot perform operation when virtual machine is online.||虚拟机在线时无法执行操作。
+Cannot refresh while connecting.||连接时无法刷新。
+Cannot refresh while disconnected.||已断开连接时无法刷新。
+Cannot refresh while disconnecting.||断开连接时无法刷新。
+Cannot stop sharing this virtual machine.\n\nContact %s Technical Support for assistance.||无法停止共享此虚拟机。\n\n请联系 %s 技术支持寻求帮助。
+Click in the virtual screen to send keystrokes||单击虚拟屏幕以发送按键
+Client error||客户端错误
+Closing virtual machine||正在关闭虚拟机
+Co_mmit||提交
+Connection failed||连接失败
+Connection has been destroyed.||连接已销毁。
+Connection to VMware Workstation Server was lost before VM sharing could be stoped.||在停止虚拟机共享之前，与 VMware Workstation Server 的连接已断开。
+Connection to VMware Workstation Server was lost before the VM could be shared.||在虚拟机共享之前，与 VMware Workstation Server 的连接已断开。
+Connection to the remote server has been lost.||与远程服务器的连接已断开。
+Connection with %s closed due to earlier error.||由于先前的错误，与 %s 的连接已关闭。
+Copying Disk...||正在复制磁盘...
+Could not create destination directory: %s||无法创建目标目录：%s
+Could not determine existence with the given paths.||无法根据给定路径确定是否存在。
+Could not fetch clone ticket||无法获取克隆票据
+Could not find Shared VM path.||找不到共享虚拟机路径。
+Could not find a datastore named %s||找不到名为 %s 的数据存储
+Could not find component on update server. Contact VMware Support or your system administrator.||在更新服务器上找不到组件。请联系 VMware 支持或系统管理员。
+Could not find environment browser on remote host. This is most likely caused by an unresponsive host.||在远程主机上找不到环境浏览器。这很可能是由于主机无响应所致。
+Could not load datastores. This may be caused by insufficient permissions.||无法加载数据存储。这可能是由于权限不足所致。
+Could not locate the virtual machine object.||无法定位虚拟机对象。
+Could not probe: failed to launch helper process||无法探测：启动辅助进程失败
+Could not read EULA: failed to launch helper process||无法读取 EULA：启动辅助进程失败
+Could not rename configuration file.||无法重命名配置文件。
+Could not rename the virtual machine config file.||无法重命名虚拟机配置文件。
+Could not rename the virtual machine directory.||无法重命名虚拟机目录。
+Could not retrieve networks for host||无法获取主机的网络
+Could not start download: SSL thumbprint is unavailable||无法开始下载：SSL 指纹不可用
+Could not start download: failed to launch helper process||无法开始下载：启动辅助进程失败
+Could not start export: failed to launch helper process||无法开始导出：启动辅助进程失败
+Could not start import: failed to launch helper process||无法开始导入：启动辅助进程失败
+Could not start upload: SSL thumbprint is unavailable||无法开始上传：SSL 指纹不可用
+Could not start upload: failed to launch helper process||无法开始上传：启动辅助进程失败
+Creating Disk...||正在创建磁盘...
+Current hardware version not supported.||不支持当前硬件版本。
+Devices are not supported.||不支持设备。
+Disk file %s was not found||未找到磁盘文件 %s
+Do you want to enable all hints?||是否要启用所有提示？
+Downloading %s has been restricted by your system administrator. To enable downloads, contact your system administrator.||下载 %s 已受到系统管理员的限制。要启用下载，请联系系统管理员。
+Downloading and installing VMware Tools is required to enable advanced features of your virtual machine.||需要下载并安装 VMware Tools 才能启用虚拟机的高级功能。
+Each device can be connected either to the host or to one virtual machine at a time. Smart card readers can be connected to multiple virtual machines.||每个设备一次只能连接到主机或一台虚拟机。智能卡读卡器可以连接到多台虚拟机。
+Easy Install failed to automatically install VMware Tools. Log in to the guest operating system and click "Install VMware Tools" from the VM menu.||简易安装未能自动安装 VMware Tools。请登录客户机操作系统，并从“虚拟机”菜单中单击“安装 VMware Tools”。
+Easy Install is installing %s. %s||简易安装正在安装 %s。%s
+Easy Install is installing VMware Tools on %s.||简易安装正在 %s 上安装 VMware Tools。
+Easy Install is installing VMware Tools on the guest operating system.||简易安装正在客户机操作系统上安装 VMware Tools。
+Easy Install is installing the guest operating system.||简易安装正在安装客户机操作系统。
+Encrypted virtual machines cannot be shared.||加密的虚拟机无法共享。
+Encrypting virtual machine...||正在加密虚拟机...
+Error loading permissions.||加载权限时出错。
+Error loading users from server||从服务器加载用户时出错
+Escape||Esc
+Existing %s files were found||找到现有的 %s 文件
+Failed to cancel the progress dialog: %s||无法取消进度对话框：%s
+Failed to configure the virtual machine "%s" due to a power-on failure.||由于开机失败，无法配置虚拟机“%s”。
+Failed to connect to peer process||无法连接到对等进程
+Failed to connect to the remote host||无法连接到远程主机
+Failed to create %s||无法创建 %s
+Failed to create archive. Check to ensure that enough space is available for archive.||无法创建归档。请检查是否有足够的空间用于归档。
+Failed to create destination directory.||无法创建目标目录。
+Failed to disconnect from the MKS: %s||无法与 MKS 断开连接：%s
+Failed to encrypt virtual machine.||无法加密虚拟机。
+Failed to initialize SSL session to remote host.||无法初始化到远程主机的 SSL 会话。
+Failed to launch peer process||无法启动对等进程
+Failed to move VM to destination path. %s||无法将虚拟机移动到目标路径。%s
+Failed to move encrypted VM to the trash.||无法将加密虚拟机移到回收站。
+Failed to open temporary save file for download.||无法打开用于下载的临时保存文件。
+Failed to parse XML at %s.||无法解析位于 %s 的 XML。
+Failed to reencrypt virtual machine. Please restart %s and try again later.||无法重新加密虚拟机。请重新启动 %s 后重试。
+Failed to register the VM||无法注册虚拟机
+Failed to remove encryption from virtual machine.||无法移除虚拟机的加密。
+Failed to reply to the dialog: %s||无法回复对话框：%s
+Failed to retrieve host state.||无法获取主机状态。
+Failed to retrieve the client IP address||无法获取客户端 IP 地址
+Failed to unlock the virtual machine. Please check your password and try again.||无法解锁虚拟机。请检查你的密码后重试。
+Failed to write to download save file. Check to ensure that enough space is available to complete the download.||无法写入下载保存文件。请检查是否有足够的空间完成下载。
+Fatal Application Error: %s (%s).||致命应用程序错误：%s (%s)。
+Fatal Application Error: reason unknown (type unknown).||致命应用程序错误：原因未知（类型未知）。
+File %s is not a virtual disk||文件 %s 不是虚拟磁盘
+File not found||找不到文件
+File or directory already exists||文件或目录已存在
+Full screen display mode must be "Autofit guest."||全屏显示模式必须为“自动适应客户机”。
+GHz||GHz
+Generic SCSI||通用 SCSI
+HTTP Error when connecting to server: %u||连接到服务器时发生 HTTP 错误：%u
+HTTP Error: Possibly a bad ticket or URL.||HTTP 错误：可能是票据或 URL 有误。
+Helper process %s failed with status %d||辅助进程 %s 失败，状态为 %d
+Host configuration manager loaded, but does not have the networkSystem property. It is likely this is a broken or misconfigured host.\n||主机配置管理器已加载，但没有 networkSystem 属性。此主机很可能已损坏或配置错误。\n
+Host is disconnected or not powered on.||主机已断开连接或未开机。
+Host not set.||未设置主机。
+Host state is invalid.||主机状态无效。
+Hz||Hz
+IDE devices are not supported on Arm virtual machines.||Arm 虚拟机不支持 IDE 设备。
+IDE devices are not supported on OS X virtual machines.||OS X 虚拟机不支持 IDE 设备。
+IDE disks are not supported on %s compatible virtual machines.||%s 兼容虚拟机不支持 IDE 磁盘。
+If you do not download VMware Tools, Easy Install will not fully complete.||如果你不下载 VMware Tools，简易安装将无法完全完成。
+If you do not download VMware Tools, your virtual machine might not be updated with the latest version.||如果你不下载 VMware Tools，你的虚拟机可能无法更新到最新版本。
+If you do not download the latest version of VMware Tools, Easy Install will continue with the existing version you have.||如果你不下载最新版本的 VMware Tools，简易安装将继续使用你现有的版本。
+If you do not see %s installing, run "setup.exe" from the virtual CD-ROM drive in the guest.||如果你没有看到 %s 正在安装，请在客户机中从虚拟 CD-ROM 驱动器运行“setup.exe”。
+If you do not see VMware Tools installing, click Start > Run in your virtual machine and enter D:\setup.exe (where D: is your virtual CD-ROM drive).||如果你没有看到 VMware Tools 正在安装，请在虚拟机中单击“开始”>“运行”，然后输入 D:\setup.exe（其中 D: 是你的虚拟 CD-ROM 驱动器）。
+If you do not see VMware Tools installing, click the Windows icon and enter D:\setup.exe in the Search box (where D: is your virtual CD-ROM drive).||如果你没有看到 VMware Tools 正在安装，请单击 Windows 图标，并在搜索框中输入 D:\setup.exe（其中 D: 是你的虚拟 CD-ROM 驱动器）。
+If you do not see VMware Tools installing, press the Windows logo key + R. Then, enter D:\setup.exe (where D: is your virtual CD-ROM drive).||如果你没有看到 VMware Tools 正在安装，请按 Windows 徽标键 + R，然后输入 D:\setup.exe（其中 D: 是你的虚拟 CD-ROM 驱动器）。
+In order for this virtual machine to be accessible using %s, the following users will be given read-only access to its host: %s.||为使此虚拟机可通过 %s 访问，以下用户将被授予对其主机的只读访问权限：%s。
+In order for this virtual machine to be accessible using %s, you must ensure that the following users or groups have at least read-only access to its host: %s.||为使此虚拟机可通过 %s 访问，你必须确保以下用户或组至少对其主机具有只读访问权限：%s。
+In the virtual machine, open the "Install %s" application on the "%s" disc.||在虚拟机中，打开“%s”光盘上的“安装 %s”应用程序。
+Infinite loop detected on server||在服务器上检测到无限循环
+Install %s as you would on a physical computer. When you are done and the operating system boots up, click "I Finished Installing".||像在物理计算机上一样安装 %s。完成后且操作系统启动后，单击“我已完成安装”。
+Install the guest operating system as you would on a physical computer. When you are done and the operating system boots up, click "I Finished Installing".||像在物理计算机上一样安装客户机操作系统。完成后且操作系统启动后，单击“我已完成安装”。
+Installing open-vm-tools for Ubuntu 14.04 and higher requires an Internet connection.||为 Ubuntu 14.04 及更高版本安装 open-vm-tools 需要 Internet 连接。
+Insufficient permission to share this virtual machine.||权限不足，无法共享此虚拟机。
+Insufficient permissions to list datastores.||权限不足，无法列出数据存储。
+Internal Error: Out of Memory||内部错误：内存不足
+Internal error||内部错误
+Invalid device %s: %s||无效设备 %s：%s
+Invalid path||无效路径
+Invalid response from server||来自服务器的响应无效
+Invalid response from server.||来自服务器的响应无效。
+KHz||KHz
+LAN Segment %%d||LAN 网段 %%d
+Linux||Linux
+Linux Mint 64-bit||Linux Mint 64 位
+Loading the host configuration manager failed.||加载主机配置管理器失败。
+MHz||MHz
+MKS ticket acquisition was disallowed at the time of scheduled invocation||在计划调用时不允许获取 MKS 票据
+MacFUSE||MacFUSE
+Make sure that you are logged in to the guest operating system.||请确保你已登录客户机操作系统。
+McAfee AntiVirus Plus||McAfee AntiVirus Plus
+Memory cannot be decreased until the virtual machine is powered off.||虚拟机关闭电源后才能减少内存。
+Message log: %d unread messages||消息日志：%d 条未读消息
+Message log: 1 unread message||消息日志：1 条未读消息
+Message log: no messages||消息日志：没有消息
+Message log: no unread messages||消息日志：没有未读消息
+Microsoft Windows||Microsoft Windows
+Modifying permissions for the current user is not allowed.||不允许修改当前用户的权限。
+Mount the virtual CD drive in the guest, launch a Terminal, and use tar to uncompress the installer. Then, execute vmware-install.pl to install VMware Tools.||在客户机中挂载虚拟 CD 驱动器，启动终端，使用 tar 解压安装程序。然后执行 vmware-install.pl 以安装 VMware Tools。
+Mount the virtual CD drive in the guest, uncompress the installer, and then execute vmware-install.pl to install %s.||在客户机中挂载虚拟 CD 驱动器，解压安装程序，然后执行 vmware-install.pl 以安装 %s。
+Moving virtual machine||正在移动虚拟机
+My Computer||我的电脑
+NVMe devices are not supported on %s virtual machines.||%s 虚拟机不支持 NVMe 设备。
+No destination path specified||未指定目标路径
+No expiration||永不过期
+No guest OS table was found for hardware version %d||未找到硬件版本 %d 的客户机操作系统表
+No info found for guest family: ||未找到客户机系列的信息： 
+No info found for guest family: '%s'||未找到客户机系列的信息：“%s”
+No info found for guest operating system key: '%s'||未找到客户机操作系统键的信息：“%s”
+No info found for guest operating system name: '%s'||未找到客户机操作系统名称的信息：“%s”
+No networks found on server. If you would still like to upload this virtual machine, remove all of its network adapter devices and attempt the upload again.||服务器上未找到网络。如果你仍想上传此虚拟机，请移除其所有网络适配器设备，然后再次尝试上传。
+No permission to perform this operation||无权执行此操作
+No ticket was returned||未返回票据
+No virtual machines running||没有正在运行的虚拟机
+No virtual machines were found in the team.||团队中未找到任何虚拟机。
+Not connected to %s.||未连接到 %s。
+Not connected to the Workstation Server Component.||未连接到 Workstation Server 组件。
+Not enough memory||内存不足
+Not supported for Arm VMs||不支持 Arm 虚拟机
+Not supported for OS X VMs||不支持 OS X 虚拟机
+Not supported on %s VMs||不支持 %s 虚拟机
+Not supported on %s compatible VMs||不支持 %s 兼容虚拟机

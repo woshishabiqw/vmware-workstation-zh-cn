@@ -1,0 +1,234 @@
+%d GB shared graphics memory||%d GB 共享图形内存
+%d network adapters||%d 个网络适配器
+%d processors||%d 个处理器
+%s IDE disk size||%s IDE 磁盘大小
+%s SCSI disk size||%s SCSI 磁盘大小
+%s disk size||%s 磁盘大小
+%s memory||%s 内存
+%sAre you sure you want to reset the virtual machine "%s"?||%s确定要重置虚拟机“%s”吗？
+%sAre you sure you want to restart the guest operating system for "%s"?||%s确定要为“%s”重新启动客户机操作系统吗？
+%sAre you sure you want to shut down the guest operating system for "%s"?||%s确定要为“%s”关闭客户机操作系统吗？
+%sAre you sure you want to suspend the guest operating system for "%s"?||%s确定要为“%s”挂起客户机操作系统吗？
+%u monitor||%u 个显示器
+%u monitors||%u 个显示器
+1 processor||1 个处理器
+A requested power operation is already in progress.||已有一个请求的电源操作正在进行中。
+Addition or reconfiguration of network adapters attached to non-ephemeral distributed virtual port groups is not supported.||不支持添加或重新配置连接到非临时分布式虚拟端口组的网络适配器。
+Another user is connected to this virtual machine.\n||另一位用户已连接到此虚拟机。\n
+Append||追加
+Are you sure you want to discard the suspended state for "%s"?\nThis action is irreversible!||确定要放弃“%s”的挂起状态吗？\n此操作不可逆！
+Attempt to change device to the client device in non-client mode.||尝试在非客户端模式下将设备更改为客户端设备。
+Auto detect||自动检测
+Bridged (Automatic)||桥接（自动）
+CD/DVD %d (%s)||CD/DVD %d (%s)
+CD/DVD (%s)||CD/DVD (%s)
+Cable (10 Mbps)||电缆 (10 Mbps)
+Cable (100 Mbps)||电缆 (100 Mbps)
+Cable (4 Mbps)||电缆 (4 Mbps)
+Camera||摄像头
+Check that you have shut down your guest operating system before powering off.\n\nAre you sure you want to power off the virtual machine "%s"?||请在关闭电源前确认已关闭客户机操作系统。\n\n确定要关闭虚拟机“%s”的电源吗？
+Could not add or config this Camera.||无法添加或配置此摄像头。
+Ctrl+G||Ctrl+G
+Distributed Virtual Switch||分布式虚拟交换机
+ESX 3.5 virtual machine||ESX 3.5 虚拟机
+ESXi 6.5 virtual machine||ESXi 6.5 虚拟机
+ESXi 6.7 virtual machine||ESXi 6.7 虚拟机
+ESXi 7.0 virtual machine||ESXi 7.0 虚拟机
+Encrypting the virtual machine is not allowed while it is being exported.||虚拟机正在导出时不允许加密。
+Encryption is unavailable because this virtual machine has linked clones.||加密不可用，因为此虚拟机具有链接克隆。
+Encryption is unavailable because this virtual machine has recordings.||加密不可用，因为此虚拟机具有录制。
+Encryption is unavailable because this virtual machine is a legacy virtual machine.||加密不可用，因为此虚拟机是旧版虚拟机。
+Encryption is unavailable because this virtual machine is a linked clone but its parent could not be found.||加密不可用，因为此虚拟机是链接克隆，但找不到其父虚拟机。
+Encryption is unavailable because this virtual machine is powered on.||加密不可用，因为此虚拟机已开启电源。
+Encryption is unavailable because this virtual machine is read-only.||加密不可用，因为此虚拟机是只读的。
+Encryption is unavailable because this virtual machine is using physical disks.||加密不可用，因为此虚拟机正在使用物理磁盘。
+Error connecting remote USB device: %s||连接远程 USB 设备时出错：%s
+Error while attempting to repair "%s": %s||尝试修复“%s”时出错：%s
+Error while attempting to repair virtual machine: %s.||尝试修复虚拟机时出错：%s。
+Failed to enter exclusive mode: %s.||进入独占模式失败：%s。
+Failed to exit exclusive mode: %s.||退出独占模式失败：%s。
+Floppy||软盘
+Floppy %d||软盘 %d
+Fusion 1.1 virtual machine||Fusion 1.1 虚拟机
+Fusion 10.x virtual machine||Fusion 10.x 虚拟机
+Fusion 11.x virtual machine||Fusion 11.x 虚拟机
+Fusion 12.2.x virtual machine||Fusion 12.2.x 虚拟机
+Fusion 12.x virtual machine||Fusion 12.x 虚拟机
+Fusion 13.5-13.6.x virtual machine||Fusion 13.5-13.6.x 虚拟机
+Fusion 13.x virtual machine||Fusion 13.x 虚拟机
+Fusion 2.x-3.x virtual machine||Fusion 2.x-3.x 虚拟机
+Fusion 25H2 or later virtual machine||Fusion 25H2 或更高版本虚拟机
+Fusion 4.x virtual machine||Fusion 4.x 虚拟机
+Fusion 5.x virtual machine||Fusion 5.x 虚拟机
+Fusion 6.x virtual machine||Fusion 6.x 虚拟机
+Fusion 7.x virtual machine||Fusion 7.x 虚拟机
+Fusion 8.x virtual machine||Fusion 8.x 虚拟机
+Generic SCSI (SCSI %d:%d)||通用 SCSI (SCSI %d:%d)
+Growing this disk to a size larger than %u GB requires first converting it to a split disk. This operation may require a significant amount of time. Are you sure you wish to continue?||将此磁盘增大到大于 %u GB 需要先将其转换为拆分磁盘。此操作可能需要相当长的时间。确定要继续吗？
+Hard Disk %d (%s)||硬盘 %d (%s)
+Hard Disk (%s)||硬盘 (%s)
+Host-only||仅主机
+IDE Controller %d||IDE 控制器 %d
+ISDN 1b (64 Kbps)||ISDN 1b (64 Kbps)
+ISDN 2b (128 Kbps)||ISDN 2b (128 Kbps)
+Independent virtual disks in non-persistent mode cannot be compacted. Go to VM Settings > Hard Disk > Advanced to change the mode of this virtual disk.||非持久模式下的独立虚拟磁盘无法压缩。请转到“虚拟机设置”>“硬盘”>“高级”更改此虚拟磁盘的模式。
+Independent-nonpersistent||独立-非持久
+Independent-persistent||独立-持久
+Internal Error: This team cannot find the correct virtual machine.||内部错误：此团队找不到正确的虚拟机。
+Internal Error: This team cannot find the virtual machine.||内部错误：此团队找不到该虚拟机。
+Internal Error: This virtual machine has a locked handle.||内部错误：此虚拟机具有锁定的句柄。
+Internal Error: This virtual machine has an invalid configuration.||内部错误：此虚拟机具有无效的配置。
+Internal Error: This virtual machine has an invalid handle.||内部错误：此虚拟机具有无效的句柄。
+Internal Error: This virtual machine is locked.||内部错误：此虚拟机已锁定。
+Invalid resolution: %s||无效的分辨率：%s
+LAN Segment||LAN 网段
+Leased Line (192 Kbps)||租用线路 (192 Kbps)
+Leased Line T1 (1.544 Mbps)||租用线路 T1 (1.544 Mbps)
+Leased Line T3 (45 Mbps)||租用线路 T3 (45 Mbps)
+Legacy (HW%d)||旧版 (HW%d)
+Legacy virtual machine (HW%d)||旧版虚拟机 (HW%d)
+Modem (28.8 Kbps)||调制解调器 (28.8 Kbps)
+Modem (56 Kbps)||调制解调器 (56 Kbps)
+Monitor device||显示器设备
+NVMe Controller %d||NVMe 控制器 %d
+Named Network (%s)||命名网络 (%s)
+Network Adapter %d||网络适配器 %d
+New CD/DVD (%s)||新建 CD/DVD (%s)
+New Hard Disk (%s)||新建硬盘 (%s)
+No 3D graphics acceleration||无 3D 图形加速
+No 64-bit guests||无 64 位客户机
+No CPU hot plug||不支持 CPU 热插拔
+No DirectX 10 support||不支持 DirectX 10
+No DirectX 10.1 support||不支持 DirectX 10.1
+No DirectX 11 support||不支持 DirectX 11
+No HD Audio||无高清音频
+No IDE disks||无 IDE 磁盘
+No IOMMU support||不支持 IOMMU
+No LSI Logic SAS SCSI controller||无 LSI Logic SAS SCSI 控制器
+No NVMe devices||无 NVMe 设备
+No SATA devices||无 SATA 设备
+No Trusted Platform Module||无可信平台模块
+No UEFI secure boot support||不支持 UEFI 安全启动
+No UEFI support||不支持 UEFI
+No USB 2.0||无 USB 2.0
+No VBS support||不支持 VBS
+No VMCI support||不支持 VMCI
+No battery status||无电池状态
+No clone support||不支持克隆
+No device hot plug||不支持设备热插拔
+No memory hot plug||不支持内存热插拔
+No multiple monitor display||无多显示器显示
+No printer support||不支持打印机
+No snapshots||不支持快照
+No virtual camera support||不支持虚拟摄像头
+Nonpersistent||非持久
+Other users are currently connected to the virtual machine "%s" using VNC. The VNC sessions for these users will be closed if you choose to power off or suspend this virtual machine.||其他用户当前正通过 VNC 连接到此虚拟机“%s”。如果你选择关闭电源或挂起此虚拟机，这些用户的 VNC 会话将关闭。
+Parallel Port %d||并行端口 %d
+Persistent||持久
+Power off this virtual machine||关闭此虚拟机的电源
+Power on this virtual machine||开启此虚拟机的电源
+Preallocated||预分配
+Remote USB device error: %s||远程 USB 设备错误：%s
+Removable device with key '%s' was not found.||找不到键为“%s”的可移动设备。
+Removal of encryption is not allowed while the virtual machine is being exported.||虚拟机正在导出时不允许移除加密。
+Removal of encryption is unavailable because this virtual machine has linked clones.||移除加密不可用，因为此虚拟机具有链接克隆。
+Removal of encryption is unavailable because this virtual machine is a linked clone but its parent could not be found.||移除加密不可用，因为此虚拟机是链接克隆，但找不到其父虚拟机。
+Removal of encryption is unavailable because this virtual machine is powered on.||移除加密不可用，因为此虚拟机已开启电源。
+Removal of encryption is unavailable because this virtual machine is read-only.||移除加密不可用，因为此虚拟机是只读的。
+Reset this virtual machine||重置此虚拟机
+Restart this guest operating system||重新启动此客户机操作系统
+Restricted||受限
+Resume this guest operating system||恢复此客户机操作系统
+Resume this virtual machine||恢复此虚拟机
+SATA Controller %d||SATA 控制器 %d
+SCSI Controller %d||SCSI 控制器 %d
+Serial Port %d||串行端口 %d
+Shut down this guest operating system||关闭此客户机操作系统
+Start up this guest operating system||启动此客户机操作系统
+Suspend this guest operating system||挂起此客户机操作系统
+Suspend this virtual machine||挂起此虚拟机
+The MAC address cannot start with 00:50:56:C0.||MAC 地址不能以 00:50:56:C0 开头。
+The MAC address is already in use for this virtual machine.||MAC 地址已被此虚拟机使用。
+The MAC address is invalid.||MAC 地址无效。
+The MAC address should be between 00:50:56:00:00:00 and 00:50:56:3F:FF:FF.||MAC 地址应介于 00:50:56:00:00:00 和 00:50:56:3F:FF:FF 之间。
+The MAC address should be in the format 00:50:56:AB:CD:EF.||MAC 地址应采用 00:50:56:AB:CD:EF 的格式。
+The existing disk file is for a physical disk. Please select "Use a Physical Disk" to reuse an existing physical disk.||现有磁盘文件属于物理磁盘。请选择“使用物理磁盘”以重复使用现有物理磁盘。
+The first byte of the MAC address cannot be odd.||MAC 地址的第一个字节不能为奇数。
+The maximum number of devices of this type has been reached||已达到此类型设备的最大数量
+The remote device is configured to be a server device. Are you sure that you want to reconfigure it to be a client device?||此远程设备被配置为服务器设备。确定要将其重新配置为客户端设备吗？
+The resolution %s is not allowed.||不允许使用分辨率 %s。
+The selected virtual disk is incompatible with this %s virtual machine. Adding this disk would make this virtual machine incompatible with older VMware products||所选虚拟磁盘与此 %s 虚拟机不兼容。添加此磁盘会使此虚拟机与旧版 VMware 产品不兼容
+The selected virtual disk is too large to be used with this %s virtual machine. Adding this disk would make this virtual machine incompatible with older VMware products||所选虚拟磁盘太大，无法用于此 %s 虚拟机。添加此磁盘会使此虚拟机与旧版 VMware 产品不兼容
+The selected virtual disk is too old to be used with this %s virtual machine.||所选虚拟磁盘太旧，无法用于此 %s 虚拟机。
+The virtual machine "%s" claims to be a member of the team "%s", but the team cannot be found or opened. To open this virtual machine you must either locate the team or reset the virtual machine to no longer consider itself a member of the team.||虚拟机“%s”声称是团队“%s”的成员，但找不到或无法打开该团队。要打开此虚拟机，你必须找到该团队，或重置虚拟机使其不再视为该团队的成员。
+The virtual machine cannot be repaired this way||无法通过这种方式修复虚拟机
+The virtual machine cannot be shut down until VMware Tools finishes running the script.||在 VMware Tools 完成运行脚本之前，无法关闭虚拟机。
+The virtual machine cannot be suspended until VMware Tools finishes running the script.||在 VMware Tools 完成运行脚本之前，无法挂起虚拟机。
+Thin provisioned||精简置备
+This VM's version of %s is out of date.||此虚拟机的 %s 版本已过期。
+This device does not support using client device.||此设备不支持使用客户端设备。
+This file is required to power on this virtual machine. If this file was moved, specify the new location.||此文件是开启此虚拟机电源所必需的。如果此文件已被移动，请指定新位置。
+This product has expired and your virtual machine cannot be powered on.\nMake sure that your host's date and time are set correctly.\n\nThere is a more recent version available at the %s web site: "%s"||此产品已过期，无法开启虚拟机电源。\n请确保主机的日期和时间设置正确。\n\n在 %s 网站上有更新的版本可用：“%s”
+This virtual machine is a linked clone but its parent is not encrypted. This means that even if you encrypt this virtual machine, part of its data will remain unprotected.||此虚拟机是链接克隆，但其父虚拟机未加密。这意味着即使你加密此虚拟机，其部分数据仍将不受保护。
+To direct input to this VM, click inside or press %s.||要将输入定向到此虚拟机，请单击其内部或按 %s。
+To direct input to this VM, move the mouse pointer inside or press %s.||要将输入定向到此虚拟机，请将鼠标指针移入或按 %s。
+To direct input to this VM, press %s.||要将输入定向到此虚拟机，请按 %s。
+To return to your computer, move the mouse pointer outside or press %s.||要返回你的计算机，请将鼠标指针移到外部或按 %s。
+To return to your computer, press %s.||要返回你的计算机，请按 %s。
+USB 3.2 Controller||USB 3.2 控制器
+USB Device||USB 设备
+Unable to change the guest resolution at this time||此时无法更改客户机分辨率
+Unable to mount the %s image.||无法挂载 %s 映像。
+Unable to mount the image: %s.||无法挂载映像：%s。
+Unable to stretch guest while it is not in stretch mode.||客户机不在拉伸模式时无法拉伸。
+Unable to stretch the guest at this time.||此时无法拉伸客户机。
+Unable to unmount the %s image.||无法卸载 %s 映像。
+Unable to unmount the image: %s.||无法卸载映像：%s。
+Unable to upgrade virtual machine: %s.\n||无法升级虚拟机：%s。\n
+Undoable||可撤销
+Unlimited||不限制
+Unrecognized (HW%d)||无法识别 (HW%d)
+Unrecognized type||无法识别的类型
+Unrecognized virtual machine (HW%d)||无法识别的虚拟机 (HW%d)
+Unrestricted||不限制
+Upgrade this virtual machine by selecting VM > Manage > Change Hardware Compatibility.||请选择“虚拟机”>“管理”>“更改硬件兼容性”来升级此虚拟机。
+Using %s on another computer||在另一台计算机上使用 %s
+Using a device or file on another console||使用另一控制台上的设备或文件
+Using device %s||使用设备 %s
+Using drive %s||使用驱动器 %s
+Using drive %s across sessions||跨会话使用驱动器 %s
+Using drive %s for this session||本次会话使用驱动器 %s
+Using file %s for this session||本次会话使用文件 %s
+Using local drive %s||使用本地驱动器 %s
+Using local file %s||使用本地文件 %s
+Using named pipe %s||使用命名管道 %s
+Using partitions||使用分区
+Using port %s||使用端口 %s
+Using remote drive %s||使用远程驱动器 %s
+Using remote file %s||使用远程文件 %s
+Using socket %s||使用套接字 %s
+Using unknown backend||使用未知后端
+VMCI||VMCI
+VMCI %d||VMCI %d
+Virtual machine "%s" is configured to clean up disks automatically. Continue?||虚拟机“%s”已配置为自动清理磁盘。是否继续？
+Virtual printer requires a printer device on the virtual machine. Please add a printer for this virtual machine, and then try again.||虚拟打印机需要虚拟机上的打印机设备。请为此虚拟机添加打印机，然后重试。
+Workstation 10.x virtual machine||Workstation 10.x 虚拟机
+Workstation 11.x virtual machine||Workstation 11.x 虚拟机
+Workstation 12.x virtual machine||Workstation 12.x 虚拟机
+Workstation 14.x virtual machine||Workstation 14.x 虚拟机
+Workstation 15.x virtual machine||Workstation 15.x 虚拟机
+Workstation 16.2.x virtual machine||Workstation 16.2.x 虚拟机
+Workstation 16.x virtual machine||Workstation 16.x 虚拟机
+Workstation 17.5-17.6.x virtual machine||Workstation 17.5-17.6.x 虚拟机
+Workstation 17.x virtual machine||Workstation 17.x 虚拟机
+Workstation 25H2 or later virtual machine||Workstation 25H2 或更高版本虚拟机
+Workstation 4.x virtual machine||Workstation 4.x 虚拟机
+Workstation 4.x virtual machine; ESX 2.x compatible||Workstation 4.x 虚拟机；兼容 ESX 2.x
+Workstation 5.x virtual machine||Workstation 5.x 虚拟机
+Workstation 5.x virtual machine; ESX 3.x compatible||Workstation 5.x 虚拟机；兼容 ESX 3.x
+Workstation 6.0 virtual machine||Workstation 6.0 虚拟机
+Workstation 6.5-7.x virtual machine||Workstation 6.5-7.x 虚拟机
+Workstation 8.x virtual machine||Workstation 8.x 虚拟机
+Workstation 9.x virtual machine||Workstation 9.x 虚拟机
+You can't compact this virtual disk because it is preallocated.||你无法压缩此虚拟磁盘，因为它已预分配。
+Your license has expired. You must have a valid license to power on virtual machines.||你的许可证已过期。你必须拥有有效的许可证才能开启虚拟机电源。

@@ -1,0 +1,162 @@
+<b>1.</b> Insert the installation CD-ROM or DVD.\n<b>2.</b> Power on the virtual machine.\n<b>3.</b> Install the operating system as you would for a physical computer.||<b>1.</b> 插入安装 CD-ROM 或 DVD。\n<b>2.</b> 开启虚拟机电源。\n<b>3.</b> 像在物理计算机上一样安装操作系统。
+<b>1.</b> Power on the virtual machine.\n<b>2.</b> Let the guest operating system load, and login if necessary.\n<b>3.</b> From the menu bar, select VM > Install VMware Tools..||<b>1.</b> 开启虚拟机电源。\n<b>2.</b> 等待客户机操作系统加载，如有需要请登录。\n<b>3.</b> 从菜单栏选择“虚拟机”>“安装 VMware Tools”。
+A full clone is a complete copy of the original virtual machine at its current state. The virtual machine is fully independent and requires more disk space to store.||完整克隆是原始虚拟机当前状态的完整副本。该虚拟机完全独立，需要更多磁盘空间来存储。
+A linked clone is a reference to the original virtual machine and requires less disk space to store. However, it cannot run without access to the original virtual machine.||链接克隆是对原始虚拟机的引用，占用的磁盘空间更少。但它必须在能够访问原始虚拟机的情况下才能运行。
+A new virtual machine is like a physical computer with a blank hard disk. The typical way to install the operating system is:||新虚拟机就像一台带有空白硬盘的物理计算机。安装操作系统的典型方式如下：
+A virtual machine is composed of one or more files on the host file system, which will appear as a single hard disk to the guest operating system. Virtual disks can easily be copied or moved on the same host or between hosts.||虚拟机由主机文件系统上的一个或多个文件组成，在客户机操作系统中会显示为一块硬盘。虚拟磁盘可以轻松地在同一主机上或不同主机之间复制或移动。
+Add to library option||添加到库选项
+Add to:||添加到：
+An existing _snapshot (powered off only)||现有快照（仅限已关闭电源）
+B_usLogic||BusLogic
+B_usLogic (Recommended)||BusLogic（推荐）
+Browse For Virtual Disk File||浏览虚拟磁盘文件
+Browse for Location||浏览位置
+Browse for Virtual Machine Location||浏览虚拟机位置
+Browse the storage path||浏览存储路径
+BusLogic SCSI controllers are not supported on %s virtual machines.||在 %s 虚拟机上不支持 BusLogic SCSI 控制器。
+BusLogic SCSI controllers are not supported on 64-bit virtual machines.||在 64 位虚拟机上不支持 BusLogic SCSI 控制器。
+BusLogic SCSI controllers only support disk sizes up to 2 TB.||BusLogic SCSI 控制器仅支持最大 2 TB 的磁盘。
+C_reate a new clone of this virtual machine||创建此虚拟机的新克隆
+C_ustom (advanced)||自定义（高级）
+Change the hardware configuration of this virtual machine. Some hardware capabilities may be removed or altered.||更改此虚拟机的硬件配置。某些硬件功能可能会被移除或更改。
+Changes to Apply||要应用的更改
+Choose VM location||选择虚拟机位置
+Choose this option to give the virtual machine direct access to a local hard disk.||选择此选项可让虚拟机直接访问本地硬盘。
+Choose this option to reuse a previously configured disk.||选择此选项可重复使用先前配置的磁盘。
+Clone Destination||克隆目标
+Clone From||克隆来源
+Clone Type||克隆类型
+Clone this virtual machine before altering the hardware configuration. The original virtual machine will remain unaltered.||在更改硬件配置之前克隆此虚拟机。原始虚拟机将保持不变。
+Cloning the virtual machine will create a complete copy of the original VM at its current state.  The new VM is fully independent and requires additional disk space to store.||克隆虚拟机将创建原始虚拟机当前状态的完整副本。新虚拟机完全独立，需要额外的磁盘空间来存储。
+Compatible Products||兼容产品
+Connect the guest operating system to a private virtual network on the host computer.||将客户机操作系统连接到主机上的专用虚拟网络。
+Continue to import these referenced network files||继续导入这些引用的网络文件
+Copy to:||复制到：
+Create Virtual Disk||创建虚拟磁盘
+Create a _full clone||创建完整克隆
+Create a _linked clone||创建链接克隆
+Create a new _virtual disk||创建新的虚拟磁盘
+Creating a linked clone from the current state will create a new snapshot.||从当前状态创建链接克隆将创建一个新快照。
+Datastore Selection||数据存储选择
+Deployment Options||部署选项
+Description:||描述：
+Device||设备
+Device: %s||设备：%s
+Directory "%s" does not exist.||目录“%s”不存在。
+Disk||磁盘
+Disk File||磁盘文件
+Disk Size||磁盘大小
+Don't _show this page again||不再显示此页面
+Existing Disk File||现有磁盘文件
+F_ile name:||文件名：
+Failed to create folder: %s||创建文件夹失败：%s
+Failed to load partitions for device %s: %s||无法加载设备 %s 的分区：%s
+Failed to start scan.||无法开始扫描。
+Feature Changes||功能变更
+Features Gained||新增功能
+Features Lost||失去的功能
+Firmware Type||固件类型
+Give the guest operating system access to the host computer's Wi-Fi or Ethernet network connection using the host's IP address.||使用主机的 IP 地址让客户机操作系统访问主机的 Wi-Fi 或以太网网络连接。
+Give the guest operating system direct access to an external Ethernet network. The guest must have its own IP address on the external network.||让客户机操作系统直接访问外部以太网。客户机必须在外部网络上拥有自己的 IP 地址。
+H_ost:||主机：
+Hardware compa_tibility:||硬件兼容性：
+Host Selection||主机选择
+I accept the terms of the license agreement.||我接受许可协议的条款。
+I/O Controller Types||I/O 控制器类型
+IDE disks cannot be added while the VM is powered on.||虚拟机开启电源时无法添加 IDE 磁盘。
+If you choose to share this VM you will gain some features but lose others:||如果你选择共享此虚拟机，将获得一些功能但也失去另一些功能：
+Import Virtual Machine||导入虚拟机
+Install the Guest Operating System||安装客户机操作系统
+Inventory Folder||清单文件夹
+Keep the hierarchy of folder in library||在库中保留文件夹层次结构
+Keep the hierarchy of folder in target location||在目标位置保留文件夹层次结构
+LSI Logic SAS controllers are not supported on %s virtual machines.||在 %s 虚拟机上不支持 LSI Logic SAS 控制器。
+LSI Logic SCSI controllers are not supported on %s virtual machines.||在 %s 虚拟机上不支持 LSI Logic SCSI 控制器。
+LSI Logic _SAS||LSI Logic SAS
+LSI Logic _SAS (Recommended)||LSI Logic SAS（推荐）
+Limitations||限制
+Loading...||正在加载...
+Location||位置
+Maximum disk _size (in GB):||最大磁盘大小（GB）：
+Moving the virtual machine will relocate all files associated with the VM into the Shared Virtual Machine directory.||移动虚拟机将把与该虚拟机关联的所有文件重新放置到共享虚拟机目录中。
+NVMe disks are not supported by %s.||%s 不支持 NVMe 磁盘。
+NVMe disks cannot be added while the VM is powered on.||虚拟机开启电源时无法添加 NVMe 磁盘。
+N_VMe||NVMe
+N_ame:||名称：
+N_amed Network||命名网络
+Network Connection||网络连接
+Open Existing Virtual Disk||打开现有虚拟磁盘
+Options Description||选项说明
+Paravirtualized SCSI controllers are not supported on %s virtual machines by Easy Install.||简易安装不支持在 %s 虚拟机上使用半虚拟化 SCSI 控制器。
+Partitions||分区
+Path||路径
+Path:||路径：
+Physical disks cannot be used with encrypted virtual machines.||物理磁盘不能与加密的虚拟机一起使用。
+Progress||进度
+Referenced Network Files||引用的网络文件
+SCSI controller:||SCSI 控制器：
+S_ATA||SATA
+Scan for Virtual Machines Wizard||扫描虚拟机向导
+See the <a href="%s">Guest Operating System Installation Guide</a> for details.||有关详细信息，请参阅<a href=&quot;%s&quot;>客户机操作系统安装指南</a>。
+See the <a href="%s">VMware Tools Installation Guide</a> for details.||有关详细信息，请参阅<a href=&quot;%s&quot;>VMware Tools 安装指南</a>。
+Select a host||选择主机
+Select a location to scan:||选择要扫描的位置：
+Share Virtual Machine Wizard||共享虚拟机向导
+Shared VM Location||共享虚拟机位置
+Special device drivers and utilities can help a virtual machine work more seamlessly with the host computer. To install them:||特殊的设备驱动程序与实用工具可以帮助虚拟机与主机更无缝地协作。要安装它们：
+Split virtual disk into _multiple files||将虚拟磁盘拆分为多个文件
+Stop Processing||停止处理
+Stop Search||停止搜索
+Stop Sharing Virtual Machine Wizard||停止共享虚拟机向导
+Storage path for the selected virtual machines||所选虚拟机的存储路径
+Store virtual disk as a sing_le file||将虚拟磁盘存储为单个文件
+Target Virtual Machine||目标虚拟机
+The Shared VM directory is reserved for virtual machines that are being made available to remote users.  If you wish to stop sharing this VM it needs to be relocated.||共享虚拟机目录专用于提供给远程用户使用的虚拟机。如果你想停止共享此虚拟机，需要将其迁移到其他位置。
+The c_urrent state in the virtual machine||虚拟机中的当前状态
+The default location can be changed at Edit > Preferences.||默认位置可在“编辑”>“首选项”中更改。
+The passwords for property "%s" do not match. Type the same password in both text boxes.||属性“%s”的密码不匹配。请在两个文本框中输入相同的密码。
+The selected directory '%s' is invalid. Please choose a different directory.||所选目录“%s”无效。请选择其他目录。
+The virtual machine must be moved out of the Shared VM directory (%s).||必须将虚拟机移出共享虚拟机目录（%s）。
+The virtual machine will be powered on after deployment.\nThese properties may need some time to take effect after the vCenter appliance first power on, so please wait and do not shutdown the appliance.||部署后将开启虚拟机电源。\n这些属性可能需要在 vCenter 设备首次开机后过一段时间才会生效，因此请耐心等待，不要关闭该设备。
+The virtual machine you are cloning is a linked clone. Creating a full clone from a linked clone will resolve all links. The resulting virtual machine will no longer be linked and will require more disk space.||你正在克隆的虚拟机是链接克隆。从链接克隆创建完整克隆将解析所有链接。生成的虚拟机将不再是链接的，并且需要更多磁盘空间。
+The virtual machine you are cloning is already a linked clone. Your new clone will require access to all the virtual machines it is linked to.||你正在克隆的虚拟机已经是链接克隆。新克隆需要能够访问它所链接到的所有虚拟机。
+This guest OS requires a virtual TPM (Trusted Platform Module).\n\nThe data for the virtual TPM must be encrypted with a password. Make sure to write down this password in a secure location. You will not be able to use this virtual machine without it.||此客户机操作系统需要虚拟 TPM（可信平台模块）。\n\n虚拟 TPM 的数据必须使用密码加密。请务必将此密码记录在安全的位置。没有它你将无法使用此虚拟机。
+This package references network files, accessing network files may expose security information to untrusted servers, and network files may harm your computer.||此软件包引用了网络文件，访问网络文件可能会向不受信任的服务器泄露安全信息，并且网络文件可能会损害你的计算机。
+This virtual machine can be neither moved nor cloned and is unable to be shared at this time.||此虚拟机既无法移动也无法克隆，目前无法共享。
+This virtual machine is a template. It can be cloned only from a snapshot.||此虚拟机是模板。只能从快照进行克隆。
+This virtual machine is a template. To clone it, you must create a snapshot or remove template mode.||此虚拟机是模板。要克隆它，必须创建快照或退出模板模式。
+This wizard will guide you through the steps of adding new hardware to your virtual machine.\n\nTo begin, please select the type of hardware you want to add.||此向导将引导你完成向虚拟机添加新硬件的步骤。\n\n首先，请选择要添加的硬件类型。
+This wizard will help you create a copy of this virtual machine. \n\nIf you intend for other users to create clones from this virtual machine, you should enable template mode under VM > Settings > Options > Advanced.||此向导将帮助你创建此虚拟机的副本。\n\n如果你希望其他用户从此虚拟机创建克隆，应在“虚拟机”>“设置”>“选项”>“高级”中启用模板模式。
+Usage||用途
+Use a custom virtual network that you have already specified in the VM Settings editor.||使用你已在虚拟机设置编辑器中指定的自定义虚拟网络。
+Use an _existing virtual disk||使用现有虚拟磁盘
+Use b_ridged networking||使用桥接网络
+Use entire _disk||使用整个磁盘
+Use h_ost-only networking||使用仅主机网络
+Use network _address translation (NAT)||使用网络地址转换 (NAT)
+VM Sharing Mode||虚拟机共享模式
+Virtual Disk Type||虚拟磁盘类型
+Virtual Machine Configuration||虚拟机配置
+Virtual Machine Hardware Compatibility||虚拟机硬件兼容性
+Virtual Machine Name||虚拟机名称
+Virtual Machines to Add||要添加的虚拟机
+Virtual Machines to import||要导入的虚拟机
+Waiting||等待中
+You have selected to create a full virtual machine clone with the following information:||你已选择使用以下信息创建完整虚拟机克隆：
+You have selected to create a linked virtual machine clone with the following information:||你已选择使用以下信息创建链接虚拟机克隆：
+You may choose to encrypt the virtual machine file for more security.||你可以选择加密虚拟机文件以获得更高的安全性。
+_Allocate all disk space now||立即分配所有磁盘空间
+_Alter this virtual machine||更改此虚拟机
+_Do not use a network connection||不使用网络连接
+_IDE||IDE
+_LSI Logic||LSI Logic
+_LSI Logic (Recommended)||LSI Logic（推荐）
+_Move the virtual machine||移动虚拟机
+_Paravirtualized SCSI||半虚拟化 SCSI
+_Paravirtualized SCSI (Recommended)||半虚拟化 SCSI（推荐）
+_SCSI (Recommended)||SCSI（推荐）
+_Shared VM Name||共享虚拟机名称
+_Typical (recommended)||典型（推荐）
+_Update VM Location||更新虚拟机位置
+_Use a physical disk (for advanced users)||使用物理磁盘（高级用户）
+_Use individual partitions||使用单个分区

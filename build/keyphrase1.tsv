@@ -1,0 +1,111 @@
+msg.snapshot.consolidate.failPoweredOff||整合快照时出错：虚拟机在整合完成前已关闭电源。
+msg.snapshot.consolidate.poweringOn||请等待虚拟机完全开机或关机后再进行整合。
+msg.snapshot.enc.safe||存在快照时无法修改虚拟机的加密状态。
+msg.snapshot.enc.safeClone||链接克隆无法修改虚拟机的加密状态。
+msg.snapshot.error-CHECKPOINT||无法保存快照文件
+msg.snapshot.error-CONFIG||配置文件问题
+msg.snapshot.error-CONFIGWRITE||写入配置失败
+msg.snapshot.error-CRYPTO||加密库问题
+msg.snapshot.error-DICTIONARY||字典问题
+msg.snapshot.error-DISKLIB||磁盘问题
+msg.snapshot.error-DISKLOCKED||一个或多个磁盘正忙
+msg.snapshot.error-DUMPER||无法打开快照文件
+msg.snapshot.error-DUPLICATEDISK||此虚拟机中的某个磁盘已被某台虚拟机或某个快照使用
+msg.snapshot.error-ENCFILE||加密文件问题
+msg.snapshot.error-EXISTS||该名称的文件已存在
+msg.snapshot.error-FAILED||操作失败
+msg.snapshot.error-FILEIO||文件 I/O 问题
+msg.snapshot.error-FOUNDRYFILE||无法为所有元数据文件拍摄快照
+msg.snapshot.error-INCONSISTENT||快照文件处于不一致状态
+msg.snapshot.error-INDEPDISK||具有独立磁盘的虚拟机不允许执行此操作
+msg.snapshot.error-INVAL||其中一个参数无效
+msg.snapshot.error-INVALIDSTATE||在没有 NFS VAAI 支持的情况下无法继续快照操作
+msg.snapshot.error-LOCKED||快照操作已在进行中
+msg.snapshot.error-MAXSNAPSHOTS||超过了允许的最大快照数
+msg.snapshot.error-MEM||内存不足
+msg.snapshot.error-MINFREESPACE||可用空间少于配置的最小可用空间
+msg.snapshot.error-NAMETOOLONG||文件名太长
+msg.snapshot.error-NOCHANGE||自上次快照操作以来虚拟机状态未发生变化
+msg.snapshot.error-NODSD||此快照中没有 diskStoreFile (.dsd)
+msg.snapshot.error-NONVRAM||此快照中没有 NVRAM
+msg.snapshot.error-NOPERM||权限不足
+msg.snapshot.error-NOQUIESCING||虚拟机不支持静默快照
+msg.snapshot.error-NOSPACE||没有足够的可用存储空间完成请求的操作
+msg.snapshot.error-NOTFOUND||未找到所需的文件
+msg.snapshot.error-NOTPATH||文件名不正确
+msg.snapshot.error-NOTREVERTABLE||指定的快照无法恢复
+msg.snapshot.error-NOTSUPPORTED||不支持该操作
+msg.snapshot.error-OBJLIB||对象存储问题
+msg.snapshot.error-QUIESCINGERROR||使虚拟机静默失败
+msg.snapshot.error-SHAREDDISK||无法为共享磁盘拍摄快照
+msg.snapshot.error-SUCCESS||操作已成功完成
+msg.snapshot.error-TEMPLATE||虚拟机是模板
+msg.snapshot.error-UNCOMMITTED||快照树处于未提交状态
+msg.snapshot.error-UNKNOWNUID||指定的快照不存在
+msg.snapshot.error-VERSION||此虚拟机不允许使用快照
+msg.snapshot.error.clone||克隆失败：
+msg.snapshot.error.consolidate||无法清理已删除的文件：
+msg.snapshot.error.defrag||碎片整理失败：
+msg.snapshot.error.estimateShrink||无法估算可回收的磁盘空间：
+msg.snapshot.error.fork||分支时出错：
+msg.snapshot.error.format.2lines||%s\n%s。
+msg.snapshot.error.getDiskUsage||读取磁盘使用情况时出错：
+msg.snapshot.error.invalid||无效的快照错误
+msg.snapshot.error.remove||删除时出错：
+msg.snapshot.error.revert||恢复快照时出错：
+msg.snapshot.error.screenshot||检索屏幕截图时出错：
+msg.snapshot.error.setinfo||设置快照信息时出错：
+msg.snapshot.error.setinfoMRU||设置快照 MRU 条目时出错：
+msg.snapshot.error.setmru||设置 MRU 时出错：
+msg.snapshot.error.shrinkDiskTree||无法回收未使用的磁盘空间：
+msg.snapshot.error.take||拍摄快照时出错：
+msg.snapshot.estimateShrink.poweringOn||此虚拟机已开启电源时，无法收回空间。
+msg.snapshot.fork.notRunning||只能为正在运行的虚拟机创建分支。
+msg.snapshot.nospace||文件系统中的空间不足以执行所选操作。请释放 %s 后重试。
+msg.snapshot.powerOff.error||关闭电源时出错：
+msg.snapshot.revert.failPowerOn||恢复快照后虚拟机无法开机。虚拟机将保持挂起状态，随时可从该快照恢复。
+msg.snapshot.revert.poweringOn||请等待虚拟机完全开机后再恢复到快照。
+msg.snapshot.shrinkDiskTree.poweringOn||请等待虚拟机完全关机后再回收磁盘空间。
+msg.snapshot.take.failPowerOn||拍摄快照时出错：虚拟机在拍摄快照前已关闭电源。
+msg.snapshot.take.poweringOn||请等待虚拟机完全开机后再拍摄快照。
+msg.snapshot.unknown.failPoweredOff||完成请求的快照操作时出错：虚拟机在操作完成前已关闭电源。
+msg.snapshot.vigor.clone.error||克隆时发生错误：%s。
+msg.snapshot.vigor.consolidate.error||整合磁盘时发生错误：%s。
+msg.snapshot.vigor.consolidateSpace.error||查询空间需求失败：%s。\n
+msg.snapshot.vigor.delete.error||删除快照时发生错误：%s。
+msg.snapshot.vigor.missing.errorInfo||搜索缺失文件时出错：%s。
+msg.snapshot.vigor.missing.file||文件“%s”（类型 %s）缺失。
+msg.snapshot.vigor.missing.replace||替换缺失文件时出错：%s。
+msg.snapshot.vigor.repairNativeCheck.error||检查虚拟机的本机快照损坏失败：%s。
+msg.snapshot.vigor.repairNativeRepair.error||修复虚拟机的本机快照损坏失败：%s。
+msg.snapshot.vigor.revert.error||恢复到快照时发生错误：%s。
+msg.snapshot.vigor.revert.errorFcd||跨越“改进虚拟磁盘”快照时无法恢复虚拟机。
+msg.snapshot.vigor.setinfo.error||设置快照信息时发生错误：%s。
+msg.snapshot.vigor.take.error||拍摄快照时发生错误：%s。
+msg.License.append.close||无法关闭许可证文件“%s”：%s。\n
+msg.License.append.open.dst||无法以读写模式打开许可证备份文件“%s”：%s。\n
+msg.License.append.open.src||无法以只读模式打开许可证文件“%s”：%s。\n
+msg.License.append.read.dst||无法从许可证备份文件“%s”读取：%s。\n
+msg.License.append.reopen.src||无法以写入模式重新打开许可证文件“%s”：%s。\n
+msg.License.append.rewind.dst||无法定位到许可证备份文件“%s”的开头：%s。\n
+msg.License.append.rewind.src||无法定位到许可证文件“%s”的开头：%s。\n
+msg.License.append.unlink||无法删除许可证备份文件“%s”：%s。\n
+msg.License.append.write.dst||无法写入许可证备份文件“%s”：%s。\n
+msg.License.append.write.src||无法写入许可证文件“%s”：%s。\n
+msg.License.cantFstatFile||无法对“%s”文件执行 fstat：%s\n
+msg.License.cantOpenFile||无法打开“%s”文件：%s\n
+msg.License.copy.failure||无法将位于“%s”的许可证复制到位置“%s”。\n
+msg.License.corrupted||许可证已损坏。\n
+msg.License.expired.express||位于“%s”的许可证已过期。请转到“%s”获取新许可证。\n
+msg.License.invalid1||无效许可证：无版本信息\n
+msg.License.invalid3||解析许可证时出错。\n
+msg.License.licenseAt||位于 %s 的许可证：\n
+msg.License.nem||内存不足\n\n
+msg.License.noHash.linux||许可证中没有哈希值。\n
+msg.License.noType||许可证中没有类型值。\n
+msg.License.patch.pbm||无法将序列号写入位于“%s”的许可证。\n
+msg.License.version||需要新许可证才能运行此版本的 %s。请转到“%s”获取新许可证。\n
+msg.License.wrongType||许可证类型不正确。\n
+msg.msg.vmui.library.closeButton.accessDescription||关闭面板
+msg.msg.vmui.library.closeButton.accessName||关闭
+msg.msg.vmui.thumbnailBar.menuButton.accessName||展开/折叠

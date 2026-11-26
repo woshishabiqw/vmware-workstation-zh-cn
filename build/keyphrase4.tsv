@@ -1,0 +1,126 @@
+msg.autoinstall.bad_ubuntu_username||用户名必须以小写美式英文字符开头。\n输入新值。
+msg.autoinstall.bad_linux_username||用户名只能由小写美式英文字符、数字 0 到 9 和连字符组成。\n输入新值。
+msg.autoinstall.bad_linux_name||完整名称不允许包含以下字符：冒号、双引号、反斜杠或逗号。\n输入新值。
+msg.autoinstall.bad_gecos_substring||完整名称不能连续包含字符 ']]>'。\n输入新值。
+msg.autoinstall.bad_password_substring||密码不能连续包含字符 ']]>'。\n输入新值。
+msg.autoinstall.bad_windows_name||名称不能包含以下字符：斜杠、反斜杠、方括号、引号、冒号、分号、竖线、尖括号、加号、等号、逗号、问号或星号。\n输入新值。
+msg.autoinstall.winpfx_2k8||Windows Server 2008
+msg.autoinstall.winpfx_2k8r2||Windows Server 2008 R2
+msg.autoinstall.winpfx_2016tp||Windows Server 2016 TP5
+msg.autoinstall.winsfx_2015ltsb|| 2015 LTSB
+msg.autoinstall.winsfx_n2015ltsb|| N 2015 LTSB
+msg.autoinstall.winsfx_2016ltsb|| 2016 LTSB
+msg.autoinstall.winsfx_n2016ltsb|| N 2016 LTSB
+msg.autoinstall.winsfx_ltsc2019|| LTSC 2019
+msg.autoinstall.winsfx_cn|| 中文版
+msg.autoinstall.winsfx_homesl|| 单语言版
+msg.autoinstall.winsfx_edu_n|| 教育版 N
+msg.autoinstall.winsfx_edu|| 教育版
+msg.autoinstall.winsfx_workstations|| 工作站版
+msg.autoinstall.winsfx_n_workstations|| 工作站版 N
+msg.autoinstall.winsfx_virtualDesktops|| 虚拟桌面版
+msg.autoinstall.winsfx_v||（无 Hyper-V）
+msg.autoinstall.winsfx_core|| 核心版
+msg.autoinstall.winsfx_vcore|| 核心版（无 Hyper-V）
+msg.autoinstall.winsfx_kn|| KN
+msg.autoinstall.win_starter|| 入门版
+msg.autoinstall.win_homebasic|| 家庭普通版
+msg.autoinstall.win_homepremium|| 家庭高级版
+msg.autoinstall.win_pro|| 专业版
+msg.autoinstall.win_business|| 商业版
+msg.autoinstall.win_enterprise|| 企业版
+msg.autoinstall.win_ultimate|| 旗舰版
+msg.autoinstall.win8_pro|| 专业版
+msg.autoinstall.win8_enterprise|| 企业版
+msg.autoinstall.win_home|| 家庭版
+msg.autoinstall.win_education|| 教育版
+msg.autoinstall.winsrv_standard|| 标准版
+msg.autoinstall.winsrv_web|| Web 版
+msg.autoinstall.winsrv_datacenter|| 数据中心版
+msg.autoinstall.winsrv_enterprise|| 企业版
+msg.autoinstall.winsrv_sbs_std|| 小型企业标准版
+msg.autoinstall.winsrv_sbs_found|| 小型企业基础版
+msg.autoinstall.winsrv_sbs_premium|| 小型企业高级版
+msg.autoinstall.winsrv_solution|| 基础版
+msg.autoinstall.winsrv_sto_std|| 存储标准版
+msg.autoinstall.winsrv_sto_wg|| 存储工作组版
+msg.vtpm.offline.failStart||可信平台模块无法初始化。
+msg.vtpm.offline.failPowerOn||可信平台模块无法初始化。
+msg.vtpm.offline.failSetWritable||可信平台模块无法切换为可写模式。
+msg.vtpm.notSupported||必须先升级此虚拟机才能添加可信平台模块。
+msg.vtpm.readonly.notSupported||当前虚拟机硬件版本不支持只读 TPM。
+msg.vtpm.add.notEncrypted||必须先加密虚拟机才能添加可信平台模块。
+msg.vtpm.offline.failCreate||无法创建可信平台模块状态。
+msg.vtpm.offline.failRemove||无法安全移除可信平台模块数据：%s
+msg.vtpm.offline.failPurge||无法安全移除可信平台模块数据：%s
+msg.vtpm.ekcrt.readOnly||无法在只读设备上设置认可密钥证书。
+msg.vtpm.ekcrt.empty||认可密钥证书不能为空。
+msg.vtpm.ekcrt.notDER||认可密钥证书格式不正确。
+msg.vtpm.ekcrt.mismatch||认可密钥证书与可信平台模块不匹配。
+msg.vtpm.poweron.bios||虚拟机必须使用 EFI 固件。
+msg.vtpm.poweron.notEncrypted||虚拟机必须已加密。
+msg.vtpm.ehv.unsupported||虚拟机无法开机，因为加密硬件虚拟化（AMD SEV 或 Intel TDX）与可信平台模块不兼容。
+msg.vtpm.initfail||虚拟 TPM 初始化失败。
+msg.usb.findFirstFree||搜索结果：%d %s %d %d
+msg.usb.invalidSpeed||USB 总线速度 %d 无效。
+msg.usb.noController||未为此虚拟机配置 USB 控制器。
+msg.usb.invalidPluginAction||USB 设备插件操作 (%1$d) 无效。
+msg.usb.tooManyPersistentDevices||此虚拟机已超过可连接的最大持久连接设备数。
+msg.usb.invalidDeviceString||USB 设备描述 (%s) 无效。
+msg.usb.anonymousDevice||USB 设备 %04x:%04x
+msg.usb.videoDeviceName||视频设备
+msg.usb.audioDeviceName||音频设备
+msg.usb.commDeviceName||调制解调器
+msg.usb.storageDeviceName||可移动磁盘
+msg.usb.bluetoothDeviceName||蓝牙适配器
+msg.usb.wirelessDeviceName||无线适配器
+msg.usb.hidDeviceName||输入设备
+msg.usb.smartCardDeviceName||读卡器
+msg.usb.autoConnectFailed||之前连接到此虚拟机的 USB 设备无法自动重新连接。如果该设备仍可用但位于其他 USB 端口，请手动重新连接。\n
+msg.usb.ehciHWVersion||升级虚拟机以启用设备“%s”的高速 USB 2.0 支持。将尝试将此设备连接到最可用的主机控制器。这可能导致此设备出现未定义的行为。
+msg.usb.hcAutoConnect||设备“%s”无法连接到其理想的主机控制器。将尝试将此设备连接到最可用的主机控制器。这可能导致此设备出现未定义的行为。
+msg.usb.virtualVideo.connectFailed||虚拟视频摄像头无法连接到虚拟机。\n
+msg.usb.hotadd.Retry||为“%s”选择的端口被另一设备占用。
+msg.usb.hotadd.Failed||无法添加 USB 设备“%s”。
+msg.usb.hotremove.Failed||无法移除 USB 设备“%s”。
+msg.usb.generic.devicebusy||主机当前正在使用设备“%s”。请关闭可能正在访问该设备的应用程序，然后重新尝试连接。\n
+msg.usb.nopassthru||将“%s”连接到此虚拟机不安全。通常，USB 鼠标和键盘显示为 PS/2 设备，不应作为 USB 外设连接。包含正在运行的虚拟机所用文件的 USB 设备无法连接到该虚拟机。有关详细信息，请参阅产品文档。\n
+msg.usb.nofreeports||无法连接“%s”。所有 USB 端口当前都在使用中。要连接此 USB 设备，请断开另一个 USB 设备后重试。\n
+msg.usb.deviceVanished||“%s”已不再连接到计算机。\n
+msg.usb.noLastHIDConnect||无法将“%s”连接到此虚拟机。主机需要此设备作为输入。\n
+msg.usb.tooManyDevices||无法将“%s”连接到此虚拟机。虚拟机已达到可连接 USB 设备的最大数量。\n
+msg.usb.patternNotFound||无法将“%s”连接到此虚拟机。未找到该设备。\n
+msg.usb.deviceInUse||“%s”已连接到另一台虚拟机。
+msg.usb.deviceDisallowedByPolicy||无法将“%s”连接到此虚拟机。虚拟机配置不允许该设备。\n
+msg.usb.connectStopped||USB 设备“%s”的连接已停止。\n
+msg.usb.cantConnect||无法将 USB 设备“%s”连接到虚拟机（错误代码 %d）。请联系 %s 技术支持寻求帮助。\n
+msg.usb.generic.needsBootCamp||设备“%s”需要在虚拟机中安装 Apple Boot Camp 驱动程序光盘。没有此驱动程序光盘，该设备可能无法正常工作，或可能导致客户机操作系统故障。是否继续？\n
+msg.usb.connectFailedErr||USB 设备“%s”的连接失败。%s\n
+msg.usb.disconnectHostDriver||指定的设备已被主机操作系统上的另一驱动程序 (%s) 占用。该设备可能正在使用中。要继续，将先把该设备从其当前驱动程序断开。
+msg.usb.claimFailedAfterDisconnect||现有驱动程序 (%s) 已断开，但 %s 仍无法占用该设备。(%s)\n
+msg.usb.disconnectFailed||无法成功断开现有驱动程序 (%s)。(%s)\n\n请手动卸载该驱动程序，然后重试。\n
+msg.usb.claimFailed||%s 无法占用该设备 (%s)\n
+msg.usb.disconnectHostProcess||指定的设备正被主机操作系统上的 %s 使用。继续将把该设备从主机操作系统分离。\n
+msg.vmencryptor.error-SUCCESS||操作已成功完成
+msg.vmencryptor.error-NOMEM||内存不足
+msg.vmencryptor.error-UNKNOWN||未知错误
+msg.vmencryptor.error-DICTIONARY||字典问题
+msg.vmencryptor.error-KEYLOCATOR||无法定位密钥
+msg.vmencryptor.error-KEYSAFE||密钥安全库问题
+msg.vmencryptor.error-FILEIO||文件 I/O 问题
+msg.vmencryptor.error-UNRECOVERABLE||虚拟机可能已损坏
+msg.vmencryptor.error-VM_NOT_ENC||虚拟机未加密
+msg.vmencryptor.error-BAD_PARAMETER||参数错误
+msg.vmencryptor.error-CRYPTO||加密库问题
+msg.vmencryptor.error-DISKLIB||磁盘问题
+msg.vmencryptor.error-NO_AUTHENT_KEYS||需要身份验证密钥
+msg.vmencryptor.error-NO_PASSWORD||虚拟机未受密码保护
+msg.vmencryptor.error-VM_HAS_CHECKPOINT||无法更改具有快照的虚拟机的加密状态
+msg.vmencryptor.error-NO_PRIVATE_KEY||导入的密钥不是私钥
+msg.vmencryptor.error-BAD_KEY||指定的密码不正确
+msg.vmencryptor.error-UNLOCK_FAILED||无法解锁虚拟机
+msg.vmencryptor.error-SNAPSHOTLIB||快照库问题
+msg.vmencryptor.error-HASCLONE||无法更改具有链接克隆的虚拟机的加密状态
+msg.vmencryptor.error-DISKSPACE||磁盘空间不足
+msg.vmencryptor.error-VERSION||此虚拟机不允许加密
+msg.vmencryptor.error-NEEDSREPAIR||虚拟机的一个磁盘需要修复

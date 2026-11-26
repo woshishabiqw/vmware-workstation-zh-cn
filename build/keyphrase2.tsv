@@ -1,0 +1,44 @@
+msg.snapshot.cantFindConfig||由于配置文件缺失或已重命名，此虚拟机不允许执行快照操作。\n如果文件或路径已被重命名，请关闭此虚拟机并重新启动 %s。\n
+msg.snapshot.consolidate.abort||虚拟机已超过磁盘整合允许的最长停机时间 %u 秒。
+msg.snapshot.consolidate.maxretries||%s 超过了最大整合重试次数。
+msg.snapshot.consolidate.retry||此时无法整合。请稍后重试。
+msg.snapshot.powerOff.prompt||你刚刚关闭了虚拟机的电源。你想做什么？\n
+msg.snapshot.powerOffSnapshotDescription||关闭电源时创建的自动快照
+msg.snapshot.powerOffSnapshotName||自动快照
+msg.snapshot.preparedPowerOff||虚拟机在快照操作完成前已关闭电源。
+msg.snapshot.quiesce.busy||无法使此虚拟机静默，因为当前正在进行另一个静默操作。\n
+msg.snapshot.quiesce.noerrmsg||（未提供有效消息）
+msg.snapshot.quiesce.notools||无法使此虚拟机静默，因为当前无法使用 VMware Tools。\n
+msg.snapshot.quiesce.rpc_timeout||与虚拟机中的 VMware Tools 通信时发生超时。
+msg.snapshot.quiesce.startfail||无法在虚拟机中启动静默操作。\n错误消息为：%s\n
+msg.snapshot.quiesce.timeout||使虚拟机静默时超时。\n
+msg.snapshot.quiesce.vmerr||客户机操作系统在静默期间报告了错误。\n错误代码为：%u\n错误消息为：%s\n
+msg.snapshot.setstring.putfailed||无法使用新数据更新快照设备。\n
+msg.snapshot.stun.commitOn||正在执行磁盘清理。无法拍摄快照。\n
+msg.snapshot.syncconsolidate.failed||%s 的同步整合失败：%s。
+msg.snapshot.take.allocMapsNoState||在未保存设备状态的情况下无法请求分配映射。\n
+msg.snapshot.take.forceNativeError||无法为一个或多个已配置的虚拟磁盘拍摄本机快照。\n
+msg.snapshot.take.lazyAndDevice||在没有设备状态的情况下无法拍摄后台快照。\n
+msg.snapshot.take.notoolsAllocMap||当 VMware Tools 未运行时无法请求分配映射。\n
+msg.snapshot.take.pausedAllocMap||虚拟机暂停时无法请求分配映射。\n
+msg.snapshot.take.quiesceAndAllocMaps||无法拍摄带分配映射的静默快照。\n
+msg.snapshot.take.quiesceAndDevice||无法拍摄带设备状态的静默快照。\n
+msg.snapshot.take.quiescing||静默操作期间无法拍摄快照。\n
+msg.snapshot.vigor.action.error||快照关闭电源操作无效，%d。
+msg.License.maxRunningVms||你的许可证最多允许同时运行 %u 台虚拟机，且已达到此限制。如果你现在想开启此虚拟机电源，请先关闭一台正在运行的虚拟机的电源。\n
+msg.License.near_expired.express.product_days_url||你的 %s 许可证将在 %u 天后过期。\n请确保你计算机的日期和时间设置正确。\n请转到“%s”获取新许可证。\n
+msg.License.no_valid_license_see_website||找不到可解锁此版本 %s 的许可证密钥。\n请访问我们的网站“%s”获取有效的许可证密钥。\n
+msg.License.periodic.expired.product_url||%s 许可证已过期，你的虚拟机现在将被挂起。\n请确保你计算机的日期和时间设置正确。\n请转到“%s”获取新的许可证密钥。\n
+msg.License.periodic.expires.soon.days_product_days_url||许可证将在 %d 天后过期。你正在使用的 %s 许可证将在 %d 天后过期，届时你的虚拟机将被挂起。\n请确保你计算机的日期和时间设置正确。\n请转到“%s”获取新的许可证密钥。\n
+msg.License.periodic.expires.soon.one_day_product_days_url||许可证将在一天后过期。你正在使用的 %s 许可证将在一天后过期，届时你的虚拟机将被挂起。\n请确保你计算机的日期和时间设置正确。\n请转到“%s”获取新的许可证密钥。\n
+msg.License.product.expired||此产品已过期。\n请确保你计算机的日期和时间设置正确。\n在 %s 网站上有更新的版本可用：“%s”。\n
+msg.License.product.near_expired.recent.product_days_url||你正在运行 %s 的预发布版本，它将在 %u 天后过期。\n请确保你计算机的日期和时间设置正确，然后查看“%s”获取更新的版本。\n
+msg.License.upgrade.serialgood||你输入了升级许可证密钥。%s 现在将查找版本 %u.x 的许可证，以完成解锁你的 %u.x 许可证。如果此消息之后没有错误，则表示已找到有效许可证。\n
+msg.msg.byte.one||%s 字节
+msg.msg.byte.twoOrMore||%s 字节
+msg.msg.byte.zero||%s 字节
+msg.msg.gigabyte.abbreviation||%s GB
+msg.msg.kilobyte.abbreviation||%s KB
+msg.msg.megabyte.abbreviation||%s MB
+msg.msg.terabyte.abbreviation||%s TB
+msg.msg.noMem||无法分配内存。\n

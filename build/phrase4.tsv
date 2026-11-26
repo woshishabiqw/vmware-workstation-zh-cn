@@ -1,0 +1,361 @@
+ selected|| 已选择
+"%s" cannot be closed while the virtual machine is busy.||“%s”在虚拟机忙碌时无法关闭。
+"%s" is still powered on.\n\nYou can continue to run it in the background or power it off now.||“%s”仍处于开启状态。\n\n你可以继续在后台运行它，或立即关闭电源。
+"%s" is still powered on.\n\nYou can continue to run it in the background, suspend it for later use, or power it off now.||“%s”仍处于开启状态。\n\n你可以继续在后台运行它、将其挂起以备后用，或立即关闭电源。
+%s Features||%s 功能
+%s Updates||%s 更新
+%s cannot exit while it is downloading, uploading, importing, or exporting a virtual machine. Cancel all operations and try again.||%s 在下载、上传、导入或导出虚拟机时无法退出。请取消所有操作后重试。
+%s is not a supported guest operating system for %s virtual machines. Some features of it might not work properly unless its virtual hardware is upgraded.||%s 不是 %s 虚拟机支持的客户机操作系统。除非升级其虚拟硬件，否则它的某些功能可能无法正常工作。
+%s: Invalid URL: %s\n||%s：无效的 URL：%s\n
+'%s' is open in another window.||“%s”已在另一个窗口中打开。
+(Not powered on)||（未开启）
+(Unknown)||（未知）
+0 MB||0 MB
+<b>Location:</b> %s||<b>位置：</b>%s
+A name must be specified for this virtual machine.||必须为此虚拟机指定名称。
+A_uthor:||作者：
+Active Task||活动任务
+Additional Memory||附加内存
+Allow _memory page trimming||允许内存页修剪
+Allow _some virtual machine memory to be swapped||允许交换部分虚拟机内存
+Allow ha_rdware acceleration for all virtual machine consoles||为所有虚拟机控制台允许硬件加速
+Allow mos_t virtual machine memory to be swapped||允许交换大部分虚拟机内存
+Alt + ||Alt + 
+Ask me||询问我
+AutoProtect||自动保护
+AutoProtect _interval:||自动保护间隔：
+AutoProtect is not supported for %s virtual machines.||%s 虚拟机不支持自动保护。
+Autofit||自动适应
+Autofit _window||自动适应窗口
+Autofit g_uest||自动适应客户机
+B_andwidth:||带宽：
+Browse for Default Location||浏览默认位置
+Browse for Screenshot Location||浏览截图位置
+Browse for Working Directory||浏览工作目录
+CD/DVD Advanced Settings||CD/DVD 高级设置
+CPU Usage:||CPU 使用率：
+CPUs:||CPU 数：
+C_enter guest (no resolution change)||居中客户机（不更改分辨率）
+C_lose after powering off or suspending||关闭电源或挂起后关闭
+Changes are immediately and permanently written to disk.||更改会立即且永久地写入磁盘。
+Changes to this disk are discarded when you power off or restore a snapshot.||关闭电源或恢复快照时，对此磁盘的更改将被丢弃。
+Changing firmware might cause the installed guest operating system to become unbootable.||更改固件可能导致已安装的客户机操作系统无法启动。
+Clone of: ||克隆自：
+Co_nfirm:||确认：
+Combine _toolbar with menubar in windowed mode||在窗口模式下将工具栏与菜单栏合并
+Combine ta_bs with toolbar in full screen||在全屏下将选项卡与工具栏合并
+Compac_t Disk...||压缩磁盘...
+Compact disk to reclaim unused space.||压缩磁盘以回收未使用的空间。
+Configuration file: ||配置文件：
+Configuration:||配置：
+Connecting to Remote Server||正在连接到远程服务器
+Connection Time||连接时间
+Could not launch the virtual disk mount configuration tool.\n\n%s||无法启动虚拟磁盘挂载配置工具。\n\n%s
+Created on: ||创建时间：
+Creating a virtual machine on this host is not supported. The host's version may be too old.||此主机不支持创建虚拟机。主机的版本可能太旧。
+Ctrl + ||Ctrl + 
+Current Size:||当前大小：
+Cursor||光标
+Customer Experience Improvement Program||客户体验改善计划
+Datastore||数据存储
+De_fragment Disk...||碎片整理磁盘...
+Defaul_t hardware compatibility:||默认硬件兼容性：
+Default Location for Virtual Machines||虚拟机的默认位置
+Defragment files and consolidate free space.||对文件进行碎片整理并合并可用空间。
+Device name:||设备名称：
+Devices||设备
+Directories||目录
+Dis_connect||断开连接
+Disconnect from this server||断开与此服务器的连接
+Disk Information||磁盘信息
+Disk Mode||磁盘模式
+Disk Utilities||磁盘实用工具
+Disk defragmentation complete.||磁盘碎片整理完成。
+Disk space is not preallocated for this virtual disk.||未为此虚拟磁盘预分配磁盘空间。
+Disk space is preallocated for this virtual disk.||已为此虚拟磁盘预分配磁盘空间。
+Disks can't be expanded if they belong to virtual machines that have snapshots. To expand this disk, first remove the snapshots.||如果磁盘属于带有快照的虚拟机，则无法扩展。要扩展此磁盘，请先移除快照。
+Display||显示
+ES_X Server Compatible||兼容 ESX Server
+E_xpand Disk...||扩展磁盘...
+Emulate a Smart Card insertion event||模拟智能卡插入事件
+Emulate a Smart Card removal event||模拟智能卡移除事件
+Enable _VBS (Virtualization Based Security) support||启用 VBS（基于虚拟化的安全）支持
+Enable _drag and drop||启用拖放
+Enable all _shared folders by default||默认启用所有共享文件夹
+Encryption is not supported for %s virtual machines.||%s 虚拟机不支持加密。
+Enter a new hotkey...||输入新的热键...
+Error converting path to UTF-8||将路径转换为 UTF-8 时出错
+Error loading screenshot: %s.||加载截图时出错：%s。
+Error opening clone wizard: %s||打开克隆向导时出错：%s
+Error removing virtual machine from vm: %s.||从 vm 移除虚拟机时出错：%s。
+Error saving virtual machine description: %s.||保存虚拟机描述时出错：%s。
+Expand Disk Capacity||扩展磁盘容量
+Expand disk capacity.||扩展磁盘容量。
+Expand increases only the size of a virtual disk. Sizes of partitions and file systems are not affected.||扩展仅增大虚拟磁盘的大小，不影响分区和文件系统的大小。
+Export Virtual Machine to OVF||将虚拟机导出为 OVF
+Failed to capture movie: %s.||录制影片失败：%s。
+Failed to take the screenshot: %s.||截取屏幕截图失败：%s。
+Feedback||反馈
+File Locations||文件位置
+Files||文件
+Firmware cannot be changed while TPM device exists.||存在 TPM 设备时无法更改固件。
+Firmware type||固件类型
+Fit _all virtual machine memory into reserved host RAM||将所有虚拟机内存放入保留的主机 RAM
+Free||可用
+Full Screen||全屏
+Gathe_r debugging information:||收集调试信息：
+Gather verbose _USB debugging information||收集详细的 USB 调试信息
+Go up a level||上一层
+Grab keyboa_rd and mouse input on key press||按键时捕获键盘和鼠标输入
+Grab keyboard and mouse input on mou_se click||鼠标单击时捕获键盘和鼠标输入
+Guest Isolation||客户机隔离
+Guest may appear with borders or scrollbars.||客户机可能显示边框或滚动条。
+Har_dware||硬件
+Hard Disk Advanced Settings||硬盘高级设置
+Hardware compatibility: ||硬件兼容性：
+High (best quality for short captures)||高（短时录制的画质最佳）
+Host||主机
+Host _RAM for all virtual machines:||所有虚拟机的主机 RAM：
+Hot Key Combination||热键组合
+Hot Keys||热键
+Hot keys provide a shortcut to commonly-used virtual machine operations. Click the keyboard keys below to modify your hot keys.||热键为常用的虚拟机操作提供快捷方式。单击下方的键盘按键可修改热键。
+How much host RAM should the system be able to reserve for all running virtual machines?||系统应为所有正在运行的虚拟机预留多少主机 RAM？
+How should the system allocate memory for virtual machines?||系统应如何为虚拟机分配内存？
+Idle Time||空闲时间
+If a new version of %s is available:||如果有新版本的 %s 可用：
+Incoming Traffic||入站流量
+Independent disks are not affected by snapshots.||独立磁盘不受快照影响。
+Input||输入
+Insert _Smart Card||插入智能卡
+J_oin the VMware Customer Experience Improvement Program||加入 VMware 客户体验改善计划
+Just power off||仅关闭电源
+Kbp_s||Kbps
+Keyboard and Mouse||键盘和鼠标
+La_tency (ms):||延迟 (ms)：
+Last requested power-on: ||上次请求开机时间：
+Lat_ency (ms):||延迟 (ms)：
+Log:||日志：
+Low (better for e-mailing)||低（更适合通过电子邮件发送）
+MB||MB
+Manage VM power actions||管理虚拟机电源操作
+Maximum Size:||最大大小：
+Maximum disk _size (GB):||最大磁盘大小（GB）：
+Medium (higher quality for longer captures)||中（较长录制的画质更高）
+Memory Usage:||内存使用率：
+Menu and Toolbar||菜单和工具栏
+Metadata||元数据
+Mode||模式
+Mount the virtual disk on the host.||在主机上挂载虚拟磁盘。
+Network Adapter Advanced Settings||网络适配器高级设置
+No help is available for this page.||此页面没有可用的帮助。
+No open virtual machines||没有打开的虚拟机
+No recent tasks||没有最近的任务
+No virtual machine tab selected||未选择虚拟机标签页
+Open Virtual Machines||打开的虚拟机
+Other||其他
+Outgoing Traffic||出站流量
+Packet _Loss (%):||丢包率 (%)：
+Please enter your user name and password for the server %s.||请输入服务器 %s 的用户名和密码。
+Por_t:||端口：
+Port: %u||端口：%u
+Pow_er On||开启电源
+Power||电源
+Power Controls||电源控制
+Power Options||电源选项
+Power _Off||关闭电源
+Powering Off...||正在关闭电源...
+Powering On...||正在开启电源...
+Primary IP address: ||主 IP 地址：
+Priority||优先级
+R_emember opened tabs between sessions||在会话之间记住已打开的标签页
+Recording created: %s||已创建录制：%s
+Remote server: ||远程服务器：
+Remove _Smart Card||移除智能卡
+Report _battery information to guest||向客户机报告电池信息
+Requires VMware Tools to be installed.||需要安装 VMware Tools。
+Res_ume||恢复
+Rese_t||重置
+Reserved Memory||保留内存
+Restar_t Guest||重启客户机
+Restart Guest||重启客户机
+Resume Gu_est||恢复客户机
+Resuming Guest...||正在恢复客户机...
+Resuming...||正在恢复...
+Revert to snapshot||恢复到快照
+Save Captured Movie||保存录制的影片
+Save captured screen as:||将截取的屏幕保存为：
+Select the remote server that you want to connect to. The server can be running VMware ESX or VMware vCenter Server.||选择要连接的远程服务器。该服务器可以运行 VMware ESX 或 VMware vCenter Server。
+Selection:||选择：
+Setting||设置
+Sh_ow tray icon:||显示托盘图标：
+Shift + ||Shift + 
+Show Auto_Protect Snapshots||显示自动保护快照
+Show Auto_Protect Snapshots (%d hidden)||显示自动保护快照（隐藏 %d 个）
+Show this device icon in your status bar||在状态栏中显示此设备图标
+Show toolbar edge when unpinned in _full screen||在全屏下未固定时显示工具栏边缘
+Shut D_own Guest||关闭客户机
+Shut Do_wn Guest||关闭客户机
+Shutting Down Guest...||正在关闭客户机...
+Snapshot ||快照 
+Snapshot Details||快照详细信息
+Snapshot Manager||快照管理器
+Snapshot Manager (Read-only as vmrest is operating the VM)||快照管理器（只读，因为 vmrest 正在操作此虚拟机）
+Snapshot Manager Actions||快照管理器操作
+Snapshot created: %s||已创建快照：%s
+Snapshot: ||快照：
+Snapshots||快照
+Snapshots ||快照 
+Snapshots are not supported for %s virtual machines.||%s 虚拟机不支持快照。
+Software Updates||软件更新
+Some virtual machines are still powered on.\n\nYou can continue to run these virtual machines in the background or power them off now.||某些虚拟机仍处于开启状态。\n\n你可以继续在后台运行这些虚拟机，或立即关闭它们的电源。
+Some virtual machines are still powered on.\n\nYou can continue to run these virtual machines in the background, suspend them for later use, or power them off now.||某些虚拟机仍处于开启状态。\n\n你可以继续在后台运行这些虚拟机、将它们挂起以备后用，或立即关闭它们的电源。
+Specify the maximum size for the virtual disk||指定虚拟磁盘的最大大小
+Start U_p Guest||启动客户机
+Start Up Gu_est||启动客户机
+Start Up Guest||启动客户机
+Starting Up Guest...||正在启动客户机...
+State: ||状态：
+Stretches the guest screen to fill the host display.||拉伸客户机屏幕以填满主机显示。
+Suspen_d||挂起
+Suspen_d Guest||挂起客户机
+Suspend and snapshot files will be stored here.||挂起和快照文件将存储在此处。
+Suspending Guest...||正在挂起客户机...
+Suspending...||正在挂起...
+Swapping virtual memory allows more virtual machines to be run but can degrade system performance if the virtual machines use their memory intensively.||交换虚拟内存可以运行更多虚拟机，但如果虚拟机密集使用内存，可能会降低系统性能。
+Synchronize guest _time with host||将客户机时间与主机同步
+System Free:||系统可用：
+Ta_ke a new snapshot||拍摄新快照
+Take Snapshot - %s||拍摄快照 - %s
+Take a new snapshot||拍摄新快照
+Target||目标
+The Virtual Machine you are trying to modify is read-only and cannot be altered in place.||你尝试修改的虚拟机是只读的，无法就地更改。
+The connection to %s was unexpectedly lost.||与 %s 的连接意外断开。
+The connection to the %s Server was unexpectedly lost.||与 %s 服务器的连接意外断开。
+The directory "%s" contains multiple Virtual Machine or Team configuration files.\n\nPlease specify the configpration file you wish to open.||目录“%s”包含多个虚拟机或团队配置文件。\n\n请指定你要打开的配置文件。
+The directory "%s" does not contain a Virtual Machine or Team configuration file.||目录“%s”不包含虚拟机或团队配置文件。
+The disk was sucessfully expanded. You now need to repartition the disk and expand the filesystems from within the guest operating system.||磁盘已成功扩展。你现在需要在客户机操作系统中重新分区磁盘并扩展文件系统。
+The effective latency range is 0 - 2000ms. Simulation for less than 10ms is not accurate.||有效延迟范围为 0 - 2000ms。小于 10ms 的模拟不准确。
+The passwords you have entered do not match.||你输入的密码不匹配。
+The settings cannot be saved. This virtual machine changed recently (for example, it might have been powered on).  Click Cancel and try again.||无法保存设置。此虚拟机最近发生了更改（例如可能已开启电源）。请单击“取消”后重试。
+The virtual machine is using a hardware version that is not supported by this version of %s. Please use a previous version of %s to upgrade the virtual machine.\n||此虚拟机使用的硬件版本不受此版本 %s 支持。请使用先前版本的 %s 来升级该虚拟机。\n
+The virtual machine you are trying to modify cannot be cloned.||你尝试修改的虚拟机无法克隆。
+These options are not supported on %s virtual machines.||%s 虚拟机不支持这些选项。
+These options have an effect only when %s is running in the virtual machine.||仅当 %s 正在虚拟机中运行时，这些选项才会生效。
+This option is not supported on %s virtual machines.||%s 虚拟机不支持此选项。
+This setting will deactivate other hot key combinations.||此设置将停用其他热键组合。
+This virtual machine has previously been marked as a template for cloning. Removing this option may make linked clones created from this virtual machine unusable.||此虚拟机先前已被标记为用于克隆的模板。移除此选项可能导致从此虚拟机创建的链接克隆无法使用。
+This virtual machine is in legacy non-persistent mode. To switch to legacy persistent mode, choose "Remove Snapshot" from the "Snapshot" menu.||此虚拟机处于旧版非持久模式。要切换到旧版持久模式，请从“快照”菜单中选择“移除快照”。
+This virtual machine is in legacy persistent mode. Taking a snapshot will switch it to legacy undoable mode.||此虚拟机处于旧版持久模式。拍摄快照会将其切换为旧版可撤销模式。
+This virtual machine is in legacy undoable mode. To switch to legacy persistent mode, choose "Remove Snapshot" from the "Snapshot" menu.||此虚拟机处于旧版可撤销模式。要切换到旧版持久模式，请从“快照”菜单中选择“移除快照”。
+This will disconnect the %s installer virtual CD. The installer running in the guest operating system may show an error message. If there was a problem during installation, install %s again.\n\nAre you sure you want to cancel the %s installation?||这将断开 %s 安装程序虚拟 CD。客户机操作系统中运行的安装程序可能会显示错误消息。如果安装过程中出现问题，请重新安装 %s。\n\n确定要取消 %s 安装吗？
+Time sync off||时间同步关闭
+Time sync on||时间同步开启
+To change the default setting, go to Edit > Preferences > Updates. You must be running %s as root.||要更改默认设置，请转到“编辑”>“首选项”>“更新”。你必须以 root 身份运行 %s。
+To share virtual machines, enable the %s\nin Edit > Preferences > Shared VMs.||要共享虚拟机，请在“编辑”>“首选项”>“共享虚拟机”中启用 %s。
+Troubleshooting||故障排除
+Type here to enter a description of this virtual machine.||在此处输入此虚拟机的描述。
+Unable to add virtual machine "%s" to the library: %s.||无法将虚拟机“%s”添加到库：%s。
+Unable to begin taking snapshot.||无法开始拍摄快照。
+Unable to browse for virtual machines.||无法浏览虚拟机。
+Unable to browse for virtual machines: %s||无法浏览虚拟机：%s
+Unable to change virtual machine power state: %s||无法更改虚拟机电源状态：%s
+Unable to connect to the Workstation Server. Please ensure that\nit is running, and then retry by clicking "Connect".||无法连接到 Workstation Server。请确保\n它正在运行，然后单击“连接”重试。
+Unable to enumerate names in directory "%s": %s||无法枚举目录“%s”中的名称：%s
+Unable to open "%s" as a Virtual Machine or Team:\n\n%s||无法将“%s”作为虚拟机或团队打开：\n\n%s
+Unable to open "%s": %s||无法打开“%s”：%s
+Unable to open "%s": %s.||无法打开“%s”：%s。
+Unable to open %s as a Virtual Machine:\n\n%s||无法将 %s 作为虚拟机打开：\n\n%s
+Unable to open: %s||无法打开：%s
+Unable to open: %s.||无法打开：%s。
+Unable to retrieve disk information: %s||无法获取磁盘信息：%s
+Unable to save the captured screen to "%s".||无法将截取的屏幕保存到“%s”。
+Unable to take snapshot.||无法拍摄快照。
+Unmount the virtual disk from the host.||从主机卸载虚拟磁盘。
+Update _automatically||自动更新
+Update _manually (do nothing)||手动更新（不做任何操作）
+Update snapshot||更新快照
+Use this virtual machine as a linked clone _template||将此虚拟机用作链接克隆模板
+VNC Connections||VNC 连接
+VNC port: ||VNC 端口：
+Virtual Machine Details||虚拟机详细信息
+Virtual Machine _Name||虚拟机名称
+Virtual Machines||虚拟机
+Virtual appliance access _port inside virtual machine:||虚拟设备在虚拟机内的访问端口：
+Virtual disk contents are stored in a single file.||虚拟磁盘内容存储在单个文件中。
+Virtual disk contents are stored in multiple files.||虚拟磁盘内容存储在多个文件中。
+Virtual machines must be powered off for background snapshot changes to take effect.||虚拟机必须关闭电源，后台快照更改才会生效。
+Virtualize C_PU performance counters||虚拟化 CPU 性能计数器
+Virtualize IO_MMU (IO memory management unit)||虚拟化 IOMMU（IO 内存管理单元）
+WARNING: you are attempting to quit while operations are still running.  Do you want to forcibly quit?  Your preferences will not be saved if you choose to quit.||警告：你正在仍有操作运行时尝试退出。是否要强制退出？如果你选择退出，你的首选项将不会被保存。
+When Powering Off||关闭电源时
+When the application window is resized, change the virtual machine display settings to match.||当调整应用程序窗口大小时，更改虚拟机显示设置以匹配。
+When the virtual machine display settings change, resize the application window to match.||当虚拟机显示设置更改时，调整应用程序窗口大小以匹配。
+Win/Super + ||Win/Super + 
+Wor_king Directory||工作目录
+Working directory "%s" does not exist||工作目录“%s”不存在
+Working directory "%s" exists, but is not a directory||工作目录“%s”存在，但不是目录
+Workspace||工作区
+You Are Here. ||你在这里。
+You are using a legacy virtual machine. If you would like to use physical disks with this virtual machine, please upgrade this virtual machine first by going to VM > Manage > Change Hardware Compatibility.||你正在使用旧版虚拟机。如果你想在此虚拟机上使用物理磁盘，请先转到“虚拟机”>“管理”>“更改硬件兼容性”来升级此虚拟机。
+You can't expand this virtual disk because it is a linked clone.||你无法扩展此虚拟磁盘，因为它是链接克隆。
+You cannot expand the virtual disk because you have reached the maximum disk size limit.||你无法扩展此虚拟磁盘，因为已达到最大磁盘大小限制。
+You cannot mount this virtual disk while the virtual machine is encrypted.||虚拟机已加密时，你无法挂载此虚拟磁盘。
+You may need to install %s for these options to work correctly.||你可能需要安装 %s，这些选项才能正常工作。
+You must be running Workstation as root to change these preferences.||必须以 root 身份运行 Workstation 才能更改这些首选项。
+You must be running Workstation as root to change this preference.||必须以 root 身份运行 Workstation 才能更改此首选项。
+Your user account is not authorized to connect to the Workstation Server. To use shared virtual machines, enter the username and password of an account that has access.||你的用户帐户无权连接到 Workstation Server。要使用共享虚拟机，请输入具有访问权限的帐户的用户名和密码。
+_Ask me||询问我
+_Autofit guest (change guest resolution)||自动适应客户机（更改客户机分辨率）
+_Automatically grab and ungrab the mouse cursor.||自动捕获和释放鼠标光标。
+_Bandwidth:||带宽：
+_Connect||连接
+_Created on:||创建时间：
+_Description:||描述：
+_Description:\n(optional)||描述：\n（可选）
+_Disconnect||断开连接
+_Enable AutoProtect||启用自动保护
+_Enable VNC Connections||启用 VNC 连接
+_Enable copy and paste||启用复制和粘贴
+_Enable write caching||启用写入缓存
+_Enter full screen mode after powering on||开机后进入全屏模式
+_Expand||扩展
+_Filter:||筛选：
+_Generate||生成
+_Hour||小时
+_Independent||独立
+_Just power off||仅关闭电源
+_Kbps||Kbps
+_Keep VMs running after %s closes||%s 关闭后保持虚拟机运行
+_Log virtual machine progress periodically||定期记录虚拟机进度
+_MAC Address||MAC 地址
+_Manage VM power actions||管理虚拟机电源操作
+_Maximum AutoProtect snapshots:||最大自动保护快照数：
+_Minute||分钟
+_Nonpersistent||非持久
+_Nonpersistent: Discard changes after powering off||非持久：关闭电源后丢弃更改
+_Omit frames in which nothing occurs||省略没有发生变化的帧
+_Options||选项
+_Organization:||组织：
+_Packet Loss (%):||丢包率 (%)：
+_Persistent||持久
+_Quality:||质量：
+_Restart Guest||重启客户机
+_Restore snapshots in the background when possible||尽可能在后台恢复快照
+_Revert to snapshot||恢复到快照
+_Server name:||服务器名称：
+_Server:||服务器：
+_Show in Status Bar||在状态栏中显示
+_Stretch guest (no resolution change)||拉伸客户机（不更改分辨率）
+_Suspend Guest||挂起客户机
+_Take snapshots in the background when possible||尽可能在后台拍摄快照
+_Undoable: Ask to save changes after powering off||可撤销：关闭电源后询问是否保存更改
+_Unmount Disk...||卸载磁盘...
+_Update my snapshot||更新我的快照
+_Use application default (currently update automatically)||使用应用程序默认值（当前为自动更新）
+_Use application default (currently update manually)||使用应用程序默认值（当前为手动更新）
+_Version:||版本：
+_View VNC Connections||查看 VNC 连接
+by <span weight='bold'>%s</span>||由 <span weight='bold'>%s</span>
+connected as %s||已作为 %s 连接
+version <span weight='bold'>%s</span>||版本 <span weight='bold'>%s</span>
+version <span weight='bold'>%s</span> by <span weight='bold'>%s</span>||版本 <span weight='bold'>%s</span>，作者 <span weight='bold'>%s</span>

@@ -1,0 +1,113 @@
+(Bridged to %s)||（桥接到 %s）
+(vmnet0 only)||（仅 vmnet0）
+A_utomatic Settings...||自动设置...
+Add Virtual Network||添加虚拟网络
+Allow active F_TP||允许主动 FTP
+Allow any _Organizationally Unique Identifier||允许任意组织唯一标识符
+Automatic Bridging Settings||自动桥接设置
+Automatic bridging can only be enabled on vmnet0.||自动桥接只能在 vmnet0 上启用。
+Automatically bridge to one of these host network adapters:||自动桥接到以下主机网络适配器之一：
+Bridged _to:||桥接到：
+Cannot add bridged network: There are no un-bridged host network adapters.||无法添加桥接网络：没有未桥接的主机网络适配器。
+Cannot automatically bridge to host adapter %s. %s is already bridged to it.||无法自动桥接到主机适配器 %s。%s 已桥接到它。
+Cannot bridge to host adapter %s. %s is already bridged to it.||无法桥接到主机适配器 %s。%s 已桥接到它。
+Cannot change network to bridged: There are no un-bridged host network adapters.||无法将网络更改为桥接：没有未桥接的主机网络适配器。
+Connect a host _virtual adapter (%s) to this network||将主机虚拟适配器 (%s) 连接到此网络
+Connect a host _virtual adapter to this network||将主机虚拟适配器连接到此网络
+DHCP||DHCP
+External Connection||外部连接
+Gateway IP:||网关 IP：
+Guest Port||客户机端口
+Host Connection||主机连接
+Host Port||主机端口
+Host-_only||仅主机
+Host-_only (connect VMs internally in a private network)||仅主机（在专用网络中内部连接虚拟机）
+IPv_6 Prefix:||IPv6 前缀：
+Leave blank to automatically select an unused subnet IP.||留空以自动选择未使用的子网 IP。
+MTU||MTU
+MTU <span foreground="red">*</span>:||MTU <span foreground=&quot;red&quot;>*</span>：
+MTU value must be between %d and %d||MTU 值必须介于 %d 和 %d 之间
+Map Incoming Port||映射入站端口
+NAT||NAT
+NAT Settings||NAT 设置
+NA_T Settings...||NAT 设置...
+Network %s already exists. Choose an unused network.||网络 %s 已存在。请选择一个未使用的网络。
+Network na_me:||网络名称：
+Network:||网络：
+Port Type||端口类型
+Port _Forwarding||端口转发
+Subnet IP Address||子网 IP 地址
+Subnet IP:||子网 IP：
+Subnet _IP:||子网 IP：
+Subnet mask:||子网掩码：
+The IPv6 prefix does not have a valid subnet.  See help for more information about this field.||IPv6 前缀没有有效的子网。有关此字段的更多信息，请参阅帮助。
+The IPv6 prefix is invalid.  See help for more information about this field.||IPv6 前缀无效。有关此字段的更多信息，请参阅帮助。
+The IPv6 prefix is not a valid IPv6 address.  See help for more information about this field.||IPv6 前缀不是有效的 IPv6 地址。有关此字段的更多信息，请参阅帮助。
+The IPv6 prefix must not be an IPv4 address.  See help for more information about this field.||IPv6 前缀不能是 IPv4 地址。有关此字段的更多信息，请参阅帮助。
+Type:||类型：
+Use local _DHCP service to distribute IP addresses to VMs||使用本地 DHCP 服务向虚拟机分配 IP 地址
+Virtual Machine IP Address||虚拟机 IP 地址
+Virtual Network Editor||虚拟网络编辑器
+Virtual machine IP _address:||虚拟机 IP 地址：
+Virtual machine _port:||虚拟机端口：
+Virtual machines are in a private network with your computer||虚拟机与你的计算机处于专用网络中
+Virtual machines connect directly to your external network||虚拟机直接连接到你的外部网络
+Virtual machines share your computer's IP address||虚拟机共享你计算机的 IP 地址
+You must select at least one host network adapter to automatically bridge to.||你必须至少选择一个要自动桥接到的的主机网络适配器。
+_Add||添加
+_Add Network...||添加网络...
+_Bridged||桥接
+_Bridged (connect VMs directly to the external network)||桥接（将虚拟机直接连接到外部网络）
+_Config Port:||配置端口：
+_Enable IPv6 NAT||启用 IPv6 NAT
+_Host port:||主机端口：
+_NAT||NAT
+_NAT (share host's IP address with VMs)||NAT（与虚拟机共享主机的 IP 地址）
+_Remove Network||移除网络
+_TCP||TCP
+_UDP||UDP
+_UDP timeout (in seconds):||UDP 超时（秒）：
+auto-bridging||自动桥接
+auto-detect||自动检测
+bridged||桥接
+host-only||仅主机
+no||否
+none||无
+vmnet||vmnet
+vmnet%d: %s||vmnet%d：%s
+vmnet%d: Invalid MTU value. Must be between %d and %d.||vmnet%d：MTU 值无效。必须介于 %d 和 %d 之间。
+vmnet%d: Subnet IP must have no blank fields.||vmnet%d：子网 IP 不能有空字段。
+vmnet%d: Subnet IPs must all be unique.||vmnet%d：子网 IP 必须全部唯一。
+yes||是
+%s Pro||%s Pro
+An error occured while pasting: %s||粘贴时出错：%s
+Cannot use multiple monitors; click for more info||无法使用多个显示器；单击了解更多信息
+Connect to a\nRemote Server||连接到\n远程服务器
+Could not find '%s'. The Shared VM directory must be a valid directory.||找不到“%s”。共享虚拟机目录必须是有效目录。
+Could not launch the virtual disk management tool.\n\n%s||无法启动虚拟磁盘管理工具。\n\n%s
+Could not launch the virtual network editor.\n\n%s||无法启动虚拟网络编辑器。\n\n%s
+Current virtual machine state||当前虚拟机状态
+Error opening virtual machine "%s": %s.||打开虚拟机“%s”时出错：%s。
+Fit Gu_est Now||立即适应客户机
+Go to _Home Tab||转到主页标签
+Initiated By||发起者
+Library||库
+Network information is not available||网络信息不可用
+Open the selected nodes.||打开选中的节点。
+Paschal Ovum||帕斯卡尔之卵
+Paste Failed||粘贴失败
+Remove Non-existent Virtual Machines||移除不存在的虚拟机
+Remove _Non-existent Virtual Machines||移除不存在的虚拟机
+Scan for Virtual Machines||扫描虚拟机
+Show/Hide Toolbar||显示/隐藏工具栏
+Start Time||开始时间
+Switch to the home tab||切换到主页标签
+Switch to the next powered on virtual machine||切换到下一个已开启电源的虚拟机
+Switch to the previous powered on virtual machine||切换到上一个已开启电源的虚拟机
+Switch to the virtual machine's summary view||切换到虚拟机的摘要视图
+Unable to power off this virtual machine: %s.||无法关闭此虚拟机的电源：%s。
+VMware Workstation is already connected to the host %s.||VMware Workstation 已连接到主机 %s。
+View and manage virtual machines on a remote server.||在远程服务器上查看和管理虚拟机。
+_Enter your VMware vCloud credentials.||输入你的 VMware vCloud 凭据。
+_Open||打开
+_Scan for Virtual Machines...||扫描虚拟机...

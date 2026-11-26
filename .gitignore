@@ -1,0 +1,5 @@
+build/vm_all2.json
+dist/
+*.deb
+*.so
+*.log

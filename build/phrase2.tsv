@@ -1,0 +1,170 @@
+Autologin||自动登录
+\n\nEnsure that %s is running in the guest and try again.||\n\n请确保 %s 正在客户机中运行，然后重试。
+_Enable...||启用...
+Change _User...||更改用户...
+Log in as %s||以 %s 身份登录
+Disabled||已禁用
+Could not communicate with %s: %%s||无法与 %s 通信：%%s
+Not available||不可用
+Not supported||不支持
+Could not configure Autologin: %s||无法配置自动登录：%s
+Disa_ble||禁用
+Could not retrieve Autologin requirements: %s||无法获取自动登录要求：%s
+Could not clear Autologin credentials: %s||无法清除自动登录凭据：%s
+Set Autologin User||设置自动登录用户
+_User name:||用户名：
+_Password:||密码：
+The disk was successfully compacted.||磁盘已成功压缩。
+Encryption||加密
+This virtual machine is partially encrypted.||此虚拟机已部分加密。
+This virtual machine is fully encrypted.||此虚拟机已完全加密。
+Unavailable||不可用
+Encrypted||已加密
+Not encrypted||未加密
+Encryption settings cannot be changed because there are pending changes to the virtual machine's disks.||由于虚拟机的磁盘存在待处理的更改，无法更改加密设置。
+Encryption cannot be removed while TPM device exists.||存在 TPM 设备时无法移除加密。
+Encryption cannot be removed from this virtual machine until all of its snapshots are removed.||在移除此虚拟机的所有快照之前，无法移除其加密。
+The virtual machine cannot be encrypted until all of its snapshots are removed.||在移除此虚拟机的所有快照之前，无法加密该虚拟机。
+Failed to change the password: %s||更改密码失败：%s
+Password change was successful.||密码更改成功。
+Change Password||更改密码
+_Remove Encryption||移除加密
+Are you sure you want to remove encryption on this virtual machine? It will no longer be protected by a password and will be accessible by everyone.||确定要移除此虚拟机的加密吗？此后它将不再受密码保护，任何人都可以访问。
+Remove Encryption||移除加密
+Make sure to write down this password in a secure location. You will not be able to use this virtual machine without it.||请务必将此密码记录在安全的位置。没有它你将无法使用此虚拟机。
+Encrypt Virtual Machine||加密虚拟机
+The new password and confirmation do not match||新密码与确认密码不匹配
+The password and confirmation do not match.||密码与确认密码不匹配。
+_Encrypt...||加密...
+Change P_assword...||更改密码...
+Remove _Encryption...||移除加密...
+Depending on the size of the virtual machine, it may take a while to remove encryption.||取决于虚拟机的大小，移除加密可能需要一段时间。
+This virtual machine is not encrypted.||此虚拟机未加密。
+You can protect this virtual machine with a password.||你可以使用密码保护此虚拟机。
+Are you sure you want to remove the shared folder %s?||确定要移除共享文件夹 %s 吗？
+Are you sure you want to remove these %d shared folders?||确定要移除这 %d 个共享文件夹吗？
+Page||页面
+_Optimize mouse for games:||为游戏优化鼠标：
+Automatic||自动
+Always||始终
+Change this option if you have trouble with mouse motion in some applications.||如果在某些应用程序中鼠标移动有问题，请更改此选项。
+Server||服务器
+User Name||用户名
+Shared VMs||共享虚拟机
+%s Settings||%s 设置
+_Enable virtual machine sharing and remote access||启用虚拟机共享和远程访问
+H_TTPS port used by %s:||%s 使用的 HTTPS 端口：
+Shared VMs Location||共享虚拟机位置
+Would you like %s to discard all saved login information?||是否要让 %s 丢弃所有已保存的登录信息？
+Privacy||隐私
+O_ffer to save login information for remote servers||为远程服务器提供保存登录信息
+Show Sa_ved Login Information||显示已保存的登录信息
+When %s starts, check for new versions of the application and installed software components.||当 %s 启动时，检查应用程序和已安装软件组件的新版本。
+Check for product _updates on startup||启动时检查产品更新
+When a software component is needed (such as installing %s), check for a new version of the component.||当需要某个软件组件（例如安装 %s）时，检查该组件的新版本。
+Check for software c_omponents as needed||根据需要检查软件组件
+Co_nnection Settings||连接设置
+Updates||更新
+Down_load All Components Now||立即下载所有组件
+Learn More||了解更多
+VMware Tools Updates||VMware Tools 更新
+If a new version of VMware Tools is available, it will be updated the next time a virtual machine is powered on or off. This configuration may be overridden in each virtual machine's settings.||如果有新版本的 VMware Tools，将在虚拟机下次开启或关闭电源时更新。此配置可在每台虚拟机的设置中被覆盖。
+Au_tomatically update VMware Tools on a virtual machine||自动更新虚拟机上的 VMware Tools
+Add||添加
+Advanced||高级
+Cancel||取消
+Close||关闭
+Connect||连接
+Continue||继续
+Discard||放弃
+Disconnect Serial Port||断开串行端口
+General||常规
+Gather debugging information||收集调试信息
+I Co_pied It||我复制了它
+I _Moved It||我移动了它
+Install %s…||安装 %s…
+Never||从不
+Open||打开
+Options||选项
+Overwrite Pipe||覆盖管道
+Power off||关闭电源
+Preserve||保留
+Remove||移除
+Retry Connect||重试连接
+Save||保存
+Settings||设置
+Unknown||未知
+VM||虚拟机
+Virtual Machine||虚拟机
+Working Directory||工作目录
+_Allow||允许
+Allo_w All||全部允许
+_Append||追加
+_AutoProtect...||自动保护...
+_Cancel||取消
+_Continue||继续
+_Delete from disk||从磁盘删除
+_Deny||拒绝
+De_ny All||全部拒绝
+_Discard||放弃
+_Install||安装
+_Just Power off||仅关闭电源
+_Keep Stored Information||保留已存储的信息
+_Mount||挂载
+_Mount Disk...||挂载磁盘...
+_Open Window||打开窗口
+_Remove||移除
+Re_move All||全部移除
+_Remove from library||从库中移除
+_Replace||替换
+_Take a Snapshot||拍摄快照
+_Unmount Disk||卸载磁盘
+Continue with the VM upgrade||继续执行虚拟机升级
+Name||名称
+_Name:||名称：
+_Username:||用户名：
+Pass_word:||密码：
+_Location:||位置：
+Description||描述
+Summary||摘要
+Done||完成
+Using file %s||正在使用文件 %s
+Clone of %s||%s 的克隆
+Powered On||已开启
+Version:||版本：
+Status||状态
+Memory||内存
+Memory:||内存：
+Custom||自定义
+What name would you like to use for this virtual machine?||你想为这台虚拟机使用什么名称？
+Capacity||容量
+Capacity:||容量：
+VM Name||虚拟机名称
+Create a _New Virtual Machine||创建新的虚拟机
+Welcome to %s||欢迎使用 %s
+Powered Off||已关闭
+Suspended||已挂起
+Graphics||显卡
+Connecting...||正在连接...
+Hide toolbar||隐藏工具栏
+Always show toolbar||始终显示工具栏
+Waiting for connection...||正在等待连接...
+Enabled||已启用
+Present||已连接
+Error||错误
+Warning||警告
+Browse...||浏览...
+Retry||重试
+Yes||是
+No||否
+OK||确定
+Apply||应用
+Finish||完成
+Back||上一步
+Next||下一步
+Previous||上一步
+Help||帮助
+Yes to All||全部是
+No to All||全部否
+Default||默认
+Browse||浏览

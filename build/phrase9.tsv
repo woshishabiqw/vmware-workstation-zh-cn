@@ -1,0 +1,254 @@
+\n\nWarning: This is a remote virtual machine. The hardware compatibility of remote virtual machines cannot be downgraded.||\n\n警告：这是一台远程虚拟机。远程虚拟机的硬件兼容性无法降级。
+\n\nWarning: This is a shared virtual machine. The hardware compatibility of shared virtual machines cannot be downgraded.||\n\n警告：这是一台共享虚拟机。共享虚拟机的硬件兼容性无法降级。
+   Adding: %s\n||   添加：%s\n
+   Reducing memory to %u MB\n||   将内存减少到 %u MB\n
+   Reducing number of processors to %d\n||   将处理器数量减少到 %d\n
+   Reducing shared graphics memory to %u MB \n||   将共享图形内存减少到 %u MB \n
+   Removing: %s\n||   移除：%s\n
+%s does not support the BusLogic controller. Select LSI Logic or LSI Logic SAS instead.||%s 不支持 BusLogic 控制器。请改为选择 LSI Logic 或 LSI Logic SAS。
+%s is not a supported guest operating system for %s virtual machines. Some features of it might not work properly unless its virtual hardware is upgraded.\n\nAre you sure you want to continue?||%s 不是 %s 虚拟机支持的客户机操作系统。除非升级其虚拟硬件，否则它的某些功能可能无法正常工作。\n\n确定要继续吗？
+- The hardware version you have chosen does not support one or more of your virtual machine's hard disks.\n||- 你选择的硬件版本不支持你的虚拟机的一个或多个硬盘。\n
+- You are downgrading an encrypted virtual machine.\n||- 你正在降级一台加密的虚拟机。\n
+- You are downgrading to a version that does not support %s as a guest operating system.\n||- 你正在降级到的版本不支持将 %s 作为客户机操作系统。\n
+- You are downgrading to a version that does not support Trusted Platform Module device.\n||- 你正在降级到的版本不支持可信平台模块设备。\n
+- You are downgrading to a version that does not support booting EFI virtual machines.\n||- 你正在降级到的版本不支持启动 EFI 虚拟机。\n
+- You are downgrading to a version that does not support the LSI Logic SAS SCSI controller.\n||- 你正在降级到的版本不支持 LSI Logic SAS SCSI 控制器。\n
+A %g GB virtual disk be created using multiple disk files. The disk files will be automatically named based on this file name.||将使用多个磁盘文件创建一个 %g GB 的虚拟磁盘。磁盘文件将根据此文件名自动命名。
+A virtual machine is like a physical computer; it needs an operating system. How will you install the guest operating system?||虚拟机就像一台物理计算机，它需要操作系统。你将如何安装客户机操作系统？
+A virtual machine with this name has already been shared.||使用此名称的虚拟机已被共享。
+Accept the end user license agreement.||接受最终用户许可协议。
+Accessing raw disks may cause loss of data or inability to boot, especially if the raw disk partition is used as the boot device.\n\nFor more information, see the section in the product manual about using physical disks.||访问原始磁盘可能导致数据丢失或无法启动，尤其是当原始磁盘分区被用作启动设备时。\n\n有关详细信息，请参阅产品手册中关于使用物理磁盘的章节。
+Additional properties for this virtual machine.||此虚拟机的附加属性。
+Allocating the full capacity can enhance performance but requires all of the physical disk space to be available right now. If you do not allocate all the space now, the virtual disk starts small and grows as you add data to it.||分配全部容量可以提升性能，但需要立即提供全部物理磁盘空间。如果你现在不分配所有空间，虚拟磁盘会从较小容量开始，并随着你添加数据而增长。
+Although this version of %s will be able to use the downgraded virtual machine, older versions and other products might not be able to use it properly for the following reasons:\n\n%s\nAre you sure you want to continue?||尽管此版本的 %s 能够使用降级后的虚拟机，但较早的版本和其他产品可能无法正常使用它，原因如下：\n\n%s\n确定要继续吗？
+Are you ready to clone?||准备好克隆了吗？
+Are you ready to convert this virtual machine?||准备好转换此虚拟机了吗？
+Automatic VM Start & Stop||虚拟机自动启动和停止
+CD/DVD Drive||CD/DVD 驱动器
+Cancelled||已取消
+Cannot add until the virtual machine is powered off||虚拟机关闭电源后才能添加
+Check the security of the referenced network files.||检查所引用网络文件的安全性。
+Choose the Virtual Machine Hardware Compatibility||选择虚拟机硬件兼容性
+Choose to either copy virtual machines to the local disk, or add them to the library from their current location.||选择将虚拟机复制到本地磁盘，或从当前位置将其添加到库。
+Click Finish to create the virtual machine and start installing %s and then VMware Tools.||单击“完成”以创建虚拟机并开始安装 %s，然后安装 VMware Tools。
+Click Finish to create the virtual machine and start installing %s.||单击“完成”以创建虚拟机并开始安装 %s。
+Click Finish to create the virtual machine. Then you can install %s.||单击“完成”以创建虚拟机。然后你可以安装 %s。
+Clone (%%d) of %s||克隆 (%%d)：%s
+Clone Source||克隆源
+Clone before Converting||转换前克隆
+Cloning Virtual Machine||正在克隆虚拟机
+Cloning virtual machine||正在克隆虚拟机
+Configure Encryption||配置加密
+Consolidating disks||正在整合磁盘
+Converting Virtual Machine||正在转换虚拟机
+Copy & Paste||复制和粘贴
+Copy to local disk options||复制到本地磁盘选项
+Copying: %d%%||正在复制：%d%%
+Could not create the ISO used to store Easy Install settings. If this error persists, you may need to reinstall %s.||无法创建用于存储简易安装设置的 ISO。如果此错误持续存在，你可能需要重新安装 %s。
+Could not create the virtual floppy image file for Easy Install. If this error persists, you may need to reinstall %s.||无法为简易安装创建虚拟软盘映像文件。如果此错误持续存在，你可能需要重新安装 %s。
+Could not create the virtual floppy settings for Easy Install. If this error persists, you may need to reinstall %s.||无法为简易安装创建虚拟软盘设置。如果此错误持续存在，你可能需要重新安装 %s。
+Could not initialize Easy Install. If this error persists, you may need to reinstall %s.||无法初始化简易安装。如果此错误持续存在，你可能需要重新安装 %s。
+Could not prepare the install disc at %s. Make sure that you are using a valid Linux install disc. If this error persists, you may need to reinstall %s.||无法准备位于 %s 的安装光盘。请确保你使用的是有效的 Linux 安装光盘。如果此错误持续存在，你可能需要重新安装 %s。
+Create a %s virtual machine in a few easy steps.||通过几个简单步骤创建 %s 虚拟机。
+Create a virtual machine with advanced options: change the SCSI controller and virtual disk type, specify compatibility with older VMware products, etc.||使用高级选项创建虚拟机：更改 SCSI 控制器和虚拟磁盘类型、指定与旧版 VMware 产品的兼容性等。
+Download the BusLogic Driver||下载 BusLogic 驱动程序
+Drag & Drop||拖放
+Easy Install Information||简易安装信息
+Encryption Password||加密密码
+Encryption password cannot be empty||加密密码不能为空
+Encryption password must have at least %d characters||加密密码必须至少包含 %d 个字符
+Encryption passwords do not match||加密密码不匹配
+End User License Agreement||最终用户许可协议
+Enter a user name and password for this server.||输入此服务器的用户名和密码。
+Existing disk %s||现有磁盘 %s
+Failed||失败
+Failed to add the new disk. The disk controller is full. You must remove another device from the controller to be able to add this device.||无法添加新磁盘。磁盘控制器已满。你必须从控制器中移除另一个设备才能添加此设备。
+Failed to create folder: %s.||创建文件夹失败：%s。
+Floppy Drive||软盘驱动器
+From what do you want to clone this virtual machine?||你希望从什么克隆此虚拟机？
+Generic SCSI Device||通用 SCSI 设备
+Go to the LSI Logic Web site and search for the LSI20320-R SCSI controller||访问 LSI Logic 网站并搜索 LSI20320-R SCSI 控制器
+Go to the LSI Logic Web site and search for the LSISAS1068 SCSI controller||访问 LSI Logic 网站并搜索 LSISAS1068 SCSI 控制器
+Guest Operating System Installation||客户机操作系统安装
+Hard Disk||硬盘
+Hardware Type||硬件类型
+How do you want to clone this virtual machine?||你希望如何克隆此虚拟机？
+How large do you want this disk to be?||你希望此磁盘有多大？
+How much memory would you like to use for this virtual machine?||你希望为此虚拟机使用多少内存？
+How would you like to encrypt this virtual machine?||你希望如何加密此虚拟机？
+If the Windows installer does not automatically recognize the driver, press F6 after the virtual machine powers on to allow you to manually select the correct driver.||如果 Windows 安装程序未自动识别驱动程序，请在虚拟机开机后按 F6，以便手动选择正确的驱动程序。
+Invalid character in the disk file name. The characters %s cannot be used||磁盘文件名中包含无效字符。不能使用字符 %s
+Invalid virtual machine name.||无效的虚拟机名称。
+Invalid virtual machine path.||无效的虚拟机路径。
+Loading the available hosts...||正在加载可用主机...
+Maximum limit reached||已达到最大限制
+Memory for the Virtual Machine||虚拟机内存
+Monolithic||单一
+Name the Clone||为克隆命名
+Name the Virtual Machine||为虚拟机命名
+Network Adapter||网络适配器
+Network Type||网络类型
+New Server Connection||新建服务器连接
+New virtual machine version: %s\n||新虚拟机版本：%s\n
+No active host on this datacenter, we cannot create new virtual machines on this datacenter.||此数据中心没有活动主机，无法在此数据中心创建新虚拟机。
+One %g GB disk file will be created using this file name.||将使用此文件名创建一个 %g GB 的磁盘文件。
+Other VMware vCloud Director Server||其他 VMware vCloud Director 服务器
+Other VMware vSphere Server||其他 VMware vSphere 服务器
+Parallel Port||并行端口
+Personalize Linux||个性化 Linux
+Personalize Windows||个性化 Windows
+Physical disk %s||物理磁盘 %s
+Physical disk %s, No partitions selected||物理磁盘 %s，未选择分区
+Physical disk %s: %s||物理磁盘 %s：%s
+Pre-allocated||预分配
+Preparing clone operation||正在准备克隆操作
+Printer||打印机
+Processor Configuration||处理器配置
+Properties||属性
+Provide a name and local storage path for the new virtual machine.||为新虚拟机提供名称和本地存储路径。
+Ready to Create Virtual Machine||准备创建虚拟机
+Reconfiguring virtual hardware||正在重新配置虚拟硬件
+Remote VM Access||远程虚拟机访问
+Result||结果
+Review Changes||查看更改
+Select I/O Controller Types||选择 I/O 控制器类型
+Select Physical Disk Partitions||选择物理磁盘分区
+Select Transfer Type||选择传输类型
+Select a Datastore||选择数据存储
+Select a Destination Location||选择目标位置
+Select a Destination Server||选择目标服务器
+Select a Disk||选择磁盘
+Select a Disk Type||选择磁盘类型
+Select a Guest Operating System||选择客户机操作系统
+Select a Host||选择主机
+Select a Physical Disk||选择物理磁盘
+Select an Existing Disk||选择现有磁盘
+Select deployment options.||选择部署选项。
+Select how to transfer the virtual machine to the Shared Virtual Machines directory.||选择如何将虚拟机传输到共享虚拟机目录。
+Select the location of the standard VM||选择标准虚拟机的位置
+Select the virtual machines||选择虚拟机
+Select the virtual machines that you want to import.||选择要导入的虚拟机。
+Select virtual machines||选择虚拟机
+Select virtual machines that you want to add into the library.||选择要添加到库中的虚拟机。
+Serial Port||串行端口
+Sharing Virtual Machine||正在共享虚拟机
+Shows the progress and result of the operation.||显示操作的进度和结果。
+Snapshotting virtual machine||正在为虚拟机拍摄快照
+Some guest operating systems may have difficulty using a boot disk larger than %s. Would you like to continue?||某些客户机操作系统可能难以使用大于 %s 的启动磁盘。是否继续？
+Sound Card||声卡
+Specify Disk Capacity||指定磁盘容量
+Specify Disk File||指定磁盘文件
+Specify the number of processors for this virtual machine.||指定此虚拟机的处理器数量。
+Split||拆分
+Splitting the disk makes it easier to move the virtual machine to another computer but may reduce performance with very large disks.||拆分磁盘可以更轻松地将虚拟机移动到另一台计算机，但对于非常大的磁盘可能会降低性能。
+Store the New Virtual Machine||存储新虚拟机
+The VM is ready to be shared.||虚拟机已准备好共享。
+The VM name cannot start or end with spaces.||虚拟机名称不能以空格开头或结尾。
+The chosen name and location would result in file paths that are longer than allowed for your system. Please shorten the name and/or location||所选的名称和位置会导致文件路径超过系统允许的长度。请缩短名称和/或位置
+The directory name "%s" is not a valid path.||目录名“%s”不是有效的路径。
+The directory name "%s" is too long, and would result in an invalid file path for your system. Please shorten the directory name||目录名“%s”太长，会导致系统的文件路径无效。请缩短目录名
+The driver location you entered is invalid. Make sure that you have entered the location of a directory that you have permission to read from.||你输入的驱动程序位置无效。请确保你输入的是你有权读取的目录位置。
+The installer for "%s" might not include the driver for the BusLogic controller. You may have to download the driver or choose a different controller.||“%s”的安装程序可能不包含 BusLogic 控制器的驱动程序。你可能需要下载该驱动程序或选择其他控制器。
+The installer for "%s" might not include the driver for the LSI Logic SAS controller. You may have to download the driver or select the LSI Logic controller.||“%s”的安装程序可能不包含 LSI Logic SAS 控制器的驱动程序。你可能需要下载该驱动程序或选择 LSI Logic 控制器。
+The installer for "%s" might not include the driver for the LSI Logic controller. You may have to download the driver or select the BusLogic controller.||“%s”的安装程序可能不包含 LSI Logic 控制器的驱动程序。你可能需要下载该驱动程序或选择 BusLogic 控制器。
+The name "%s" is too long, and would result in an invalid file path for your system. Please shorten the name||名称“%s”太长，会导致系统的文件路径无效。请缩短名称
+The path "%s" already exists. Please enter another path and try again.||路径“%s”已存在。请输入其他路径后重试。
+The path "%s" cannot be written to. Please enter another path and try again.||路径“%s”无法写入。请输入其他路径后重试。
+The selected virtual disk is too large for use with this %s virtual machine.||所选虚拟磁盘对于此 %s 虚拟机来说太大。
+The selected virtual disk is too small for use with this %s virtual machine.||所选虚拟磁盘对于此 %s 虚拟机来说太小。
+The selected virtual disk is unencrypted and cannot be used with an encrypted virtual machine.||所选虚拟磁盘未加密，无法用于加密的虚拟机。
+The specified disk size is greater than the allowed size for this virtual disk. Please specify a size between %.3f GB and %.1f GB.||指定的磁盘大小超过此虚拟磁盘允许的大小。请指定介于 %.3f GB 和 %.1f GB 之间的大小。
+The specified disk size is less than the allowed size for this virtual disk. Please specify a size between %.3f GB and %.1f GB.||指定的磁盘大小小于此虚拟磁盘允许的大小。请指定介于 %.3f GB 和 %.1f GB 之间的大小。
+The specified location appears to contain an existing virtual machine. Having two virtual machines installed in the same location can cause problems, including loss of data if the two virtual machines have the same name. Would you like to continue with this location?||指定的位置似乎包含现有虚拟机。在同一位置安装两台虚拟机可能会引发问题，包括在两台虚拟机同名时造成数据丢失。是否继续使用此位置？
+The specified path already exists||指定的路径已存在
+The specified virtual disk size is incompatible with Easy Install and may prevent the guest from booting properly. The disk must be smaller than %s to use Easy Install.||指定的虚拟磁盘大小与简易安装不兼容，可能导致客户机无法正常启动。要使用简易安装，磁盘必须小于 %s。
+The specified virtual disk size requires that the disk be split. Please choose to store the disk as multiple files or reduce the size of the disk to be smaller than %u GB.||指定的虚拟磁盘大小要求拆分磁盘。请选择将磁盘存储为多个文件，或将磁盘大小减小到小于 %u GB。
+The virtual machine location cannot use any of the following characters: %s||虚拟机位置不能使用以下任何字符：%s
+The virtual machine must be encrypted and using UEFI firmware.||虚拟机必须已加密并使用 UEFI 固件。
+The virtual machine must have a name in order to be shared.||虚拟机必须具有名称才能共享。
+The virtual machine you are trying to create already exists. You must specify a different location for your virtual machine.||你尝试创建的虚拟机已存在。你必须为虚拟机指定其他位置。
+The virtual machine's hard disk is stored as one or more files on the host computer's physical disk. These file(s) start small and become larger as you add applications, files, and data to your virtual machine.||虚拟机的硬盘以主机物理磁盘上的一个或多个文件形式存储。这些文件初始较小，随着你向虚拟机添加应用程序、文件和数据而增大。
+The virtual machine's hard disk is stored as one or more files on the host computer's physical disk. These file(s) will be created immediately and will never grow in size.||虚拟机的硬盘以主机物理磁盘上的一个或多个文件形式存储。这些文件将立即创建，且大小不会再增长。
+There are no more available IDE devices in this virtual machine. In order to create an IDE disk, first remove one or more IDE devices.||此虚拟机中没有更多可用的 IDE 设备。要创建 IDE 磁盘，请先移除一个或多个 IDE 设备。
+There are no more available IDE, SCSI, SATA or NVMe devices in this virtual machine. In order to create a new disk, first remove one of the existing disk devices.||此虚拟机中没有更多可用的 IDE、SCSI、SATA 或 NVMe 设备。要创建新磁盘，请先移除一个现有磁盘设备。
+There are no more available NVMe devices in this virtual machine. In order to create a NVMe disk, first remove one or more NVMe devices.||此虚拟机中没有更多可用的 NVMe 设备。要创建 NVMe 磁盘，请先移除一个或多个 NVMe 设备。
+There are no more available SATA devices in this virtual machine. In order to create a SATA disk, first remove one or more SATA devices.||此虚拟机中没有更多可用的 SATA 设备。要创建 SATA 磁盘，请先移除一个或多个 SATA 设备。
+There are no more available SCSI devices in this virtual machine. In order to create a SCSI disk, first remove one or more SCSI devices.||此虚拟机中没有更多可用的 SCSI 设备。要创建 SCSI 磁盘，请先移除一个或多个 SCSI 设备。
+There was an error validating the path "%s": %s||验证路径“%s”时出错：%s
+This is used to install %s.||这用于安装 %s。
+This virtual disk file will store the partition information for the selected physical disk.||此虚拟磁盘文件将存储所选物理磁盘的分区信息。
+This virtual machine could not be moved.||无法移动此虚拟机。
+This virtual machine's hardware compatibility cannot be changed because it has a legacy snapshot.||由于此虚拟机具有旧版快照，无法更改其硬件兼容性。
+This virtual machine's hardware compatibility cannot be changed on this host.||无法在此主机上更改此虚拟机的硬件兼容性。
+This wizard helps you to convert a shared virtual machine into a standard VM.||此向导可帮助你将共享虚拟机转换为标准虚拟机。
+This wizard will help you configure a virtual machine for access by remote users.||此向导将帮助你配置虚拟机以供远程用户访问。
+This wizard will scan your system for virtual machines outside of the virtual machine library.||此向导将扫描你的系统，查找虚拟机库之外的虚拟机。
+Trusted Platform Module||可信平台模块
+USB Controller||USB 控制器
+Unable to create a full clone of this virtual machine.||无法创建此虚拟机的完整克隆。
+Unable to create a linked clone of this virtual machine.||无法创建此虚拟机的链接克隆。
+Unable to create a new virtual machine: %s||无法创建新虚拟机：%s
+Unable to create clone: the specified path already exists||无法创建克隆：指定的路径已存在
+Unable to create virtual machine: the specified path already exists||无法创建虚拟机：指定的路径已存在
+Unable to determine default VM location for the selected host. This is most likely due to insufficient permissions.||无法确定所选主机的默认虚拟机位置。这很可能是由于权限不足。
+Unsharing Virtual Machine||正在停止共享虚拟机
+Upload failed: %s.||上传失败：%s。
+Uploading to %s is not supported.||不支持上传到 %s。
+User Access Control||用户访问控制
+Verifying connection to remote server...||正在验证与远程服务器的连接...
+Virtual Machine Created||已创建虚拟机
+Virtual machine created successfully. You still need to install the operating system and VMware Tools.||虚拟机创建成功。你仍需要安装操作系统和 VMware Tools。
+Virtual machine location||虚拟机位置
+Welcome to the Change Hardware Compatibility Wizard||欢迎使用更改硬件兼容性向导
+Welcome to the Clone Virtual Machine Wizard||欢迎使用克隆虚拟机向导
+Welcome to the Scan for Virtual Machines Wizard||欢迎使用扫描虚拟机向导
+Welcome to the Share VM Wizard||欢迎使用共享虚拟机向导
+Welcome to the Stop Sharing VM Wizard||欢迎使用停止共享虚拟机向导
+Welcome to the change hardware compatibility wizard. This wizard lets you upgrade or change a virtual machine from one virtual hardware generation to another, allowing the virtual machine to work with a different generation of products.||欢迎使用更改硬件兼容性向导。此向导让你将虚拟机从一代虚拟硬件升级或更改为另一代，从而使虚拟机能够与不同代的产品配合使用。
+What kind of boot device should this virtual machine have?||此虚拟机应使用哪种启动设备？
+What kind of disk do you want to create?||你想创建哪种磁盘？
+What type of configuration do you want?||你想要哪种配置类型？
+What type of hardware do you want to install?||你想安装哪种类型的硬件？
+What type of network do you want to add?||你想添加哪种类型的网络？
+Where will this virtual machine be stored?||此虚拟机将存储在何处？
+Where would you like to store the disk file?||你希望将磁盘文件存储在何处？
+Where would you like to store the uploaded virtual machine?||你希望将上传的虚拟机存储在何处？
+Where would you like to upload this virtual machine?||你希望将此虚拟机上传到何处？
+Which SCSI controller type would you like to use for SCSI virtual disks?||你希望为 SCSI 虚拟磁盘使用哪种 SCSI 控制器类型？
+Which compatibility format would you like to convert to?||你希望转换为哪种兼容格式？
+Which disk do you want to use?||你想使用哪个磁盘？
+Which hardware features are needed for this virtual machine?||此虚拟机需要哪些硬件功能？
+Which host will run this virtual machine?||哪台主机将运行此虚拟机？
+Which local hard disk do you want this virtual machine to use?||你希望此虚拟机使用哪个本地硬盘？
+Which operating system will be installed on this virtual machine?||将在此虚拟机上安装哪个操作系统？
+Which partitions would you like to use for this virtual machine?||你希望为此虚拟机使用哪些分区？
+Which previously configured disk would you like to use?||你希望使用哪个先前配置的磁盘？
+Windows clustering does not work with the LSI Logic controller. To create a virtual machine compatible with Windows clustering, select the LSI Logic SAS controller instead.||Windows 群集不能与 LSI Logic 控制器配合使用。要创建与 Windows 群集兼容的虚拟机，请改为选择 LSI Logic SAS 控制器。
+Would you like to clone this virtual machine before making changes?||是否要在进行更改之前克隆此虚拟机？
+XXX||XXX
+You are already connected to "%s" as "%s". Do you want to continue as that user?||你已以“%s”的身份连接到“%s”。是否要以该用户身份继续？
+You are attempting to change the hardware compatibility of a virtual machine that this version of VMware Workstation does not support. This version only supports virtual machines created by VMware Workstation 4.0 and later.||你正在尝试更改此版本 VMware Workstation 不支持的虚拟机的硬件兼容性。此版本仅支持由 VMware Workstation 4.0 及更高版本创建的虚拟机。
+You are attempting to change the hardware compatibility of a virtual machine that this version of VMware Workstation does not understand. To do this, you must change the hardware compatibility of the virtual machine using the version of VMware Workstation that was used to create it.||你正在尝试更改此版本 VMware Workstation 无法识别的虚拟机的硬件兼容性。为此，你必须使用创建该虚拟机时所用的 VMware Workstation 版本来更改其硬件兼容性。
+You are downgrading to a version that does not support %s as a guest operating system.||你正在降级到的版本不支持将 %s 作为客户机操作系统。
+You are downgrading to a version that does not support IDE disks larger than %s. To downgrade this virtual machine, remove the disk.||你正在降级到的版本不支持大于 %s 的 IDE 磁盘。要降级此虚拟机，请移除该磁盘。
+You are downgrading to a version that does not support IDE disks. To downgrade this virtual machine, remove all IDE disks.||你正在降级到的版本不支持 IDE 磁盘。要降级此虚拟机，请移除所有 IDE 磁盘。
+You are downgrading to a version that does not support NVMe devices. To downgrade this virtual machine, remove all NVMe disks.||你正在降级到的版本不支持 NVMe 设备。要降级此虚拟机，请移除所有 NVMe 磁盘。
+You are downgrading to a version that does not support NVMe disks larger than %s. To downgrade this virtual machine, remove the disk.||你正在降级到的版本不支持大于 %s 的 NVMe 磁盘。要降级此虚拟机，请移除该磁盘。
+You are downgrading to a version that does not support SATA devices. To downgrade this virtual machine, remove all SATA disks.||你正在降级到的版本不支持 SATA 设备。要降级此虚拟机，请移除所有 SATA 磁盘。
+You are downgrading to a version that does not support SATA disks larger than %s. To downgrade this virtual machine, remove the disk.||你正在降级到的版本不支持大于 %s 的 SATA 磁盘。要降级此虚拟机，请移除该磁盘。
+You are downgrading to a version that does not support SCSI disks larger than %s. To downgrade this virtual machine, remove the disk.||你正在降级到的版本不支持大于 %s 的 SCSI 磁盘。要降级此虚拟机，请移除该磁盘。
+You are downgrading to a version that does not support snapshots, but this VM has snapshots or recordings. Before downgrading, remove the snapshots.||你正在降级到的版本不支持快照，但此虚拟机具有快照或录制。降级前请移除这些快照。
+You have entered an invalid disk file. You must enter a valid file name.||你输入的磁盘文件无效。必须输入有效的文件名。
+You have entered an invalid virtual machine location.||你输入的虚拟机位置无效。
+You have entered an invalid virtual machine location. Make sure that the location is an absolute path.||你输入的虚拟机位置无效。请确保该位置是绝对路径。
+You have selected an LSI Logic controller for a Workstation 4.x virtual machine. This virtual machine will not be able to run in Workstation 4.0 or earlier.\n\nTo create a virtual machine compatible with Workstation 4.0 and earlier, select the BusLogic controller instead.||你为 Workstation 4.x 虚拟机选择了 LSI Logic 控制器。此虚拟机将无法在 Workstation 4.0 或更早版本中运行。\n\n要创建与 Workstation 4.0 及更早版本兼容的虚拟机，请改为选择 BusLogic 控制器。
+You might not be able to boot your virtual machine after the downgrade for the following reasons:\n\n%s\nAre you sure you want to continue?||降级后你可能无法启动虚拟机，原因如下：\n\n%s\n确定要继续吗？
+You must enter a hostname or IP address.||你必须输入主机名或 IP 地址。
+You must enter a user name.||你必须输入用户名。
+You must select a destination folder.||你必须选择目标文件夹。
+You must select a destination vDC.||你必须选择目标 vDC。
+You must select at least one partition.||你必须至少选择一个分区。
+You must specify a disk device to continue||你必须指定磁盘设备才能继续
+You must specify a virtual machine name and path.||你必须指定虚拟机名称和路径。
+_All the files (.vmdk, .vmx, etc.) for this virtual machine||此虚拟机的所有文件（.vmdk、.vmx 等）
+_Only the files needed to support a virtual TPM (.nvram, .vmss, .vmem, .vmx, .vmsn)||仅支持虚拟 TPM 所需的文件（.nvram、.vmss、.vmem、.vmx、.vmsn）

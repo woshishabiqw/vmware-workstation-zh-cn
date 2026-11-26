@@ -1,0 +1,241 @@
+New||新建
+V_M||虚拟机
+Help||帮助
+Home||主页
+_New||新建
+Reset||重置
+Ta_bs||选项卡
+_Edit||编辑
+_File||文件
+_Help||帮助
+_View||视图
+Pa_use||暂停
+Revert||恢复
+_Close||关闭
+_Hints||提示
+_Power||电源
+_Reset||重置
+Rem_ove||移除
+Suspend||挂起
+_Manage||管理
+Power On||开启电源
+Re_fresh||刷新
+Snapshot||快照
+T_oolbar||工具栏
+_Iconify||最小化
+_Library||库
+_Next VM||下一个虚拟机
+_Open...||打开...
+_Restore||还原
+_Support||支持
+_Suspend||挂起
+Edit Menu||编辑菜单
+File Menu||文件菜单
+Power Off||关闭电源
+S_napshot||快照
+Send _Key||发送按键
+Show help||显示帮助
+View Menu||视图菜单
+_About %s||关于 %s
+_Autosize||自动调整大小
+_Clone...||克隆...
+_Contents||目录
+_Next Tab||下一个标签页
+_Power On||开启
+_Roles...||角色...
+_Settings||设置
+_Toolbars||工具栏
+Close Ta_b||关闭标签页
+Po_wer Off||关闭
+_Customize||自定义
+_Upload...||上传...
+New _Window||新建窗口
+Preferences||首选项
+_Exceptions||例外
+_Grab Input||捕获输入
+_Status Bar||状态栏
+Do_wnload...||下载...
+Get _Support||获取支持
+P_references||首选项
+Restart host||重启主机
+_Full Screen||全屏
+_Message Log||消息日志
+_Previous VM||上一个虚拟机
+_Settings...||设置...
+Close Win_dow||关闭窗口
+Console _View||控制台视图
+File New Menu||新建菜单
+_Center Guest||居中客户机
+_Previous Tab||上一个标签页
+_Restart host||重启主机
+Autofit _Guest||自动适应客户机
+Fit _Guest Now||立即适应客户机
+Leave Feedback||提供反馈
+Shut down host||关闭主机
+_Stretch Guest||拉伸客户机
+_Thumbnail Bar||缩略图栏
+Autofit _Window||自动适应窗口
+E_xclusive Mode||独占模式
+Fit _Window Now||立即适应窗口
+_Capture Screen||截屏
+_Permissions...||权限...
+_Shut down host||关闭主机
+(Downloading %s)||（正在下载 %s）
+Close the window||关闭窗口
+Hide the library||隐藏库
+Saved _Passwords||已保存的密码
+Show the library||显示库
+_VNC Connections||VNC 连接
+Capture Mo_vie...||录制影片...
+Close this window||关闭此窗口
+Mark as _Favorite||标记为收藏
+Open a new window||打开新窗口
+Send Ctrl+Alt+F%u||发送 Ctrl+Alt+F%u
+Show/hide Toolbar||显示/隐藏工具栏
+Snapshot _Manager||快照管理器
+Software _Updates||软件更新
+_Delete from Disk||从磁盘删除
+_Enable All Hints||启用所有提示
+_Export to OVF...||导出为 OVF...
+_Online Community||在线社区
+_Take Snapshot...||拍摄快照...
+Add _Guest Display||添加客户机显示
+Iconify the window||最小化窗口
+Restore the window||还原窗口
+S_end Ctrl+Alt+Del||发送 Ctrl+Alt+Del
+_Removable Devices||可移动设备
+Connect to a server||连接到服务器
+Stop Mo_vie Capture||停止录制影片
+Unmark as _Favorite||取消收藏
+_Revert to Snapshot||恢复到快照
+_Show Enabled Hints||显示已启用的提示
+Collect Support Data||收集支持数据
+Connect to _Server...||连接到服务器...
+Edit the VNC settings||编辑 VNC 设置
+Exit Maintenance Mode||退出维护模式
+Exit full screen mode||退出全屏模式
+Export the current VM||导出当前虚拟机
+Power On to _Firmware||开启电源进入固件
+View Software Updates||查看软件更新
+_Enter License Key...||输入许可证密钥...
+_Remove Guest Display||移除客户机显示
+Enter Maintenance Mode||进入维护模式
+Enter full screen mode||进入全屏模式
+Hide the thumbnail bar||隐藏缩略图栏
+Make the VM grab input||让虚拟机捕获输入
+Open a\nVirtual Machine||打开\n虚拟机
+Show the thumbnail bar||显示缩略图栏
+Switch to the next tab||切换到下一个标签页
+T_humbnail Bar Options||缩略图栏选项
+_Exit Maintenance Mode||退出维护模式
+_Open Virtual Machines||已打开的虚拟机
+Cycle multiple monitors||循环切换多个显示器
+Open a Virtual Machine.||打开虚拟机。
+Saved Login Information||已保存的登录信息
+Update VMware _Tools...||更新 VMware Tools...
+Use this VM exclusively||独占使用此虚拟机
+_Enter Maintenance Mode||进入维护模式
+_Mount Virtual Disks...||挂载虚拟磁盘...
+_New Virtual Machine...||新建虚拟机...
+_Product Support Center||产品支持中心
+_Revert to Snapshot: %s||恢复到快照：%s
+_Submit Support Request||提交支持请求
+_Virtual Network Editor||虚拟网络编辑器
+Cycle _Multiple Monitors||循环切换多个显示器
+Install VMware _Tools...||安装 VMware Tools...
+VMware Tools Unavailable||VMware Tools 不可用
+_Collect Support Data...||收集支持数据...
+Clone this virtual machine||克隆此虚拟机
+Reinstall VMware _Tools...||重新安装 VMware Tools...
+Switch to the previous tab||切换到上一个标签页
+Install _Virtual Printer...||安装虚拟打印机...
+_Manage VM power actions...||管理虚拟机电源操作...
+Connect to VMware vCloud Air||连接到 VMware vCloud Air
+Create a new Virtual Machine||创建新的虚拟机
+Create a new virtual machine||创建新的虚拟机
+Get support for this product||获取此产品的支持
+Mark this item as a favorite||将此项目标记为收藏
+Upgrade this virtual machine||升级此虚拟机
+_Powered On Virtual Machines||已开启电源的虚拟机
+Connect to VMware v_Cloud Air||连接到 VMware vCloud Air
+Edit virtual machine settings||编辑虚拟机设置
+Go to the online support page||转到在线支持页面
+Refresh the server inventory.||刷新服务器清单。
+Update the VMware guest tools||更新 VMware 客户机工具
+_Folder View Virtual Machines||文件夹视图虚拟机
+_Upgrade this virtual machine||升级此虚拟机
+Add a guest display to this VM||为此虚拟机添加客户机显示
+Install the VMware guest tools||安装 VMware 客户机工具
+Loading storage information...||正在加载存储信息...
+Starting Workstation Server...||正在启动 Workstation Server...
+Unmark this item as a favorite||取消将此项目标记为收藏
+View appliance management page||查看设备管理页面
+View the help contents for %s.||查看 %s 的帮助内容。
+Close the currently focused tab||关闭当前聚焦的标签页
+Mount Virtual Disks on the host||在主机上挂载虚拟磁盘
+The given path is not absolute.||给定的路径不是绝对路径。
+View _appliance management page||查看设备管理页面
+Reinstall the VMware guest tools||重新安装 VMware 客户机工具
+Request support for this product||为此产品请求支持
+Cancel VMware _Tools Installation||取消 VMware Tools 安装
+Change _Hardware Compatibility...||更改硬件兼容性...
+Change the visibility of the tabs||更改选项卡的可见性
+Launch the Virtual Network Editor||启动虚拟网络编辑器
+VMware guest tools are downloading||VMware 客户机工具正在下载
+Connecting to Workstation Server...||正在连接到 Workstation Server...
+Remove a guest display from this VM||从此虚拟机移除客户机显示
+Show all users connected to this VM||显示连接到此虚拟机的所有用户
+Shutting down Workstation Server...||正在关闭 Workstation Server...
+(Starting VMware Tools Installation)||（正在开始安装 VMware Tools）
+(Stopping VMware Tools Installation)||（正在停止安装 VMware Tools）
+Center the guest on the host display||在主机显示上居中客户机
+Change the visibility of the toolbar||更改工具栏的可见性
+Delete this virtual machine from disk||从此磁盘删除此虚拟机
+Get support from the online community||从在线社区获取支持
+Capture a movie of this virtual machine||录制此虚拟机的影片
+Change the configuration of the toolbar||更改工具栏配置
+Change the visibility of the status bar||更改状态栏的可见性
+Display the virtual machine message log||显示虚拟机消息日志
+Send Ctrl+Alt+Del to the virtual machine||向虚拟机发送 Ctrl+Alt+Del
+Send Ctrl+Alt+F%u to the virtual machine||向虚拟机发送 Ctrl+Alt+F%u
+Stretch the guest screen to fit the host||拉伸客户机屏幕以适应主机
+Upload the current VM to a remote server||将当前虚拟机上传到远程服务器
+Manage snapshots for this virtual machine||管理此虚拟机的快照
+Power on this VM and enter firmware setup||开启此虚拟机电源并进入固件设置
+Take a screenshot of this virtual machine||截取此虚拟机的屏幕截图
+Unable to set the shared VMs location: %s||无法设置共享虚拟机位置：%s
+Cancel the VMware guest tools installation||取消 VMware 客户机工具安装
+Unable to set the shared VMs location: %s.||无法设置共享虚拟机位置：%s。
+Enter a license key to activate the product||输入许可证密钥以激活产品
+Pause the execution of this virtual machine||暂停此虚拟机的运行
+Take a new snapshot of this virtual machine||为此虚拟机拍摄新快照
+VMware guest tools installation is starting||VMware 客户机工具安装正在开始
+VMware guest tools installation is stopping||VMware 客户机工具安装正在停止
+Remove this server from the sidebar and tabs||从侧边栏和标签页中移除此服务器
+Switch to the virtual machine's console view||切换到虚拟机的控制台视图
+Change the guest resolution to match the host||更改客户机分辨率以匹配主机
+Download the virtual machine to your computer||将虚拟机下载到你的计算机
+Revert this machine to its parent snapshot: %s||将此计算机恢复到其父快照：%s
+Stop capturing a movie of this virtual machine||停止录制此虚拟机的影片
+Manage remote user permissions for this object.||管理此对象的远程用户权限。
+Create a virtual machine on your local computer.||在你的本地计算机上创建虚拟机。
+Install virtual printers on this virtual machine||在此虚拟机上安装虚拟打印机
+Upgrade or change this virtual machine's version||升级或更改此虚拟机的版本
+Cannot take snapshots. Click for more information.||无法拍摄快照。单击以了解更多信息。
+Revert this virtual machine to its parent snapshot||将此虚拟机恢复到其父快照
+The connection to the Workstation Server was lost.||与 Workstation Server 的连接已断开。
+Manage remote permission roles for this connection.||管理此连接的远程权限角色。
+VMware guest tools are not available for this guest||此客户机无法使用 VMware 客户机工具
+Show virtual machines that are currently powered on.||显示当前已开启电源的虚拟机。
+Show virtual machines that are currently open in tabs.||显示当前在标签页中打开的虚拟机。
+Manage remote user permissions for this virtual machine.||管理此虚拟机的远程用户权限。
+Mount the virtual printer installer on this virtual machine||在此虚拟机上挂载虚拟打印机安装程序
+Leave feedback about this technology preview on our website.||在我们的网站上提供关于此技术预览的反馈。
+The location cannot be changed while there are shared VMs present.||存在共享虚拟机时无法更改位置。
+Only empty or new directories can be used as the Shared VMs location.||只有空目录或新目录才能用作共享虚拟机位置。
+Show virtual machines in the same folder as the one in the current tab.||显示与当前标签页中虚拟机位于同一文件夹的虚拟机。
+Could not change the Shared VMs location: %s.\n\nThe directory "%s" still exists.||无法更改共享虚拟机位置：%s。\n\n目录“%s”仍然存在。
+Manage the power actions of virutual machines when the host powers on or shuts down.||管理主机开机或关机时虚拟机的电源操作。
+Unable to access "%s". Please make sure that all users have permission to read this directory.||无法访问“%s”。请确保所有用户都有读取此目录的权限。
+Unable to load the server information. Make sure that you have permission to access the server.||无法加载服务器信息。请确保你有访问该服务器的权限。
+Unable to connect to the Workstation Server. Please ensure that the server is running and that you are authorized to connect.||无法连接到 Workstation Server。请确保服务器正在运行且你有权连接。

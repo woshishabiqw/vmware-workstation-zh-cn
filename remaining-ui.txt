@@ -1,0 +1,2962 @@
+尚未汉化的界面字符串（去重后 2743 条，含长段落/错误信息）
+
+
+
+Warning: This is a remote virtual machine. The hardware compatibility of remote virtual machines cannot be downgraded.
+
+
+Warning: This is a shared virtual machine. The hardware compatibility of shared virtual machines cannot be downgraded.
+   Adding: %s
+
+   Reducing memory to %u MB
+
+   Reducing number of processors to %d
+
+   Reducing shared graphics memory to %u MB 
+
+   Removing: %s
+
+ (disconnected)
+ (maintenance mode)
+ (not responding)
+ selected
+"%s" cannot be closed while the virtual machine is busy.
+"%s" is currently in use by one or more permissions.
+"%s" is not a valid VNC URL.
+"%s" is still powered on.
+
+You can continue to run it in the background or power it off now.
+"%s" is still powered on.
+
+You can continue to run it in the background, suspend it for later use, or power it off now.
+%d GB shared graphics memory
+%d MB
+%d days left
+%d network adapters
+%d processors
+%d virtual machines running
+%s  Your preference to create %s by default will not apply.
+%s (Recommended)
+%s (connected to %s)
+%s (recommended)
+%s (unsupported)
+%s - Compatible with ESX Server
+%s - Screen %d
+%s - version %s
+%s Activation
+%s Features
+%s IDE disk size
+%s Movie
+%s Pro
+%s SCSI disk size
+%s Updates
+%s aborted.
+%s cannot exit while it is downloading, uploading, importing, or exporting a virtual machine. Cancel all operations and try again.
+%s could not apply the window change, because the virtual machine is no longer rendering its display.
+%s could not find a suitable default browser and is therefore unable to provide the information you requested. Please install Google Chrome or Mozilla Firefox. If you wish to use a different web browser, please place the following in your %s/preferences file:
+
+pref.webBrowser = "/path/to/browser"
+%s detected.
+%s disk size
+%s does not support %s.
+%s does not support the BusLogic controller. Select LSI Logic or LSI Logic SAS instead.
+%s does not support the multiple monitors feature in %s guests.
+%s does not support the multiple monitors feature in shared or remote virtual machines.
+%s for this virtual machine have not been found on your computer. Installation will not be able to continue.
+%s has encountered an error and has shut down Windows.  Click Restart Windows to start Windows again. Click Report to collect data and to request support from VMware.
+%s has encountered an error and has shut down the virtual machine. Click Restart to start the virtual machine again. Click Report to collect data and to request support from VMware.
+%s installation cannot be started manually while Easy Install is in progress.
+%s installation cannot be started until the current download finishes.
+%s is a %s, which is not supported by %s. Choose another host or change the hardware version of the virtual machine to one of the following options:%s
+%s is connected to a device in another console. Are you sure that you want to disconnect this remote device?
+%s is connecting to the update server...
+%s is not a supported guest operating system for %s virtual machines. Some features of it might not work properly unless its virtual hardware is upgraded.
+%s is not a supported guest operating system for %s virtual machines. Some features of it might not work properly unless its virtual hardware is upgraded.
+
+Are you sure you want to continue?
+%s is not a valid virtual disk file.
+%s is not installed on this virtual machine. Insert the installer disc and click "Restart VM".
+%s memory
+%s must be converted to a %s virtual machine to be used in %s.
+%s version %s
+%s... %d%% complete
+%s: Does not support local VMs.
+
+%s: Fullscreen mode requires a virtual machine to be specified.
+
+%s: Invalid URL: %s
+
+%s: Invalid VMRC URL: %s
+
+%s: No MKS path was specified in this URL: %s
+
+%s: No SSL thumbprint was specified in this URL: %s
+
+%s: No host specified in URL: %s
+
+%s: No virtual machine ID was specified in this URL: %s
+
+%s: The ssl thumbprint parameter exceeds the maximum length.
+
+%s: The websocket parameter exceeds the maximum length.
+
+%s: Too many arguments; only one virtual machine can be specified at a time.
+
+%s: requires either a host or a VMRC URI as arguments.
+
+%sAre you sure you want to reset the virtual machine "%s"?
+%sAre you sure you want to restart the guest operating system for "%s"?
+%sAre you sure you want to shut down the guest operating system for "%s"?
+%sAre you sure you want to suspend the guest operating system for "%s"?
+%u MB
+%u monitor
+%u monitors
+%zd CD/DVDs
+%zd CPU cores
+%zd Floppies
+%zd Generic SCSI
+%zd Parallel Ports
+%zd Serial Ports
+%zd USB Controllers
+'%s' cannot be used as the name for a shared folder.
+'%s' doesn't match any available item in the list: Please select a valid device from the list.
+'%s' is open in another window.
+(Bridged to %s)
+(Connected to %s network on Server)
+(Connected to %s on Server)
+(Connected to device on Server)
+(Devices reconnecting or unplugged from the host)
+(Disconnected)
+(Logging is not enabled)
+(Not powered on)
+(Optional)
+(Secondary) %s
+(Unknown)
+(none)
+(optional)
+(server)
+(unavailable)
+(vmnet0 only)
+- The hardware version you have chosen does not support one or more of your virtual machine's hard disks.
+
+- You are downgrading an encrypted virtual machine.
+
+- You are downgrading to a version that does not support %s as a guest operating system.
+
+- You are downgrading to a version that does not support Trusted Platform Module device.
+
+- You are downgrading to a version that does not support booting EFI virtual machines.
+
+- You are downgrading to a version that does not support the LSI Logic SAS SCSI controller.
+
+0 MB
+1 day left
+1 processor
+1 virtual machine running
+32-bit OS
+3D Graphics
+3D acceleration is not supported in this guest operating system.
+64-bit OS
+64-bit OS Arm
+<Virtual machine config file>
+<b>1.</b> Insert the installation CD-ROM or DVD.
+<b>2.</b> Power on the virtual machine.
+<b>3.</b> Install the operating system as you would for a physical computer.
+<b>1.</b> Power on the virtual machine.
+<b>2.</b> Let the guest operating system load, and login if necessary.
+<b>3.</b> From the menu bar, select VM > Install VMware Tools..
+<b>Location:</b> %s
+A %g GB virtual disk be created using multiple disk files. The disk files will be automatically named based on this file name.
+A LAN segment must be selected.
+A Virtual Machine
+A certificate error occurred while connecting to the update server. Check your Internet settings or contact your system administrator.
+A certificate in the host's chain does not have a valid signature.
+A certificate in the host's chain has an unknown revocation status.
+A certificate in the host's chain is based on an untrusted root.
+A certificate in the host's chain is explicitly not trusted.
+A certificate in the host's chain is not time-valid.
+A certificate in the host's chain is not valid in its proposed usage.
+A certificate trust list used to create this chain did not have a valid signature.
+A certificate trust list used to create this chain is not valid for this usage.
+A certificate trust list used to create this chain was not time-valid.
+A communication error occurred for the update server (HTTP 403). Check your Internet settings or contact your system administrator.
+A communication error occurred with the update server (%s). Try again later and if the problem persists, contact VMware Support or your system administrator.
+A cycle in the certificate chain of trust was detected.
+A datastore is not configured for the specified configuration file.
+A destination folder has not been selected.
+A full clone is a complete copy of the original virtual machine at its current state. The virtual machine is fully independent and requires more disk space to store.
+A full screen application is running in this virtual machine.
+A linked clone is a reference to the original virtual machine and requires less disk space to store. However, it cannot run without access to the original virtual machine.
+A managed object id indicating the VM to connect to
+A name must be specified for this virtual machine.
+A networking error (%d) occurred while communicating with the computer at %s
+A new virtual machine is like a physical computer with a blank hard disk. The typical way to install the operating system is:
+A password requires a username.
+A requested power operation is already in progress.
+A role is a named set of privileges.
+A role name cannot be blank.
+A valid license key is required to power on virtual machines.
+A virtual machine is composed of one or more files on the host file system, which will appear as a single hard disk to the guest operating system. Virtual disks can easily be copied or moved on the same host or between hosts.
+A virtual machine is like a physical computer; it needs an operating system. How will you install the guest operating system?
+A virtual machine must be powered off before you can stop sharing it.
+
+Power off this virtual machine and re-run the Stop Sharing VM wizard.
+A virtual machine with this name has already been shared.
+AMD Opteron "Piledriver" Generation
+AMD Opteron "Steamroller" Generation
+AMD Opteron Gen. 3 (no 3DNow!)
+AMD Opteron Generation 1
+AMD Opteron Generation 2
+AMD Opteron Generation 3
+AMD Opteron Generation 4
+AMD Zen Generation
+AVI Movies (*.avi)
+A_uthor:
+A_utomatic Settings...
+A_utomatically connect new USB devices
+Aborted
+Accelerate _3D graphics
+Accept the end user license agreement.
+Accessing raw disks may cause loss of data or inability to boot, especially if the raw disk partition is used as the boot device.
+
+For more information, see the section in the product manual about using physical disks.
+Active Task
+Ad_vanced
+Ad_vanced...
+Add Hardware Wizard
+Add User or Group
+Add Virtual Network
+Add a Shared Folder
+Add to library option
+Add to:
+Addition or reconfiguration of network adapters attached to non-ephemeral distributed virtual port groups is not supported.
+Additional Information
+Additional Memory
+Additional properties for this virtual machine.
+Administrative privileges are needed to complete the software update.
+All Files
+All Folders
+All Image Files
+All Items
+All Privileges
+All downloadable components are up to date.
+All updates finished.
+Allocating the full capacity can enhance performance but requires all of the physical disk space to be available right now. If you do not allocate all the space now, the virtual disk starts small and grows as you add data to it.
+Allow _memory page trimming
+Allow _some virtual machine memory to be swapped
+Allow active F_TP
+Allow any _Organizationally Unique Identifier
+Allow ha_rdware acceleration for all virtual machine consoles
+Allow mos_t virtual machine memory to be swapped
+Allow or restrict user access by assigning roles.
+Allow the guest operating system to use this serial port in polled mode (as opposed to interrupt mode).
+AlmaLinux 64-bit
+AlmaLinux 64-bit Arm
+Already connecting.
+Already refreshing.
+Alt + 
+Although this version of %s will be able to use the downgraded virtual machine, older versions and other products might not be able to use it properly for the following reasons:
+
+%s
+Are you sure you want to continue?
+Always _enabled
+Always ask for location
+Amazon Linux 2
+Amazon Linux 3 and later 64-bit
+An Application
+An authorization error occurred for the proxy server (HTTP 407). Try again later and if the problem persists, contact your system administrator.
+An authorization error occurred for the update server (HTTP 401). Check your Internet settings or contact your system administrator.
+An encrypted virtual machine cannot be shared.
+An error occured while pasting: %s
+An error occurred contacting the proxy server. Check your Internet and proxy settings or contact your system administrator.
+An error occurred for %s.
+An error occurred retrieving data from the server.
+An error occurred when trying to check the server's SSL certificate.
+An error occurred while reading/writing files. Try again later and if the problem persists, contact your system administrator.
+An existing _snapshot (powered off only)
+An invalid URL was specified for the update or proxy server. Check your configuration file and/or contact your system administrator.
+An unknown error occurred
+An unknown error occurred when trying to enter the license key. If the problem persists, contact VMware technical support.
+An unknown error occurred while taking a screen capture of the virtual machine.
+An unknown error occurred while taking a screen capture of the virtual machine. The PNG buffer was corrupted.
+Another user connected to this virtual machine responded to the dialog before you did.
+Another user is connected to this virtual machine.
+
+Another user is currently editing the permissions for %s. Any changes will be shown as they happen.
+Any
+Append
+Apple macOS
+Are you ready to clone?
+Are you ready to convert this virtual machine?
+Are you sure that you want to power off the virtual machine?
+
+Please make sure that the virtual machine is in a safe state for shutdown; abrupt power off can damage data. When possible, shut down your virtual machine from its operating system.
+Are you sure that you want to suspend the virtual machine?
+
+Suspend will preserve your environment and data for later use.
+Are you sure you want to discard the suspended state for "%s"?
+This action is irreversible!
+Are you sure you want to reset the virtual machine?
+
+Please make sure the virtual machine is in a safe state for shutdown; abrupt power off can damage data. When possible, shut down your virtual machine from its operating system.
+Are you sure you want to restart the virtual machine?
+
+Please make sure the virtual machine is in a safe state for shutdown; abrupt power off can damage data.
+Ask me
+Attempt to change device to the client device in non-client mode.
+Attempted to start an already in-progress or finished download.
+Attributes
+Authorization manager not present
+Auto detect
+AutoProtect
+AutoProtect _interval:
+AutoProtect cannot be used because this virtual machine is using a physical disk.
+AutoProtect is not supported for %s virtual machines.
+AutoProtect will consume a minimum of %s of disk space.
+AutoProtect will keep a range of snapshots to provide different restore options:
+Autofit
+Autofit _window
+Autofit g_uest
+Autologin for this guest is disabled.
+
+Enable Autologin to have the guest OS automatically log in without requiring a user name and password.
+Autologin in this guest is enabled for the user %s.
+Autologin settings are not available for this virtual machine.
+
+To configure Autologin, ensure that the guest OS is running and that an up-to-date version of %s is running in the guest.
+Automatic Bridging Settings
+Automatic VM Start & Stop
+Automatic bridging can only be enabled on vmnet0.
+Automatically bridge to one of these host network adapters:
+Available Updates
+BIOS
+BMP Files (*.bmp)
+B_andwidth:
+B_usLogic
+B_usLogic (Recommended)
+Bad Gateway
+Bad Request
+Bad text received from server.
+Br_idged: Connected directly to the physical network
+Bridged (Automatic)
+Bridged _to:
+Bro_wse...
+Browse For Virtual Disk File
+Browse for CD/DVD Image File
+Browse for Default Location
+Browse for Downloaded Virtual Machine Location
+Browse for Floppy Image File
+Browse for Host Path
+Browse for Imported Virtual Machine Location
+Browse for Location
+Browse for Screenshot Location
+Browse for Virtual Machine Location
+Browse for Working Directory
+Browse for custom location...
+Browse the storage path
+BusLogic SCSI controllers are not supported on %s virtual machines.
+BusLogic SCSI controllers are not supported on 64-bit virtual machines.
+BusLogic SCSI controllers only support disk sizes up to 2 TB.
+CD/DVD
+CD/DVD %d (%s)
+CD/DVD (%s)
+CD/DVD Advanced Settings
+CD/DVD Drive
+CPU Compatibility
+CPU Usage:
+CPUs:
+C_enter guest (no resolution change)
+C_lear
+C_lone
+C_lose after powering off or suspending
+C_onfirm:
+C_reate a new clone of this virtual machine
+C_ustom (advanced)
+C_ustom: Specific virtual network
+Ca_talog:
+Cable (10 Mbps)
+Cable (100 Mbps)
+Cable (4 Mbps)
+Camera
+Can't access console on powered off VM
+Canceled
+Canceled: %s
+Canceling...
+Cancelled
+Cannot Use Multiple Monitors
+Cannot access this device. Specify another device or select a different option to continue.
+Cannot add bridged network: There are no un-bridged host network adapters.
+Cannot add until the virtual machine is powered off
+Cannot automatically bridge to host adapter %s. %s is already bridged to it.
+Cannot bridge to host adapter %s. %s is already bridged to it.
+Cannot change network to bridged: There are no un-bridged host network adapters.
+Cannot change password because this virtual machine is powered on.
+Cannot check for software updates while downloading %s.
+
+Wait until the download of %s finishes or cancel the download.
+Cannot connect the device "%s": %s
+Cannot connect to server, invalid username or password
+Cannot connect while disconnecting
+Cannot connect while disconnecting.
+Cannot download %s, because component downloads are disabled.
+Cannot download %s, because software updates are disabled. See the Updates tab of the preferences dialog.
+Cannot download %s, because software updates are disabled. See the preferences dialog.
+Cannot download software updates while downloading %s.
+
+Wait until the download of %s finishes or cancel the download.
+Cannot exit while still downloading.  Cancel all downloads and try again.
+Cannot find a valid peer process to connect to
+Cannot grab input on Secondary FT VM.
+Cannot move VM to a directory that is not empty.
+Cannot perform operation when virtual machine is offline.
+Cannot perform operation when virtual machine is online.
+Cannot read this file. Specify a different file or select a different option to continue.
+Cannot refresh while connecting.
+Cannot refresh while disconnected.
+Cannot refresh while disconnecting.
+Cannot stop sharing this virtual machine.
+
+Contact %s Technical Support for assistance.
+Cannot use multiple monitors; click for more info
+Capture Screen
+CentOS 6
+CentOS 6 64-bit
+CentOS 7 64-bit
+CentOS 8 64-bit
+CentOS 9 64-bit
+CentOS version 5 and earlier
+CentOS version 5 and earlier 64-bit
+Certificates in the host's certificate chain are not properly time-nested.
+Change Hardware Compatibility Wizard
+Change the hardware configuration of this virtual machine. Some hardware capabilities may be removed or altered.
+Changes are immediately and permanently written to disk.
+Changes to Apply
+Changes to proxy settings on the host system will not take effect until you restart %s.
+Changes to the amount of memory will not take effect until the virtual machine is powered off.
+Changes to this disk are discarded when you power off or restore a snapshot.
+Changing firmware might cause the installed guest operating system to become unbootable.
+Check that the device exists and that it is not being used by another program.
+Check that you have shut down your guest operating system before powering off.
+
+Are you sure you want to power off the virtual machine "%s"?
+Check that you have sufficient permissions to use the virtual CD/DVD drive in passthrough mode, or configure it to use emulated mode instead.
+Check the security of the referenced network files.
+Choose Image
+Choose VM location
+Choose the Virtual Machine Hardware Compatibility
+Choose this option to give the virtual machine direct access to a local hard disk.
+Choose this option to reuse a previously configured disk.
+Choose to either copy virtual machines to the local disk, or add them to the library from their current location.
+Click %s to connect the %s installer CD to the virtual machine.
+
+%s
+Click Finish to create the virtual machine and start installing %s and then VMware Tools.
+Click Finish to create the virtual machine and start installing %s.
+Click Finish to create the virtual machine. Then you can install %s.
+Click in the virtual screen to send keystrokes
+Client
+Client error
+Clip_board
+Clone (%%d) of %s
+Clone Destination
+Clone From
+Clone Source
+Clone Type
+Clone Virtual Machine Wizard
+Clone before Converting
+Clone of %s (%d)
+Clone of: 
+Clone the virtual machine
+Clone this virtual machine before altering the hardware configuration. The original virtual machine will remain unaltered.
+Cloning Virtual Machine
+Cloning the virtual machine will create a complete copy of the original VM at its current state.  The new VM is fully independent and requires additional disk space to store.
+Cloning virtual machine
+Close Behavior
+Close configuration file(s) at power off
+Closing virtual machine
+Co_mmit
+Co_nfirm:
+Co_nnect at power on
+Collapse this folder
+Combine _toolbar with menubar in windowed mode
+Combine ta_bs with toolbar in full screen
+Compac_t Disk...
+Compact disk to reclaim unused space.
+Compacting virtual disk...
+Compatible Products
+Completed
+Completed loading virtual machine information.
+Component no longer available
+Con_firm New Password:
+Configuration file: 
+Configuration:
+Configure Encryption
+Confir_m:
+Confirm _before closing a virtual machine
+Conflict
+Conn_ected
+Connect a host _virtual adapter (%s) to this network
+Connect a host _virtual adapter to this network
+Connect the guest operating system to a private virtual network on the host computer.
+Connect to Disk Image _File (flp)...
+Connect to Disk Image _File (iso)...
+Connect to Disk Image _File...
+Connect to VNC server - %s
+Connect to a
+Remote Server
+Connected
+Connecting to Remote Server
+Connecting to a file across sessions will work only for files in your Shared VMs directory.
+Connecting to update server...
+Connection
+Connection Proxy Settings
+Connection Proxy for Remote Virtual Machine
+Connection Settings
+Connection Status:
+Connection Time
+Connection failed
+Connection has been destroyed.
+Connection timed out.
+Connection to VMware Workstation Server was lost before VM sharing could be stoped.
+Connection to VMware Workstation Server was lost before the VM could be shared.
+Connection to the remote server has been lost.
+Connection with %s closed due to earlier error.
+Connections
+Consolidating disks
+Continue to import these referenced network files
+Continue using the other console.
+Convert the selected AutoProtect snapshot into a normal snapshot
+Converting Virtual Machine
+Cop_y
+Copy & Paste
+Copy to local disk options
+Copy to:
+Copying %s...
+Copying Disk...
+Copying...
+Copying: %d%%
+Corrupt file received from update server. Check your network connectivity and try again later. If the problem persists, contact VMware Support or your system administrator.
+Could not add or config this Camera.
+Could not connect to the update server. Check your Internet settings or contact your system administrator.
+Could not create destination directory: %s
+Could not create the ISO used to store Easy Install settings. If this error persists, you may need to reinstall %s.
+Could not create the virtual floppy image file for Easy Install. If this error persists, you may need to reinstall %s.
+Could not create the virtual floppy settings for Easy Install. If this error persists, you may need to reinstall %s.
+Could not detect which operating system is in this disc. You will need to specify which operating system will be installed.
+Could not detect which operating system is in this image. You will need to specify which operating system will be installed.
+Could not determine existence with the given paths.
+Could not fetch clone ticket
+Could not find '%s'. The Shared VM directory must be a valid directory.
+Could not find Shared VM path.
+Could not find a datastore named %s
+Could not find component on update server. Contact VMware Support or your system administrator.
+Could not find environment browser on remote host. This is most likely caused by an unresponsive host.
+Could not find local USB device "%s".
+Could not find product update on update server. Contact VMware Support or your system administrator.
+Could not initialize Easy Install. If this error persists, you may need to reinstall %s.
+Could not launch the virtual disk management tool.
+
+%s
+Could not launch the virtual disk mount configuration tool.
+
+%s
+Could not launch the virtual network editor.
+
+%s
+Could not load datastores. This may be caused by insufficient permissions.
+Could not locate the virtual machine object.
+Could not open the client device "%s". %s
+Could not open the client device. %s
+Could not prepare the install disc at %s. Make sure that you are using a valid Linux install disc. If this error persists, you may need to reinstall %s.
+Could not probe: failed to launch helper process
+Could not read EULA: failed to launch helper process
+Could not rename configuration file.
+Could not rename the virtual machine config file.
+Could not rename the virtual machine directory.
+Could not resolve host.
+Could not resolve proxy.
+Could not retrieve networks for host
+Could not start download: SSL thumbprint is unavailable
+Could not start download: failed to launch helper process
+Could not start export: failed to launch helper process
+Could not start import: failed to launch helper process
+Could not start upload: SSL thumbprint is unavailable
+Could not start upload: failed to launch helper process
+Crea_te...
+Create Floppy Image File
+Create Virtual Disk
+Create a %s virtual machine in a few easy steps.
+Create a _full clone
+Create a _linked clone
+Create a new _virtual disk
+Create a new folder
+Create a new virtual machine, which will then be added to the top of your library.
+Create a virtual machine with advanced options: change the SCSI controller and virtual disk type, specify compatibility with older VMware products, etc.
+Created on: 
+Creating Disk...
+Creating a linked clone from the current state will create a new snapshot.
+Creating a virtual machine on this host is not supported. The host's version may be too old.
+Ctrl + 
+Ctrl+G
+Current Size:
+Current _Password:
+Current hardware version not supported.
+Current virtual machine state
+Cursor
+Custom (%s)
+Custom Network cannot be empty.
+Custom: %s
+Customer Experience Improvement Program
+Customize the installation
+DHCP
+Daily
+Datacenter containing the VM to open
+Datastore
+Datastore Selection
+De_fragment Disk...
+De_vice:
+Debian
+Debian 64-bit
+Debian 64-bit Arm
+Defaul_t hardware compatibility:
+Default Location for Virtual Machines
+Defragment files and consolidate free space.
+Defragmenting virtual disk...
+Delete Recording and Childre_n
+Delete Recordings and Childre_n
+Delete Role
+Delete Snapshot and Childre_n
+Delete Snapshots and Childre_n
+Delete Snapshots/Recordings and Childre_n
+Delete the selected recording
+Delete the selected recordings
+Delete the selected snapshot
+Delete the selected snapshots
+Delete the selected snapshots and recordings
+Deployment Options
+Description:
+Desktop
+Destination Folder
+Destination Server
+Detail
+Dev_ice:
+Device
+Device "%s" disconnected.
+Device Status
+Device name:
+Device: %s
+Devices
+Devices are not supported.
+Directories
+Directory "%s" does not exist.
+Dis_connect
+Dis_connect (Connect to host)
+Disa_bled
+Disconnect and _Quit
+Disconnect from this server
+Disconnected
+Disconnected - %s
+Disconnected - Software update preference is set to not check for updates.
+Disconnected from remote VM.
+Disconnection failure: Cannot disconnect because there is no active connection.
+Disconnection successful.
+Disk
+Disk File
+Disk Information
+Disk Mode
+Disk Size
+Disk Utilities
+Disk defragmentation complete.
+Disk file %s was not found
+Disk space is not preallocated for this virtual disk.
+Disk space is preallocated for this virtual disk.
+Disks can't be expanded if they belong to virtual machines that have snapshots. To expand this disk, first remove the snapshots.
+Display
+Display Behaviors
+Display the program version
+Distri_buted virtual switch
+Distributed Virtual Switch
+Do you want %s to remember the login information for %s?
+Do you want to change the stored login information for %s?
+Do you want to delete the virtual machine "%s" from the disk?
+
+Deleting from disk is irreversible!
+Do you want to disconnect from "%s" and remove it? This will close its open tabs.
+Do you want to enable all hints?
+Do you want to ignore these problems and proceed anyway?
+Do you want to remove "%s"?
+Do you want to remove the team "%s" from the Library or delete it from disk?
+
+Deleting from disk is irreversible!
+Do you want to remove the virtual machine "%s" from the Library or delete it from disk?
+
+Deleting from disk is irreversible!
+Do you want to remove the virtual machine "%s" from the library or delete it from disk?
+
+Warning! Deleting a virtual machine from disk is irreversible.
+Don't _show this page again
+Download
+Download Virtual Machine
+Download _All Components Now
+Download a Virtual Appliance from the marketplace. You can then open it in %s.
+Download of %s pending...
+Download pending...
+Download the BusLogic Driver
+Downloading %s has been restricted by your system administrator. To enable downloads, contact your system administrator.
+Downloading %s...
+Downloading and installing VMware Tools is required to enable advanced features of your virtual machine.
+Downloading...
+Drag & Drop
+ESX 3.5 virtual machine
+ESXi 6.5 virtual machine
+ESXi 6.7 virtual machine
+ESXi 7.0 virtual machine
+ES_X Server Compatible
+E_xpand Disk...
+Each device can be connected either to the host or to one virtual machine at a time. Smart card readers can be connected to multiple virtual machines.
+Each device can only be connected to either the host or one virtual machine at a time.
+Easy Install Information
+Easy Install failed to automatically install VMware Tools. Log in to the guest operating system and click "Install VMware Tools" from the VM menu.
+Easy Install is installing %s. %s
+Easy Install is installing VMware Tools on %s.
+Easy Install is installing VMware Tools on the guest operating system.
+Easy Install is installing the guest operating system.
+Edit Roles
+Emulate a Smart Card insertion event
+Emulate a Smart Card removal event
+Enable _VBS (Virtualization Based Security) support
+Enable _drag and drop
+Enable all _shared folders by default
+Enable connection proxy for remote virtual machine
+Enable secure boot
+Enabled until _next power off or suspend
+Enabling VBS also enables UEFI, secure boot, Intel VT-x/EPT, and IOMMU.
+Encrypted virtual machines cannot be shared.
+Encrypting the virtual machine is not allowed while it is being exported.
+Encrypting virtual machine...
+Encryption Password
+Encryption is not supported for %s virtual machines.
+Encryption is unavailable because this virtual machine has linked clones.
+Encryption is unavailable because this virtual machine has recordings.
+Encryption is unavailable because this virtual machine is a legacy virtual machine.
+Encryption is unavailable because this virtual machine is a linked clone but its parent could not be found.
+Encryption is unavailable because this virtual machine is powered on.
+Encryption is unavailable because this virtual machine is read-only.
+Encryption is unavailable because this virtual machine is using physical disks.
+Encryption password cannot be empty
+Encryption password must have at least %d characters
+Encryption passwords do not match
+End User License Agreement
+Enter %s?
+
+
+Enter Full Screen mode
+Enter Password
+Enter _Full Screen
+Enter a new hotkey...
+Enter a proxy address before continuing.
+Enter a proxy port between %d and %d before continuing.
+Enter a snapshot name.
+Enter a user name and password for this server.
+Enter a valid Hostname, IPv4, or IPv6 address before continuing.
+Enter your license key to activate %s.
+Enter your proxy credentials in order for %s to check for updates and download components.
+Error connecting remote USB device: %s
+Error connecting remote device: %s
+Error converting path to UTF-8
+Error importing OVF: %s.
+Error loading networks: %s.
+Error loading permissions.
+Error loading roles
+Error loading screenshot: %s.
+Error loading users from server
+Error opening clone wizard: %s
+Error opening virtual machine "%s": %s.
+Error opening virtual machine %s: %s
+Error reading update manifest files (%s). Check your network connectivity and try again later. If the problem persists, contact VMware Support or your system administrator.
+Error removing virtual machine from vm: %s.
+Error saving roles: %s
+Error saving virtual machine description: %s.
+Error sending HTTP request.
+Error toggling removable device: %s
+Error updating %s. See details for more information.
+Error while attempting to repair "%s": %s
+Error while attempting to repair virtual machine: %s.
+Error while changing power state: %s
+Error while modifying device: %s.
+Error: %s
+Esc
+Escape
+Exclusive mode
+Existing %s files were found
+Existing Disk File
+Existing disk %s
+Exit Full Screen mode
+Exit _Full Screen
+Expand Disk Capacity
+Expand disk capacity.
+Expand increases only the size of a virtual disk. Sizes of partitions and file systems are not affected.
+Expand this folder
+Expanding virtual disk...
+Expectation Failed
+Export Virtual Machine to OVF
+Export failed: %s.
+External Connection
+Extracting %s...
+Extracting...
+F_ile name:
+Failed
+Failed to add the new disk. The disk controller is full. You must remove another device from the controller to be able to add this device.
+Failed to cancel the progress dialog: %s
+Failed to capture movie: %s.
+Failed to configure the virtual machine "%s" due to a power-on failure.
+Failed to connect to VNC server:
+Failed to connect to peer process
+Failed to connect to the remote host
+Failed to create %s
+Failed to create archive. Check to ensure that enough space is available for archive.
+Failed to create destination directory.
+Failed to create folder: %s
+Failed to create folder: %s.
+Failed to disconnect from the MKS: %s
+Failed to encrypt virtual machine.
+Failed to enter exclusive mode: %s.
+Failed to exit exclusive mode: %s.
+Failed to initialize SSL session to remote host.
+Failed to launch peer process
+Failed to load partitions for device %s: %s
+Failed to move VM to destination path. %s
+Failed to move encrypted VM to the trash.
+Failed to open temporary save file for download.
+Failed to parse XML at %s.
+Failed to reencrypt virtual machine. Please restart %s and try again later.
+Failed to register the VM
+Failed to remove encryption from virtual machine.
+Failed to remove the password for %s: %s
+Failed to reply to the dialog: %s
+Failed to retrieve host state.
+Failed to retrieve the client IP address
+Failed to retrieve the password for %s: %s
+Failed to start scan.
+Failed to store the password for %s: %s
+Failed to take the screenshot: %s.
+Failed to unlock the virtual machine. Please check your password and try again.
+Failed to write to download save file. Check to ensure that enough space is available to complete the download.
+Failure connecting removable device %s: %s.
+Failure disconnecting removable device %s: %s.
+Fatal Application Error: %s (%s).
+Fatal Application Error: reason unknown (type unknown).
+Favorites
+Feature Changes
+Features Gained
+Features Lost
+Feedback
+Fi_le:
+File %s is not a virtual disk
+File /dev/dsp does not exist on your system. Make sure your system has Open Sound System (OSS) support. You can try to install OSS Proxy Daemon (osspd package) or snd-pcm-oss kernel module.
+File Locations
+File System
+File not found
+File not found: %s
+
+%s
+File or directory already exists
+Files
+Finished
+Finished updating
+Finished updating %s.
+Finished: %s
+Firmware Type
+Firmware cannot be changed while TPM device exists.
+Firmware type
+Fit Gu_est Now
+Fit _all virtual machine memory into reserved host RAM
+Floppy
+Floppy %d
+Floppy Drive
+Floppy Images (*.flp, *.img)
+Folder Sharing
+Folders
+Forbidden
+Free
+Free Space
+FreeBSD 11
+FreeBSD 11 64-bit
+FreeBSD 12
+FreeBSD 12 64-bit
+FreeBSD 13
+FreeBSD 13 64-bit
+FreeBSD 13 64-bit Arm
+FreeBSD 14
+FreeBSD 14 64-bit
+FreeBSD 14 64-bit Arm
+FreeBSD 15
+FreeBSD 15 64-bit
+FreeBSD 15 64-bit Arm
+FreeBSD 16 64-bit
+FreeBSD 16 64-bit Arm
+FreeBSD version 10 and earlier
+FreeBSD version 10 and earlier 64-bit
+Fro_m: 
+From what do you want to clone this virtual machine?
+Full
+Full Screen
+Full screen display mode must be "Autofit guest."
+Fusion 1.1 virtual machine
+Fusion 10.x virtual machine
+Fusion 11.x virtual machine
+Fusion 12.2.x virtual machine
+Fusion 12.x virtual machine
+Fusion 13.5-13.6.x virtual machine
+Fusion 13.x virtual machine
+Fusion 2.x-3.x virtual machine
+Fusion 25H2 or later virtual machine
+Fusion 4.x virtual machine
+Fusion 5.x virtual machine
+Fusion 6.x virtual machine
+Fusion 7.x virtual machine
+Fusion 8.x virtual machine
+GHz
+GIF Files (*.gif)
+Gateway IP:
+Gateway Timeout
+Gathe_r debugging information:
+Gather verbose _USB debugging information
+Generic SCSI
+Generic SCSI (SCSI %d:%d)
+Generic SCSI Device
+Get advanced features such as snapshots, virtual network management, and more.
+Give the guest operating system access to the host computer's Wi-Fi or Ethernet network connection using the host's IP address.
+Give the guest operating system direct access to an external Ethernet network. The guest must have its own IP address on the external network.
+Global LAN Segments
+Go to _Home Tab
+Go to the LSI Logic Web site and search for the LSI20320-R SCSI controller
+Go to the LSI Logic Web site and search for the LSISAS1068 SCSI controller
+Go up a level
+Gone
+Grab keyboa_rd and mouse input on key press
+Grab keyboard and mouse input on mou_se click
+Graphics Memory
+Group
+Growing this disk to a size larger than %u GB requires first converting it to a split disk. This operation may require a significant amount of time. Are you sure you wish to continue?
+Guest Isolation
+Guest OS recommended minimum
+Guest Operating System
+Guest Operating System Installation
+Guest Port
+Guest may appear with borders or scrollbars.
+HTTP Error when connecting to server: %u
+HTTP Error: Possibly a bad ticket or URL.
+HTTP Version Not Supported
+HTTP exchange canceled.
+H_elp
+H_ost:
+H_ostname:
+Half-Hourly
+Har_dware
+Hard Disk
+Hard Disk %d (%s)
+Hard Disk (%s)
+Hard Disk Advanced Settings
+Hard Disk:
+Hardware Type
+Hardware acceleration
+Hardware compa_tibility:
+Hardware compatibility: 
+Helper process %s failed with status %d
+Hi_nts
+Hide _Downloads
+High (best quality for short captures)
+Hint
+Host
+Host "%s" does not have an SSL certificate or thumbprint. Refusing connection.
+Host Connection
+Host Name:
+Host OS version:
+Host Path
+Host Port
+Host Selection
+Host _Path
+Host _RAM for all virtual machines:
+Host configuration manager loaded, but does not have the networkSystem property. It is likely this is a broken or misconfigured host.
+
+Host is disconnected or not powered on.
+Host name:
+Host not set.
+Host state is invalid.
+Host-_only
+Host-_only (connect VMs internally in a private network)
+Host-onl_y: A private network shared with the host
+Host-only
+Host:
+Hot Key Combination
+Hot Keys
+Hot keys provide a shortcut to commonly-used virtual machine operations. Click the keyboard keys below to modify your hot keys.
+Hourly
+How do you want to clone this virtual machine?
+How large do you want this disk to be?
+How much host RAM should the system be able to reserve for all running virtual machines?
+How much memory would you like to use for this virtual machine?
+How should the system allocate memory for virtual machines?
+How would you like to encrypt this virtual machine?
+Hyper-V
+Hz
+I _accept the terms in the license agreement.
+I _do not accept the terms in the license agreement
+I accept the terms of the license agreement.
+I will in_stall the operating system later.
+I/O Controller Types
+I/O Mode
+IDE
+IDE Controller %d
+IDE devices are not supported on Arm virtual machines.
+IDE devices are not supported on OS X virtual machines.
+IDE disks are not supported on %s compatible virtual machines.
+IDE disks cannot be added while the VM is powered on.
+IPv_6 Prefix:
+ISDN 1b (64 Kbps)
+ISDN 2b (128 Kbps)
+ISO Images (*.iso)
+ISO image file
+I_DE:
+Idle Time
+If a new version of %s is available:
+If the Windows installer does not automatically recognize the driver, press F6 after the virtual machine powers on to allow you to manually select the correct driver.
+If you choose to share this VM you will gain some features but lose others:
+If you do not download %s, installation will not be able to continue.
+If you do not download VMware Tools, Easy Install will not fully complete.
+If you do not download VMware Tools, your virtual machine might not be updated with the latest version.
+If you do not download the latest version of %s, the existing version will be installed.
+If you do not download the latest version of VMware Tools, Easy Install will continue with the existing version you have.
+If you do not see %s installing, run "setup.exe" from the virtual CD-ROM drive in the guest.
+If you do not see VMware Tools installing, click Start > Run in your virtual machine and enter D:\setup.exe (where D: is your virtual CD-ROM drive).
+If you do not see VMware Tools installing, click the Windows icon and enter D:\setup.exe in the Search box (where D: is your virtual CD-ROM drive).
+If you do not see VMware Tools installing, press the Windows logo key + R. Then, enter D:\setup.exe (where D: is your virtual CD-ROM drive).
+Import Virtual Machine
+In Progress
+In order for this virtual machine to be accessible using %s, the following users will be given read-only access to its host: %s.
+In order for this virtual machine to be accessible using %s, you must ensure that the following users or groups have at least read-only access to its host: %s.
+In the virtual machine, open the "Install %s" application on the "%s" disc.
+Incoming Traffic
+Incorrect password.
+Independent disks are not affected by snapshots.
+Independent virtual disks in non-persistent mode cannot be compacted. Go to VM Settings > Hard Disk > Advanced to change the mode of this virtual disk.
+Independent-nonpersistent
+Independent-persistent
+Infinite loop detected on server
+Information
+Inherited From
+Initiated By
+Input
+Insert _Smart Card
+Insert the guest operating system installer disc into the CD drive (%s) or select a different option to continue.
+Insert the installer disc into this drive to continue.
+Install %s as you would on a physical computer. When you are done and the operating system boots up, click "I Finished Installing".
+Install of %s failed. Contact VMware Support or your system administrator.
+Install operating system from:
+Install the Guest Operating System
+Install the guest operating system as you would on a physical computer. When you are done and the operating system boots up, click "I Finished Installing".
+Installer _disc across sessions:
+Installer _disc for this session:
+Installer _disc:
+Installer disc im_age file (ISO):
+Installing open-vm-tools for Ubuntu 14.04 and higher requires an Internet connection.
+Insufficient permission to share this virtual machine.
+Insufficient permissions to list datastores.
+Intel "Broadwell" Generation
+Intel "Haswell" Generation
+Intel "Ivy Bridge" Generation
+Intel "Merom" Generation
+Intel "Nehalem" Generation
+Intel "Penryn" Generation
+Intel "Sandy Bridge" Generation
+Intel "Skylake" Generation
+Intel "Westmere" Generation
+Internal Error: Out of Memory
+Internal Error: This team cannot find the correct virtual machine.
+Internal Error: This team cannot find the virtual machine.
+Internal Error: This virtual machine has a locked handle.
+Internal Error: This virtual machine has an invalid configuration.
+Internal Error: This virtual machine has an invalid handle.
+Internal Error: This virtual machine is locked.
+Internal Server Error
+Internal error
+Internal error (no client).
+Contact VMware Support or your system administrator.
+Invalid Security Certificate
+Invalid character in the disk file name. The characters %s cannot be used
+Invalid device %s: %s
+Invalid file received from the update server (%s). Check your network connectivity and try again later. If the problem persists, contact VMware Support or your system administrator.
+Invalid path
+Invalid resolution: %s
+Invalid response from server
+Invalid response from server.
+Invalid virtual machine name.
+Invalid virtual machine path.
+Inventory Folder
+JPEG Files (*.jpg, *.jpeg)
+J_oin the VMware Customer Experience Improvement Program
+Just power off
+KHz
+Kbp_s
+Keep the hierarchy of folder in library
+Keep the hierarchy of folder in target location
+Keyboard and Mouse
+LAN Segment
+LAN Segment %%d
+LSI Logic SAS controllers are not supported on %s virtual machines.
+LSI Logic SCSI controllers are not supported on %s virtual machines.
+LSI Logic _SAS
+LSI Logic _SAS (Recommended)
+La_tency (ms):
+Last requested power-on: 
+Lat_ency (ms):
+Launching the daemon failed: Unable to find %s
+Leased Line (192 Kbps)
+Leased Line T1 (1.544 Mbps)
+Leased Line T3 (45 Mbps)
+Leave blank to automatically select an unused subnet IP.
+Legacy (HW%d)
+Legacy Virtual Machines (*.cfg)
+Legacy virtual machine (HW%d)
+Length Required
+Library
+Limitations
+Linux
+Linux 2.4.x
+Linux 2.4.x 64-bit
+Linux 2.6.x
+Linux 2.6.x 64-bit
+Linux 3.x
+Linux 3.x 64-bit
+Linux 4.x
+Linux 4.x 64-bit
+Linux 5.x
+Linux 5.x 64-bit
+Linux 5.x 64-bit Arm
+Linux 6.x
+Linux 6.x 64-bit
+Linux 6.x 64-bit Arm
+Linux 7.x and later
+Linux 7.x and later 64-bit
+Linux 7.x and later 64-bit Arm
+Linux Mint 64-bit
+Loading datastores...
+Loading host...
+Loading hosts...
+Loading the available hosts...
+Loading the host configuration manager failed.
+Loading virtual machine configuration information
+Loading...
+Local (Across Sessions)
+Local (Single Session)
+Local Client
+Local installer _disc:
+Local installer disc im_age file (ISO):
+Locate missing file: %s
+Location
+Location:
+Log on _automatically (requires a password)
+Log:
+Low (better for e-mailing)
+MB
+MHz
+MKS ticket acquisition was disallowed at the time of scheduled invocation
+MS-DOS
+MTU
+MTU <span foreground="red">*</span>:
+MTU value must be between %d and %d
+M_emory for this virtual machine:
+Mac OS X 10.7
+Mac OS X 10.7 32-bit
+Mac OS X Server 10.5
+Mac OS X Server 10.5 32-bit
+Mac OS X Server 10.6
+Mac OS X Server 10.6 32-bit
+MacFUSE
+Make sure that you are logged in to the guest operating system.
+Manage Permissions For %s
+Manage VM power actions
+Manually specifying the number and size of monitors might prevent Full Screen mode from working correctly.
+Map Incoming Port
+Maximum Size:
+Maximum disk _size (GB):
+Maximum disk _size (in GB):
+Maximum limit reached
+Maximum recommended memory
+<small>(Memory swapping may occur beyond this size)</small>
+McAfee AntiVirus Plus
+Medium (higher quality for longer captures)
+Memory Usage:
+Memory cannot be decreased until the virtual machine is powered off.
+Memory for the Virtual Machine
+Menu and Toolbar
+Message Log
+Message _Log
+Message log: %d unread messages
+Message log: 1 unread message
+Message log: no messages
+Message log: no unread messages
+Metadata
+Method Not Allowed
+Microsoft Windows
+Mode
+Mode:
+Modem (28.8 Kbps)
+Modem (56 Kbps)
+Modifying permissions for the current user is not allowed.
+Monitor device
+Monitors
+Monolithic
+Mount the virtual CD drive in the guest, launch a Terminal, and use tar to uncompress the installer. Then, execute vmware-install.pl to install VMware Tools.
+Mount the virtual CD drive in the guest, uncompress the installer, and then execute vmware-install.pl to install %s.
+Mount the virtual disk on the host.
+Movie Capture LED
+Moving the virtual machine will relocate all files associated with the VM into the Shared Virtual Machine directory.
+Moving virtual machine
+Multiple monitor support is only available for virtual machines with up-to-date hardware versions. Upgrade your virtual machine if you want to use multiple monitors.
+My Computer
+NAT
+NAT Settings
+NA_T Settings...
+NA_T: Used to share the host's IP address
+NVMe
+NVMe Controller %d
+NVMe devices are not supported on %s virtual machines.
+NVMe disks are not supported by %s.
+NVMe disks cannot be added while the VM is powered on.
+N_VMe
+N_VMe:
+N_ame:
+N_amed Network
+N_umber of cores per processor:
+Na_med network
+Na_med network (%s)
+Name the Clone
+Name the Virtual Machine
+Name:
+Named Network (%s)
+Network %s already exists. Choose an unused network.
+Network '%s' doesn't match any available item in the list. Please select a valid network from the list.
+Network Adapter
+Network Adapter %d
+Network Adapter Advanced Settings
+Network Adapter:
+Network Connection
+Network Type
+Network information is not available
+Network na_me:
+Network:
+Never show this _hint again
+New CD/DVD (%s)
+New Fol_der
+New Hard Disk (%s)
+New Role
+New Role (%d)
+New Server Connection
+New Virtual Machine Wizard
+New _password:
+New virtual machine version: %s
+
+No 3D graphics acceleration
+No 64-bit guests
+No CPU hot plug
+No DirectX 10 support
+No DirectX 10.1 support
+No DirectX 11 support
+No HD Audio
+No IDE disks
+No IOMMU support
+No LSI Logic SAS SCSI controller
+No NVMe devices
+No Response
+No SATA devices
+No Trusted Platform Module
+No UEFI secure boot support
+No UEFI support
+No USB 2.0
+No VBS support
+No VMCI support
+No active host on this datacenter, we cannot create new virtual machines on this datacenter.
+No administrative privileges were provided to complete the software update.
+No battery status
+No clone support
+No datastores found
+No destination location specified.
+No destination path specified
+No device hot plug
+No expiration
+No guest OS table was found for hardware version %d
+No help is available for this page.
+No info found for guest family: 
+No info found for guest family: '%s'
+No info found for guest operating system key: '%s'
+No info found for guest operating system name: '%s'
+No memory hot plug
+No multiple monitor display
+No networks found on server. If you would still like to upload this virtual machine, remove all of its network adapter devices and attempt the upload again.
+No open virtual machines
+No pending updates.
+No permission to perform this operation
+No printer support
+No recent tasks
+No snapshots
+No ticket was returned
+No users found
+No virtual camera support
+No virtual machine tab selected
+No virtual machines running
+No virtual machines were found in the team.
+None
+Nonpersistent
+Not Acceptable
+Not Found
+Not Implemented
+Not connected to %s.
+Not connected to the Workstation Server Component.
+Not connected to the update server. See details for more information.
+Not enough memory
+Not supported for Arm VMs
+Not supported for OS X VMs
+Not supported on %s VMs
+Not supported on %s compatible VMs
+Notes
+Novell NetWare
+Novell Netware 4
+Novell Netware 5
+Novell Netware 6
+Number of proc_essors:
+OS X 10.10
+OS X 10.11
+OS X 10.8
+OS X 10.9
+OS/2
+OS:
+Obtain a license key online at our website.
+On Another Console
+One %g GB disk file will be created using this file name.
+One of the certificates has an invalid extension.
+One or more of the virtual machine's disks are mounted on the host. To share the virtual machine, unmount the disks.
+One or more of your virtual machine's network adapters have changed since the upload process began
+Open Existing Virtual Disk
+Open VM Tabs
+Open VM _directory
+Open Virtual Machine
+Open Virtual Machines
+Open Virtualization Format VMs (*.ovf, *.ova)
+Open a Virtual Machine
+Open an existing virtual machine, which will then be added to the top of your library.
+Open configuration file(s) in a new tab
+Open the selected nodes.
+Open this virtual machine in Workstation for more information.
+Operating System:
+Operation aborted
+Operation canceled
+Options Description
+Oracle Linux 10 64-bit
+Oracle Linux 11 64-bit
+Oracle Linux 11 64-bit Arm
+Oracle Linux 6
+Oracle Linux 6 64-bit
+Oracle Linux 7 64-bit
+Oracle Linux 8 64-bit
+Oracle Linux 9 64-bit
+Oracle Linux version 5 and earlier
+Oracle Linux version 5 and earlier 64-bit
+Oracle Solaris 11 64-bit
+Other
+Other Devices:
+Other VMware vCloud Director Server
+Other VMware vSphere Server
+Other error: %zu.
+Other users are currently connected to the virtual machine "%s" using VNC. The VNC sessions for these users will be closed if you choose to power off or suspend this virtual machine.
+Outgoing Traffic
+Output Files (*.txt)
+Output version information and exit
+PNG Files (*.png)
+P_ower
+Packet _Loss (%):
+Parallel Port
+Parallel Port %d
+Paravirtualized SCSI controllers are not supported on %s virtual machines by Easy Install.
+Pardus 64-bit
+Partition
+Partition %d
+Partitions
+Paschal Ovum
+Password used to authenticate to the remote host
+Password:
+Paste Failed
+Path
+Path "%s" was not found
+Path:
+Pause notification
+Payment Required
+Persistent
+Personalize Linux
+Personalize Windows
+Physical disk %s
+Physical disk %s, No partitions selected
+Physical disk %s: %s
+Physical disks cannot be used with encrypted virtual machines.
+Player Preferences
+Player _Preferences
+Player is currently closing. The virtual machine can be powered off if it is not responding. This is equivalent to suddenly unplugging the power cord of a physical computer. Do you want to power it off now?
+Please check the user manual for help on fixing these issues.
+Please enter your user name and password for the server %s.
+Please review the following license agreement to continue
+Please see VMware Player Help for more information.
+Please see VMware Remote Console Help for more information.
+Po_wer Off Guest
+Po_wer Off Guest and Quit
+Por_t:
+Port Type
+Port _Forwarding
+Port: %u
+Pow_er On
+Power
+Power Controls
+Power Off and _Quit
+Power Options
+Power _Off
+Power off this virtual machine
+Power on and go to full screen mode
+Power on this virtual machine
+Power on when configuration file(s) are opened
+Power operation is not available.
+Powering Off...
+Powering On...
+Powering on the virtual machine may fail because the number of cores per socket is invalid.
+Powering on the virtual machine will fail because it is configured to use more virtual processor cores than the host supports.
+Powering on the virtual machine will fail because the number of cores is invalid.
+Pre-allocated
+Preallocated
+Precondition Failed
+Preparing clone operation
+Press %s to release the mouse cursor
+Primary IP address: 
+Printer
+Priority
+ProLinux 64-bit
+Processor Configuration
+Processors
+Product expiration:
+Product not found
+Progress
+Properties
+Provide a name and local storage path for the new virtual machine.
+Proxy Authorization Required
+Proxy Credentials
+Proxy Credentials (optional)
+Proxy Server:
+Proxy Settings
+Proxy Settings For Remote Virtual Machine Connection
+Proxy:
+Purchase a license key online at the VMware Store.
+Purchase or obtain an evaluation license key online at the VMware Store.
+Question
+Questions
+Queued MKS ticket acquisition timed out after %ld ms
+RAM:
+R_emember opened tabs between sessions
+Re_assign affected permissions to:
+Rea_d-only
+Read-on_ly
+Reading disc...
+Reading image...
+Ready to Create Virtual Machine
+Receive the latest information and announcements about %s products and services, and the opportunity to receive 30 days of complimentary Web-based support.
+Recently Used Virtual Machines
+Recommended memory
+Recommended size for %s: %s
+Reconfiguring virtual disk...
+Reconfiguring virtual hardware
+Recording created: %s
+Red Hat Enterprise Linux
+Red Hat Enterprise Linux 10 64-bit
+Red Hat Enterprise Linux 10 64-bit Arm
+Red Hat Enterprise Linux 11 64-bit
+Red Hat Enterprise Linux 11 64-bit Arm
+Red Hat Enterprise Linux 64-bit
+Red Hat Enterprise Linux 9 64-bit
+Red Hat Enterprise Linux 9 64-bit Arm
+Reencrypting virtual machine...
+Referenced Network Files
+Registering virtual machine
+Registering will provide you with the latest information and announcements about %s products and services.
+Remote Console Preferences
+Remote Console _Preferences
+Remote Server
+Remote USB device error: %s
+Remote VM Access
+Remote device error: %s
+Remote host containing VMs you wish to access
+Remote installer _disc:
+Remote installer disc im_age file (ISO):
+Remote server: 
+Removable _Devices
+Removable device with key '%s' was not found.
+Removal of encryption is not allowed while the virtual machine is being exported.
+Removal of encryption is unavailable because this virtual machine has linked clones.
+Removal of encryption is unavailable because this virtual machine is a linked clone but its parent could not be found.
+Removal of encryption is unavailable because this virtual machine is powered on.
+Removal of encryption is unavailable because this virtual machine is read-only.
+Remove "%s" from the library?
+Remove "%s" from the library?
+
+This will not delete virtual machines from disk.
+Remove Non-existent Virtual Machines
+Remove _Non-existent Virtual Machines
+Remove _Smart Card
+Remove this item
+Removing TPM will render all encrypted data on this VM unrecoverable.
+Removing encryption from virtual machine...
+Ren_ame...
+Rename this item
+Replicate physical net_work connection state
+Report _battery information to guest
+Request Entity Too Large
+Request Range Not Satisfiable
+Request Timeout
+Request Too Long
+Request a Product _Feature
+Requires VMware Tools to be installed.
+Res_ume
+Rese_t
+Reserved
+Reserved (SCSI Controller)
+Reserved Memory
+Reset this virtual machine
+Resetting...
+Resize the virtual machine and the window
+Restar_t Guest
+Restart Guest
+Restart this guest operating system
+Restricted
+Restricted virtual machines are not supported.
+Restricting the available CPU features helps allow snapshots or suspended instances of this VM to be resumed on other hosts.
+Result
+Resume Gu_est
+Resume this guest operating system
+Resume this virtual machine
+Resuming Guest...
+Resuming...
+Revert to snapshot
+Review Changes
+Rocky Linux 64-bit
+Rocky Linux 64-bit Arm
+Role
+Role updates already in progress.
+SATA
+SATA Controller %d
+SATA devices are not supported on %s virtual machines.
+SCO Open Server 5/6
+SCO Unixware 7
+SCSI
+SCSI Controller %d
+SCSI controller:
+SCS_I:
+S_ATA
+S_ATA:
+Save Captured Movie
+Save Parallel Port Output File
+Save Serial Port Output File
+Save captured screen as:
+Save screenshots to:
+Save to %s
+Save to desktop
+Scan for Virtual Machines
+Scan for Virtual Machines Wizard
+Search virtual machine names, notes, and guest operating system types
+Seconds between _powering on multiple VMs:
+Secure Boot
+Security error connecting to server.
+See Tools Installation Guide for installation instructions.
+See the <a href="%s">Guest Operating System Installation Guide</a> for details.
+See the <a href="%s">VMware Tools Installation Guide</a> for details.
+See the product documentation for %s installation instructions.
+Select Driver Folder
+Select I/O Controller Types
+Select Library Node
+Select Physical Disk Partitions
+Select Transfer Type
+Select _All
+Select a Datastore
+Select a Destination Location
+Select a Destination Server
+Select a Disk
+Select a Disk Type
+Select a Guest Operating System
+Select a Host
+Select a Physical Disk
+Select a datacenter or folder
+Select a host
+Select a host to upload %s.
+Select a location to scan:
+Select a privilege to view its description.
+Select an Existing Disk
+Select deployment options.
+Select how to transfer the virtual machine to the Shared Virtual Machines directory.
+Select the installer disc image to continue.
+Select the location of the standard VM
+Select the remote server that you want to connect to. The server can be running VMware ESX or VMware vCenter Server.
+Select the virtual machines
+Select the virtual machines that you want to import.
+Select virtual machines
+Select virtual machines that you want to add into the library.
+Selection:
+Send _Ctrl+Alt+Del
+Serial Port
+Serial Port %d
+Server Credentials
+Server didn't provide a list of instances.
+Server didn't provide an authorization key.
+Server didn't provide an orgList.
+Server doesn't support VCloud API 1.5.
+Server error
+Server returned %s (%d)
+Server returned unexpected object of type %s at %s.
+Server:
+Service Unavailable
+Set Password
+Setting
+Sh_ow tray icon:
+Share Virtual Machine Wizard
+Shared Folder Properties - %s
+Shared Folders
+Shared VM Location
+Shared folders are disabled
+Shared folders expose your files to programs in the virtual machine. This may put your computer and your data at risk. Only enable shared folders if you trust the virtual machine with your data.
+Sharing Virtual Machine
+Shift + 
+Sho_w all USB input devices
+Show Auto_Protect Snapshots
+Show Auto_Protect Snapshots (%d hidden)
+Show Help
+Show the VM files in folder
+Show this device icon in your status bar
+Show toolbar edge when unpinned in _full screen
+Show/Hide Toolbar
+Show/hide toolbar
+Shows the progress and result of the operation.
+Shut D_own Guest
+Shut Do_wn Guest
+Shut _Down All Virtual Machines
+Shut down this guest operating system
+Shutting Down Guest...
+Single MKS
+Snapshot 
+Snapshot Details
+Snapshot Manager
+Snapshot Manager (Read-only as vmrest is operating the VM)
+Snapshot Manager Actions
+Snapshot created: %s
+Snapshot not found. The selected snapshot may have been deleted by another user.
+Snapshot: 
+Snapshots
+Snapshots 
+Snapshots (*.vmsn)
+Snapshots are not supported for %s virtual machines.
+Snapshots cannot be taken of Workstation 4.x or older virtual machines.
+Snapshots cannot be taken of virtual machines that are read-only.
+Snapshots cannot be taken of virtual machines with independent disks while they are running or suspended.
+Snapshots cannot be used because this virtual machine is using a physical disk.
+Snapshots cannot be used with virtual machines that have raw disks.
+Snapshots taken every %.1f %s: %d
+Snapshots taken every %d %s: %d
+Snapshots taken every day: %d
+Snapshots taken every half hour: %d
+Snapshots taken every hour: %d
+Snapshots taken every minute: %d
+Snapshots taken every month: %d
+Snapshots taken every second: %d
+Snapshots taken every week: %d
+Snapshotting virtual machine
+Software Updates
+Software Updates: %s
+Software update internal client error (%s). Contact VMware Support or your system administrator.
+Solaris
+Some guest operating systems may have difficulty using a boot disk larger than %s. Would you like to continue?
+Some modes will cause the virtual machine failed to power on.
+Some virtual machines are still powered on.
+
+You can continue to run these virtual machines in the background or power them off now.
+Some virtual machines are still powered on.
+
+You can continue to run these virtual machines in the background, suspend them for later use, or power them off now.
+Sound Card
+Sound adapter is not supported on %s virtual machines.
+Sound is not supported over remote connections.
+Sp_ecify settings for monitors:
+Special device drivers and utilities can help a virtual machine work more seamlessly with the host computer. To install them:
+Specify Disk Capacity
+Specify Disk File
+Specify a window geometry
+Specify the amount of memory allocated to this virtual machine. The memory size must be a multiple of 4 MB.
+Specify the maximum size for the virtual disk
+Specify the number of processors for this virtual machine.
+Split
+Split virtual disk into _multiple files
+Splitting the disk makes it easier to move the virtual machine to another computer but may reduce performance with very large disks.
+Start Time
+Start U_p Guest
+Start Up Gu_est
+Start Up Guest
+Start in fullscreen mode
+Start up this guest operating system
+Starting Up Guest...
+Starting download: %s
+State:
+State: 
+Statistics
+Step 1: Buy %s
+Step 1: Get %s
+Step 1: Get License Key
+Step 2: Enter license key
+Step 3: Register your version of %s
+Stop Processing
+Stop Search
+Stop Sharing Virtual Machine Wizard
+Storage path for the selected virtual machines
+Store the New Virtual Machine
+Store virtual disk as a sing_le file
+Stretch the virtual machine in the window
+Stretches the guest screen to fill the host display.
+Subnet IP Address
+Subnet IP:
+Subnet _IP:
+Subnet mask:
+Success
+Sun Solaris 10
+Sun Solaris 10 64-bit
+Sun Solaris 6/7
+Sun Solaris 8
+Sun Solaris 9
+Support Information
+Suspen_d
+Suspen_d Guest
+Suspend and _Quit
+Suspend and snapshot files will be stored here.
+Suspend this guest operating system
+Suspend this virtual machine
+Suspending Guest...
+Suspending...
+Swapping virtual memory allows more virtual machines to be run but can degrade system performance if the virtual machines use their memory intensively.
+Switch to list view
+Switch to the home tab
+Switch to the next powered on virtual machine
+Switch to the previous powered on virtual machine
+Switch to the virtual machine's summary view
+Switch to thumbnail view
+Synchronize guest _time with host
+System
+System Free:
+THz
+Ta_ke a new snapshot
+Take Snapshot - %s
+Take a new snapshot
+Take a snapshot of this virtual machine at its current state
+Taking ownership of this virtual machine failed.
+A serious error occurred: %s.
+Configuration file: %s.
+Taking ownership of this virtual machine failed.
+The virtual machine is in use by an application on your host computer.
+Configuration file: %s.
+Target
+Target Virtual Machine
+Team file not found: %s
+Teams (*.vmtm)
+Template mode cannot be turned on because this virtual machine is using a physical disk.
+Template virtual machines are not supported.
+Thank you for beta testing %s!
+Thank you for evaluating %s!
+Thank you for installing %s!
+The IPC connection timed out
+The IPv6 prefix does not have a valid subnet.  See help for more information about this field.
+The IPv6 prefix is invalid.  See help for more information about this field.
+The IPv6 prefix is not a valid IPv6 address.  See help for more information about this field.
+The IPv6 prefix must not be an IPv4 address.  See help for more information about this field.
+The MAC address cannot start with 00:50:56:C0.
+The MAC address is already in use for this virtual machine.
+The MAC address is invalid.
+The MAC address should be between 00:50:56:00:00:00 and 00:50:56:3F:FF:FF.
+The MAC address should be in the format 00:50:56:AB:CD:EF.
+The Perl-based installer for VMware Tools for FreeBSD has been discontinued. FreeBSD systems are supported only through the open-vm-tools packages directly available from FreeBSD package repositories.
+The SSL thumbprint provided could not be matched for host %s.
+The SSL thumbprint provided was not in a standard format.
+The Shared VM directory is reserved for virtual machines that are being made available to remote users.  If you wish to stop sharing this VM it needs to be relocated.
+The Shared Virtual Machines directory is not configured. Set the directory for shared VMs in Edit > Preferences > Shared VMs.
+The VM is ready to be shared.
+The VM name cannot start or end with spaces.
+The VMware Tools installation image for this guest operating system does not have a valid signature and may be corrupt. Please download VMware Tools again or reinstall the product.
+The VMware Tools installation image for this guest operating system is not accessible. If you are currently downloading VMware Tools, please wait for the download to finish.
+The VMware Workstation Server is not available.
+The VNC protocol does not provide for the confidentiality or integrity of a remote session, and should not be used over untrusted links. Recommended use is only over a trusted network such as a VPN, or SSH tunnel.
+
+Do you want to continue?
+The Virtual Machine you are trying to modify is read-only and cannot be altered in place.
+The account you set for Autologin must not be a domain account. You must type the user name of a local account in the virtual machine.
+The adjusted memory value must be a multiple of %u MB for this guest operating system while it is running.
+
+The nearest allowed values are %u and %u MB.
+The administrator or creator of this virtual machine must make changes to its configuration.
+The bus is full. No more devices can be added.
+The c_urrent state in the virtual machine
+The certificate does not have a valid signature.
+The certificate does not support a critical extension.
+The certificate has an incorrect version number.
+The certificate has an unknown revocation status.
+The certificate is based on an untrusted root.
+The certificate is explicitly not trusted.
+The certificate is not properly time-nested.
+The certificate is not time-valid.
+The certificate is not valid for its proposed usage.
+The certificate is part of a cycle in its chain of trust.
+The certificate or one of the certificates in the certificate chain is either missing a required basic constraints extension, or one is present and either the certificate cannot be used to issue other certificates, or the chain path length has been exceeded.
+The certificate uses an unsafe digest algorithm.
+The chosen name and location would result in file paths that are longer than allowed for your system. Please shorten the name and/or location
+The connection to %s was unexpectedly lost.
+The connection to VMware Workstation Server was lost while trying to share the VM.
+The connection to VMware Workstation Server was lost while trying to stop sharing the VM.
+The connection to the %s Server was unexpectedly lost.
+The connection to the server has been lost.
+The connection to the update server timed out. Try again later. If the problem persists, contact VMware Support or your system administrator.
+The connection to the update server was lost. Try again later. If the problem persists, contact VMware Support or your system administrator.
+The current amount of free space on the hard disk (%0.1f GB) is not enough to create the specified disk file. Please choose a different location or specify a smaller disk size.
+The current arrangement of monitors is not supported.
+The current host window manager does not support multiple monitors.
+The current multi-core CPU configuration cannot be used unless the virtual hardware is upgraded. To upgrade the virtual hardware, select VM > Manage > Change Hardware Compatibility.
+The database could not be found on the update server (HTTP 404). Check your configuration file or contact your system administrator.
+The datastore %s could not be found
+The default location can be changed at Edit > Preferences.
+The destination directory is not writeable.
+The destination path %s is invalid.
+The device "%s" disconnected: %s
+The device "%s" is not configured to support connections to client device backings.
+The device node you selected is in use by %s.
+The device with key "%s" can not be found.
+The device with key "%s" is already connected.
+The directory "%s" contains multiple Virtual Machine or Team configuration files.
+
+Please specify the configpration file you wish to open.
+The directory "%s" does not contain a Virtual Machine or Team configuration file.
+The directory name "%s" is not a valid path.
+The directory name "%s" is too long, and would result in an invalid file path for your system. Please shorten the directory name
+The disk mode cannot be changed because the virtual machine has snapshots.
+The disk was sucessfully expanded. You now need to repartition the disk and expand the filesystems from within the guest operating system.
+The download failed because the file is no longer available.
+The download has been paused due to a network failure.
+The download was aborted.
+The driver location you entered is invalid. Make sure that you have entered the location of a directory that you have permission to read from.
+The effective latency range is 0 - 2000ms. Simulation for less than 10ms is not accurate.
+The existing disk file is for a physical disk. Please select "Use a Physical Disk" to reuse an existing physical disk.
+The extraction is paused due to an empty destination directory
+The file at "%s" is not a valid team file.
+The file location is malformed. Provide the location of an accessible image file or select a different option to continue.
+The first byte of the MAC address cannot be odd.
+The following devices can be connected to this virtual machine using the status bar or choosing VM > Removable Devices:
+The following devices can be connected to this virtual machine using the status bar or choosing the 'Devices' menu:
+The following software is available for download:
+The guest OS does not support Autologin.
+
+To enable Autologin, you must be running Windows 2000 or later.
+The guest operating system is not installed on this virtual machine. Insert the installer disc and click "Restart VM".
+The host certificate chain is not complete.
+The host computer for this virtual machine is in maintenance mode.
+The host computer for this virtual machine is not connected to the vCenter Server.
+The host is shutting down/restarting, try later.
+The host name used for the connection does not match the subject name on the host certificate.
+The host's certificate is self-signed.
+The host's monitor layout has changed since the virtual machine was powered on.  You must power the virtual machine off and back on to use multiple monitors in Full Screen mode.
+The image file does not exist. Provide the location of an accessible image file or select a different option to continue.
+The import failed because %s did not pass OVF specification conformance or virtual hardware compliance checks.
+
+Click Retry to relax OVF specification and virtual hardware compliance checks and try the import again, or click Cancel to cancel the import. If you retry the import, you might not be able to use the virtual machine in %s.
+The import operation failed with more than %zu errors. The OVF you are trying to import is probably corrupt or an unsupported legacy version. The first %zu errors are shown below:
+
+
+The installed version of VMware Tools is not up to date, and 3D graphics are disabled. Log in to the guest operating system and click "Update Tools" to enable 3D graphics.
+The installed version of VMware Tools is not up to date. Log in to the guest operating system and click "Update Tools."
+The installer for "%s" might not include the driver for the BusLogic controller. You may have to download the driver or choose a different controller.
+The installer for "%s" might not include the driver for the LSI Logic SAS controller. You may have to download the driver or select the LSI Logic controller.
+The installer for "%s" might not include the driver for the LSI Logic controller. You may have to download the driver or select the BusLogic controller.
+The key size is too small.
+The license key that you have entered has expired.
+To purchase a license for %s, Please refer how to purchase product %s
+The license key that you have entered is invalid.
+To purchase a license for %s, Please refer how to purchase product %s
+The location "%s" already exists.
+The maximum number of devices of this type has been reached
+The memory value cannot be set to %u MB while this virtual machine is running.
+
+The nearest allowed memory values for this guest operating system are %u MB or the original value of %u MB.
+The multiple monitors feature is only available in Full Screen mode.
+The name "%s" is too long, and would result in an invalid file path for your system. Please shorten the name
+The name '%s' already exists.
+The name '%s' conflicts with an existing LAN segment. Choose another name.
+The name '%s' is already in use.
+The name '%s' is reserved for system use.
+The operation completed before you canceled it.
+The operation has timed out
+The password could not be changed because the old password is incorrect. Try again with the correct password.
+The password must be at least %u characters in length.
+The passwords for property "%s" do not match. Type the same password in both text boxes.
+The passwords you have entered do not match.
+The passwords you typed do not match. Type the same password in both text boxes.
+The path "%s" already exists. Please enter another path and try again.
+The path "%s" cannot be written to. Please enter another path and try again.
+The path "%s" is malformed.
+The path "%s" is not absolute.
+The path cannot be found
+The path does not exist on this host.
+The path specifies an unknown filesystem type.
+The proxy credentials you entered were incorrect.
+
+Enter your proxy credentials in order for %s to check for updates and download components.
+The remote device is configured to be a server device. Are you sure that you want to reconfigure it to be a client device?
+The requested operation is already in progress
+The requested virtual machine could not be found.
+The resolution %s is not allowed.
+The screenshot was saved to the host clipboard and to the host's %s folder.
+
+The screenshot was saved to the host clipboard.
+
+The screenshot was saved to the host's %s folder.
+
+The selected directory '%s' is invalid. Please choose a different directory.
+The selected folder is an invalid location.
+The selected folder must be within a datacenter.
+The selected virtual disk is incompatible with this %s virtual machine. Adding this disk would make this virtual machine incompatible with older VMware products
+The selected virtual disk is too large for use with this %s virtual machine.
+The selected virtual disk is too large to be used with this %s virtual machine. Adding this disk would make this virtual machine incompatible with older VMware products
+The selected virtual disk is too old to be used with this %s virtual machine.
+The selected virtual disk is too small for use with this %s virtual machine.
+The selected virtual disk is unencrypted and cannot be used with an encrypted virtual machine.
+The server you are connecting to is presenting a security certificate with the following problems:
+The server-side WebSocket connection limit has been exceeded. This can be adjusted on the server-side to allow more concurrent connections.
+The settings cannot be saved. This virtual machine changed recently (for example, it might have been powered on).  Click Cancel and try again.
+The single-use MKS ticket has already been consumed.
+The specified disk size is greater than the allowed size for this virtual disk. Please specify a size between %.3f GB and %.1f GB.
+The specified disk size is less than the allowed size for this virtual disk. Please specify a size between %.3f GB and %.1f GB.
+The specified location appears to contain an existing virtual machine. Having two virtual machines installed in the same location can cause problems, including loss of data if the two virtual machines have the same name. Would you like to continue with this location?
+The specified password is not allowed.
+
+Passwords must contain only ASCII characters (English letters, digits, and punctuation).
+The specified path already exists
+The specified path is invalid or does not exist. Would you like to keep this setting anyway?
+The specified virtual disk size is incompatible with Easy Install and may prevent the guest from booting properly. The disk must be smaller than %s to use Easy Install.
+The specified virtual disk size requires that the disk be split. Please choose to store the disk as multiple files or reduce the size of the disk to be smaller than %u GB.
+The system cannot connect to the computer at %s
+The temporary directory %s is not writable. Make it writable and try again.
+The thumbprint provided by host '%s' does not meet the client's security requirements. Check host configuration and supported thumbprint types, or configure the client to allow less secure thumbprints.
+The virtual CD/DVD device could not connect the VMware Tools installation image. The guest operating system may be using the CD/DVDdevice.
+The virtual Smart Card device cannot emulate a Smart Card event because the device is not connected to the virtual machine.
+The virtual Smart Card device cannot emulate a Smart Card event because the physical Smart Card is not inserted into the reader.
+The virtual Smart Card device cannot emulate a Smart Card insertion event until a removal event is issued by the virtual device.
+The virtual Smart Card device cannot emulate a Smart Card removal event until an insertion event is issued by the virtual device.
+The virtual device can only be used on the host
+The virtual machine "%s" claims to be a member of the team "%s", but the team cannot be found or opened. To open this virtual machine you must either locate the team or reset the virtual machine to no longer consider itself a member of the team.
+The virtual machine %s (%s) cannot be deleted because it is still powered on.
+The virtual machine appears to be in use
+The virtual machine being edited has been closed
+The virtual machine cannot be found at %s
+The virtual machine cannot be repaired this way
+The virtual machine cannot be shut down until VMware Tools finishes running the script.
+The virtual machine cannot be suspended until VMware Tools finishes running the script.
+The virtual machine configuration has been edited concurrently
+The virtual machine could not be changed to the selected monitor layout.
+
+If you just added a monitor to the host computer, you must power off and power on the virtual machine to use that monitor.
+The virtual machine does not support the selected hardware version.
+
+The virtual machine hardware version must be Workstation 6 or higher.
+The virtual machine has to be powered off for this operation.
+The virtual machine is busy.
+The virtual machine is encrypted using an old encryption algorithm. You can upgrade it to use the latest supported encryption mode. However, upgrading might break backward compatibility and prevent the virtual machine from working on older versions of %s. Refer to the KB article below for more details:
+
+%s
+The virtual machine is using a hardware version that is not supported by this version of %s. Please use a previous version of %s to upgrade the virtual machine.
+
+The virtual machine location cannot use any of the following characters: %s
+The virtual machine may perform poorly or fail to power on because the total number of processor cores exceeds the maximum supported value of %d.
+The virtual machine might not be able to use all of the configured graphics memory unless the total system memory is increased to %s. The total virtual machine memory can be adjusted in the Memory settings page.
+The virtual machine might not run properly because it is configured to use more virtual processor cores than the guest supports.
+The virtual machine might not run properly because it is configured to use more virtual processor sockets than the guest supports.
+The virtual machine must be encrypted and using UEFI firmware.
+The virtual machine must be moved out of the Shared VM directory (%s).
+The virtual machine must be powered off before it can be upgraded.
+
+The virtual machine must be powered off to reduce the amount of memory.
+The virtual machine must have a name in order to be shared.
+The virtual machine must have finished booting.
+The virtual machine must have up-to-date VMware Tools installed and running.
+The virtual machine name must not be longer than %d characters.
+The virtual machine needs to have a virtual CD/DVD device to install %s.
+The virtual machine path is too long
+The virtual machine will be created with a blank hard disk.
+The virtual machine will be created with the following settings:
+The virtual machine will be powered on after deployment.
+These properties may need some time to take effect after the vCenter appliance first power on, so please wait and do not shutdown the appliance.
+The virtual machine you are cloning is a linked clone. Creating a full clone from a linked clone will resolve all links. The resulting virtual machine will no longer be linked and will require more disk space.
+The virtual machine you are cloning is already a linked clone. Your new clone will require access to all the virtual machines it is linked to.
+The virtual machine you are trying to create already exists. You must specify a different location for your virtual machine.
+The virtual machine you are trying to modify cannot be cloned.
+The virtual machine's Display setting must be "Use host settings" or specify more than one monitor with a sufficiently-high maximum resolution.
+The virtual machine's hard disk is stored as one or more files on the host computer's physical disk. These file(s) start small and become larger as you add applications, files, and data to your virtual machine.
+The virtual machine's hard disk is stored as one or more files on the host computer's physical disk. These file(s) will be created immediately and will never grow in size.
+The virtual printer device is not supported on this server.
+The vmware-collect-host-support-info script could not be found on this system. Support data will not be collected.
+There are no configurable options for USB controllers on this server.
+There are no more available IDE devices in this virtual machine. In order to create an IDE disk, first remove one or more IDE devices.
+There are no more available IDE, SCSI, SATA or NVMe devices in this virtual machine. In order to create a new disk, first remove one of the existing disk devices.
+There are no more available NVMe devices in this virtual machine. In order to create a NVMe disk, first remove one or more NVMe devices.
+There are no more available SATA devices in this virtual machine. In order to create a SATA disk, first remove one or more SATA devices.
+There are no more available SCSI devices in this virtual machine. In order to create a SCSI disk, first remove one or more SCSI devices.
+There are no software updates available at this time.
+There is already a shared folder with this name.
+There is not an existing shared folder with this name.
+There is not enough disk space to encrypt this virtual machine. Please free up some disk space and try again later.
+There is not enough disk space to remove encryption from this virtual machine. Please free up some disk space and try again later.
+There is not enough space on the disk to create the file. Free %s and try again.
+There was a problem updating a software component. Try again later and if the problem persists, contact VMware Support or your system administrator.
+There was an error checking user permissions to share a virtual machine.
+There was an error saving your change: %s
+There was an error validating the path "%s": %s
+There were one or more problems downloading components:
+
+%s
+These options are not supported on %s virtual machines.
+These options have an effect only when %s is running in the virtual machine.
+Thin provisioned
+This CD appears to have invalid contents. Please make sure the disc is not damaged.
+This VM's version of %s is out of date.
+This beta has expired. You need a newer version to power on virtual machines.
+This certificate's extended key usage extension does not allow it to be used for server authentication.
+This controller does not support this device.
+This device does not support using client device.
+This device is not supported on this bus.
+This file is not a valid disc image. Please make sure you have selected the correct file.
+This file is required to clone this virtual machine.  If this file was moved, please provide its new location.
+This file is required to power on this virtual machine. If this file was moved, specify the new location.
+This guest OS requires a virtual TPM (Trusted Platform Module).
+
+The data for the virtual TPM must be encrypted with a password. Make sure to write down this password in a secure location. You will not be able to use this virtual machine without it.
+This host does not support IDE disks for older virtual machine versions.
+This is used to install %s.
+This operating system will use Easy Install.
+This option is not supported on %s virtual machines.
+This package references network files, accessing network files may expose security information to untrusted servers, and network files may harm your computer.
+This password is for both user and root accounts.
+This product has expired and your virtual machine cannot be powered on.
+Make sure that your host's date and time are set correctly.
+
+There is a more recent version available at the %s web site: "%s"
+This product participates in VMware's Customer Experience Improvement Program ("CEIP"). The CEIP provides VMware with information that enables VMware to improve its products and services, to fix problems, and to advise you on how best to deploy and use our products. As part of the CEIP, VMware collects technical information about your organization's use of VMware products and services on a regular basis in association with your organization's VMware license key(s). This information does not personally identify any individual. For additional information regarding the CEIP, please see the Trust &amp; Assurance Center at <a href="%s">%s</a>.
+This setting will deactivate other hot key combinations.
+This virtual disk file will store the partition information for the selected physical disk.
+This virtual machine appears to be in use.
+If this virtual machine is not in use, press the "%s" button to obtain ownership of it. Otherwise, press the "%s" button to avoid damaging it.
+Configuration file: %s.
+This virtual machine can be neither moved nor cloned and is unable to be shared at this time.
+This virtual machine cannot be cloned.
+This virtual machine cannot be moved because it has linked clones.
+This virtual machine cannot be moved because it is a linked clone.
+This virtual machine cannot be moved because some of its files are spread across multiple directories.
+This virtual machine cannot be moved because template mode is enabled.
+This virtual machine cannot be moved.
+This virtual machine cannot be shared because it cannot be transferred to Shared Virtual Machines directory.
+
+%s
+%s
+This virtual machine cannot be shared.
+
+Contact %s Technical Support for assistance.
+This virtual machine cannot use multiple monitors for the following reasons:
+This virtual machine contains an embedded certificate store. When connecting to %s the server presented a certificate with the following problems:
+This virtual machine could not be moved.
+This virtual machine has '%s' enabled, but you are trying to use a guest operating system that does not support '%s'. Discard your changes or choose a different guest operating system.
+This virtual machine has been deleted from the host computer but not from the vCenter Server.
+This virtual machine has one or more shared folders configured. Shared folders are not allowed by default. You can enable them in VM > Settings > Options > Shared Folders.
+This virtual machine has previously been marked as a template for cloning. Removing this option may make linked clones created from this virtual machine unusable.
+This virtual machine is a linked clone but its parent is not encrypted. This means that even if you encrypt this virtual machine, part of its data will remain unprotected.
+This virtual machine is a template. It can be cloned only from a snapshot.
+This virtual machine is a template. It can be cloned only from an existing snapshot.
+This virtual machine is a template. To clone it, you must create a snapshot or remove template mode.
+This virtual machine is already a standard VM.
+This virtual machine is already being shared.
+This virtual machine is encrypted.
+This virtual machine is encrypted.
+You must enter its password to continue.
+This virtual machine is encrypted. In order to open it, provide the encryption password.
+This virtual machine is in an inconsistent state.
+Its configuration file is unencrypted but at least one of its components is already encrypted. Check to make sure it is not using a disk from an encrypted virtual machine.
+This virtual machine is in legacy non-persistent mode. To switch to legacy persistent mode, choose "Remove Snapshot" from the "Snapshot" menu.
+This virtual machine is in legacy persistent mode. Taking a snapshot will switch it to legacy undoable mode.
+This virtual machine is in legacy undoable mode. To switch to legacy persistent mode, choose "Remove Snapshot" from the "Snapshot" menu.
+This virtual machine is in stretch mode. You must exit stretch mode before you can use multiple monitors.
+This virtual machine is powered off or suspended
+This virtual machine is read-only. You must set it as a template to create linked clones from it.
+This virtual machine is running a version of %s that might have compatibility problems with %s.
+This virtual machine's hardware compatibility cannot be changed because it has a legacy snapshot.
+This virtual machine's hardware compatibility cannot be changed on this host.
+This will disconnect the %s installer virtual CD. The installer running in the guest operating system may show an error message. If there was a problem during installation, install %s again.
+
+Are you sure you want to cancel the %s installation?
+This wizard helps you to convert a shared virtual machine into a standard VM.
+This wizard will guide you through the steps of adding new hardware to your virtual machine.
+
+To begin, please select the type of hardware you want to add.
+This wizard will help you configure a virtual machine for access by remote users.
+This wizard will help you create a copy of this virtual machine. 
+
+If you intend for other users to create clones from this virtual machine, you should enable template mode under VM > Settings > Options > Advanced.
+This wizard will scan your system for virtual machines outside of the virtual machine library.
+Time
+Time sync off
+Time sync on
+To change the default setting, go to Edit > Preferences > Updates. You must be running %s as root.
+To cycle multiple monitors, press <i>%s+M</i>.
+To direct input to this VM, click inside or press %s.
+To direct input to this VM, move the mouse pointer inside or press %s.
+To direct input to this VM, press %s.
+To enable DPI synchronization in the virtual machine, update VMware Tools.
+To grab input, press Ctrl+G
+To import "%s" you must read and accept the following license agreement(s):
+To interact with the server running on the local host, use the Shared VMs tab.
+To leave %s, press the %s key combination.
+To leave %s, press the %s key.
+To modify shared folders while the virtual machine is powered on, VMware Tools must be installed and running in the guest operating system.
+To release control from the current virtual machine, press <i>%s</i>.
+To release control from the current virtual machine, press <i>Esc</i>.
+To release input, press %s
+To return to your computer, move the mouse pointer outside or press %s.
+To return to your computer, press %s.
+To send a key combination that includes <i>%s</i> directly to the guest, press <i>%s+Space</i>, release the space bar without releasing <i>%s</i>, and press the desired key.
+To share virtual machines, enable the %s
+in Edit > Preferences > Shared VMs.
+To switch to the next full-screen virtual machine, press <i>%s+Right-Arrow</i>.
+To switch to the previous full-screen virtual machine, press <i>%s+Left-Arrow</i>.
+To toggle full-screen mode, press <i>%s+Return</i>.
+To use Easy Install, insert the first disc of the set.
+Tools packages are not available locally and cannot be downloaded while updating %s.
+
+Wait until the product update finishes or cancel it.
+Tools packages cannot be downloaded while updating %s.
+
+Wait until the product update finishes or cancel it.
+Total processor cores:
+Troubleshooting
+Trust for a certificate in the host's chain has been revoked.
+Trust for the certificate has been revoked.
+Trusted Platform Module
+Try '%s --help' for more information.
+
+Type
+Type here to enter a description of this virtual machine.
+Type here to search
+Type:
+UEFI
+UI log file:
+URL proxy: Bad format or range error: %s
+URL proxy: Bad range for proxy port (1-65535): %d
+URL proxy: Invalid FQDN, IPv4, or IPv6 proxy address: %s
+URL proxy: Username cannot be empty when password is specified.
+USB 1.1
+USB 2.0
+USB 2.0 is not supported on %s virtual machines.
+USB 3.2
+USB 3.2 Controller
+USB 3.2 is not supported on %s virtual machines.
+USB Co_mpatibility:
+USB Controller
+USB Device
+USB is not supported on %s virtual machines.
+Ubuntu
+Ubuntu 64-bit
+Ubuntu 64-bit Arm
+Unable to add device %s. The device configuration is invalid on this server.
+Unable to add virtual machine "%s" to the library: %s.
+Unable to begin taking snapshot.
+Unable to browse for virtual machines.
+Unable to browse for virtual machines: %s
+Unable to cancel download of %s: %s
+Unable to change the guest resolution at this time
+Unable to change virtual machine power state: %s
+Unable to collect status information with the given paths: %s
+Unable to connect for updates at the moment. For more information, see https://knowledge.broadcom.com/external/article?articleNumber=395172
+Unable to connect to "%s" on port %d
+Unable to connect to the MKS: %s
+Unable to connect to the Workstation Server. Please ensure that
+it is running, and then retry by clicking "Connect".
+Unable to connect to the remote host: %s
+Unable to convert %s value: %d
+Unable to create a full clone of this virtual machine.
+Unable to create a linked clone of this virtual machine.
+Unable to create a new virtual machine: %s
+Unable to create clone: the specified path already exists
+Unable to create floppy image: %s.
+Unable to create virtual machine: the specified path already exists
+Unable to decrypt the virtual machine: %s
+Unable to determine default VM location for the selected host. This is most likely due to insufficient permissions.
+Unable to download because there is no connection to the update server. Check your Internet and proxy settings.
+Unable to edit device %s. The device configuration is invalid on this server.
+Unable to enumerate names in directory "%s": %s
+Unable to find a valid virtual machine from the creation operation
+Unable to find any local disks. You must be running as root to configure a physical disk.
+Unable to find available directory; giving up after trying %d times.
+Unable to find match for component %s.
+Unable to get the config targets from the virtual machine's EnvironmentBrowser
+Unable to install virtual printer on this virtual machine: %s
+Unable to load a list of files from the server
+Unable to load datastores from this host. This could potentially be caused by insufficient permissions.
+Unable to load permissions: %s
+Unable to load the config option descriptors
+Unable to load the config options using descriptor key %s from host %s
+Unable to load the config targets from host %s
+Unable to load the config targets from the virtual machine's EnvironmentBrowser
+Unable to load users: %s.
+Unable to locate the host computer for this virtual machine.
+Unable to mount the %s image.
+Unable to mount the image: %s.
+Unable to open "%s" as a Virtual Machine or Team:
+
+%s
+Unable to open "%s": %s
+Unable to open "%s": %s.
+Unable to open %s as a Virtual Machine:
+
+%s
+Unable to open: %s
+Unable to open: %s.
+Unable to parse "%s" into a color.
+Unable to parse server response
+Unable to perform the operation without file system knowledge.
+Unable to power off this virtual machine: %s.
+Unable to read configuration data.
+Unable to recusively list files from the server.
+Unable to reencrypt the virtual machine: %s
+Unable to remove device %s. The device could not be removed on this server.
+Unable to retrieve any hosts on this connection. There is no available host to use.
+Unable to retrieve any hosts on this connection. This could potentially be caused by insufficient permissions.
+Unable to retrieve any hosts on this connection. This may be caused by insufficient permissions.
+Unable to retrieve disk information: %s
+Unable to retrieve the required host on this connection. This could potentially be caused by insufficient permissions.
+Unable to save %s device: Please specify a physical device.
+Unable to save %s device: Please specify a socket.
+Unable to save %s device: Please specify the %s.
+Unable to save Display properties: %s
+Unable to save the captured screen to "%s".
+Unable to save the captured screenshot to %s. Make sure that you have write access to the disk.
+Unable to stretch guest while it is not in stretch mode.
+Unable to stretch the guest at this time.
+Unable to take snapshot.
+Unable to unmount the %s image.
+Unable to unmount the image: %s.
+Unable to update run-time folder sharing status: %s
+Unable to upgrade virtual machine: %s.
+
+Unauthorized
+Undoable
+Unexpected authentication request: %s
+Unknown HTTP error.
+Unknown Product
+Unknown connection type.
+Unknown error.
+Unknown software update error (%s). Contact VMware Support or your system administrator.
+Unlimited
+Unmount the virtual disk from the host.
+Unrecognized (HW%d)
+Unrecognized type
+Unrecognized virtual machine (HW%d)
+Unregistering virtual machine
+Unrestricted
+Unsharing Virtual Machine
+Unsupported Media Type
+Unsupported operation
+Update Server
+Update Server:
+Update _automatically
+Update _manually (do nothing)
+Update not available.
+Update of %s pending...
+Update pending...
+Update snapshot
+Updating %s...
+Updating...
+Upgrade
+Upgrade the virtual hardware to use a multi-core CPU configuration.
+Upgrade the virtual hardware to use a multi-core CPU configuration. To upgrade, select VM > Manage > Change Hardware Compatibility.
+Upgrade this virtual machine by selecting VM > Manage > Change Hardware Compatibility.
+Upgrade to VMware _Workstation Pro
+Upload failed: %s.
+Uploading to %s is not supported.
+Usage
+Use ISO i_mage across sessions:
+Use ISO i_mage for this session:
+Use ISO i_mage:
+Use Open Sound System (OSS): /dev/dsp
+Use _legacy emulation on physical devices.
+Use _physical sound card:
+Use a custom virtual network that you have already specified in the VM Settings editor.
+Use a floppy _image across sessions:
+Use a floppy _image for this session:
+Use a floppy _image:
+Use a local floppy _image:
+Use a phys_ical parallel port:
+Use a phys_ical serial port:
+Use a remote floppy _image:
+Use an _existing virtual disk
+Use b_ridged networking
+Use entire _disk
+Use h_ost-only networking
+Use local ISO i_mage:
+Use local _DHCP service to distribute IP addresses to VMs
+Use local output _file:
+Use network _address translation (NAT)
+Use output _file across sessions:
+Use output _file for this session:
+Use output _file:
+Use remote ISO i_mage:
+Use remote output _file:
+Use soc_ket (named pipe)
+Use this virtual machine as a linked clone _template
+User
+User Access Control
+User account doesn't have permission to access virtual machines on this server.
+User canceled download.
+User directory not ready
+User doesn't have access to VM console
+User:
+Username used to authenticate to the remote host
+Using %s on another computer
+Using USB devices with a USB 3.2 controller may require additional drivers to be installed in the guest.
+Using USB devices with a USB 3.2 controller may require additional drivers to be installed in the guest. <a href="%s">Download a USB 3.2 driver for this virtual machine.</a>
+Using a device or file on another console
+Using device %s
+Using drive %s
+Using drive %s across sessions
+Using drive %s for this session
+Using file %s for this session
+Using local drive %s
+Using local file %s
+Using named pipe %s
+Using partitions
+Using port %s
+Using remote drive %s
+Using remote file %s
+Using socket %s
+Using unknown backend
+VCAOD VCloud has not been loaded.
+VM Sharing Mode
+VM Window Resize:
+VM location:
+VM log file:
+VM sharing is not enabled.
+VMCI
+VMCI %d
+VMX file is corrupt
+VMware CRX Pod 1.0 64-bit
+VMware CRX Sys 1.0 64-bit
+VMware CRX Sys 1.0 64-bit Arm
+VMware CRX Sys 2.0 64-bit
+VMware CRX Sys 2.0 64-bit Arm
+VMware ESX
+VMware ESX/ESXi 4.x
+VMware ESXi 5.x
+VMware ESXi 6.0
+VMware ESXi 6.x
+VMware ESXi 7
+VMware ESXi 7 Arm
+VMware ESXi 8
+VMware ESXi 8 Arm
+VMware ESXi 9 and later
+VMware ESXi 9 and later Arm
+VMware Encrypted VM: %s
+VMware Fusion
+VMware Fusion Core
+VMware Horizon Client For Mac
+VMware OVFTool
+VMware Photon OS 64-bit
+VMware Photon OS 64-bit Arm
+VMware Player for Linux
+VMware Player for Windows
+VMware Remote Console for Linux
+VMware Remote Console for Windows
+VMware Remote Console for macOS
+VMware Saved Login: %s
+VMware Tools
+VMware Tools enables many features and improves mouse movement, video and performance. Log in to the guest operating system and click "Install Tools".
+VMware Tools for %s
+VMware Tools for Windows Vista or later
+VMware Tools for Windows on ARM64
+VMware Tools for this virtual machine have not been found on your computer. Without VMware Tools, Easy Install will not fully complete.
+VMware Tools is installing. Follow the instructions in the guest operating system to complete the installation.
+VMware Tools is no longer shipped with %s for this guest operating system. Download it from %s and refer to %s for installation steps.
+VMware Tools is no longer shipped with %s for this guest operating system. Refer to %s to install open-vm-tools.
+VMware Tools is not available for this guest.
+VMware Tools needs to be installed manually after you finish installing the operating system. Refer to https://kb.vmware.com/s/article/78708.
+VMware Tools needs to be installed manually after you finish installing the operating system. Windows Server 2012 R2 Update (KB2919355) should be installed before installing VMware Tools.
+VMware Workstation for Linux
+VMware Workstation for Windows
+VMware Workstation is already connected to the host %s.
+VMware vCloud Air
+VMware's Customer Experience Improvement Program ("CEIP") provides VMware with information that enables VMware to improve its products and services, to fix problems, and to advise you on how best to deploy and use our products. As part of the CEIP, VMware collects technical information about your organization's use of VMware products and services on a regular basis in association with your organization's VMware license key(s). This information does not personally identify any individual.
+Additional information regarding the data collected through CEIP and the purposes for which it is used by VMware is set forth in the Trust &amp; Assurance Center at http://www.vmware.com/trustvmware/ceip.html.
+
+Join the VMware Customer Experience Improvement Program ("CEIP")?
+If you prefer not to participate in VMware's CEIP for this product, you should select "No" below.
+You may join or leave VMware's CEIP for this product at any time.
+VNC Connection LED
+VNC Connections
+VNC Connections: %s
+VNC port: 
+V_NC Connection
+Verifying %s...
+Verifying connection to remote server...
+Verifying...
+Version of Windows to install
+View Certificate
+View _Downloads
+View and manage virtual machines on a remote server.
+View online help.
+Virtual Device Node
+Virtual Disk Type
+Virtual Disks (*.vmdk)
+Virtual Machine Configuration
+Virtual Machine Created
+Virtual Machine Details
+Virtual Machine Hardware Compatibility
+Virtual Machine IP Address
+Virtual Machine Library
+Virtual Machine Metadata Files (*.vmxf)
+Virtual Machine Name
+Virtual Machine Name and Location
+Virtual Machine Not Found
+Virtual Machine Upload Wizard
+Virtual Machine _Name
+Virtual Machine _Settings
+Virtual Machines
+Virtual Machines (*.vmx)
+Virtual Machines (*.vmx, *.ovf, *.ova)
+Virtual Machines and Teams
+Virtual Machines to Add
+Virtual Machines to import
+Virtual Network Editor
+Virtual appliance access _port inside virtual machine:
+Virtual disk contents are stored in a single file.
+Virtual disk contents are stored in multiple files.
+Virtual machine "%s" is configured to clean up disks automatically. Continue?
+Virtual machine IP _address:
+Virtual machine _port:
+Virtual machine created successfully. You still need to install the operating system and VMware Tools.
+Virtual machine destroyed during initialization
+Virtual machine location
+Virtual machines are in a private network with your computer
+Virtual machines cannot be shared unless powered off.
+
+Power off this virtual machine before starting the Share VM wizard.
+Virtual machines configured with physical disks cannot be shared.
+Virtual machines connect directly to your external network
+Virtual machines must be powered off for background snapshot changes to take effect.
+Virtual machines share your computer's IP address
+Virtual printer requires a printer device on the virtual machine. Please add a printer for this virtual machine, and then try again.
+Virtual printer support has been discontinued. Please remove the device.
+Virtual printers are not supported by this virtual machine.
+
+Virtualization Engine
+Virtualize C_PU performance counters
+Virtualize IO_MMU (IO memory management unit)
+Virtualize _Intel VT-x/EPT or AMD-V/RVI
+Virtualized VT-x/EPT or AMD-V/RVI will only be used when VT-x/EPT or AMD-V/RVI is supported on the current host. Enabling this option will make this VM incompatible with other VMware products.
+Visit our website to get the latest version.
+WARNING: The certificate for this server has changed since you last connected. This could indicate a possible eavesdrop (man-in-the-middle) attack.
+WARNING: you are attempting to quit while operations are still running.  Do you want to forcibly quit?  Your preferences will not be saved if you choose to quit.
+Waiting
+Waiting for host...
+Warning! The virtual machine %s (%s) has linked clones dependent on it.  Deleting this virtual machine will destroy the linked virtual machines, and you will no longer be able to use them.
+
+This action is irreversible!
+Are you sure you want to delete this virtual machine permanently?
+Warning! This action is irreversible!
+Are you sure you want to delete the virtual machine "%s" permanently?
+Welcome to VMware Player
+Welcome to VMware Remote Console
+Welcome to the Change Hardware Compatibility Wizard
+Welcome to the Clone Virtual Machine Wizard
+Welcome to the Scan for Virtual Machines Wizard
+Welcome to the Share VM Wizard
+Welcome to the Stop Sharing VM Wizard
+Welcome to the change hardware compatibility wizard. This wizard lets you upgrade or change a virtual machine from one virtual hardware generation to another, allowing the virtual machine to work with a different generation of products.
+What kind of boot device should this virtual machine have?
+What kind of disk do you want to create?
+What to Encrypt
+What type of configuration do you want?
+What type of hardware do you want to install?
+What type of network do you want to add?
+What would you like to do?
+When Powering Off
+When the application window is resized, change the virtual machine display settings to match.
+When the guest OS starts, log in automatically as:
+When the virtual machine display settings change, resize the application window to match.
+When using %s to open remote virtual machine, use the configured proxy setting for the connection.
+Where <Virtual machine config file> has the syntax:
+    vmrc://[<user>|(<ticket-type>:<ticket>)@]<host>[:<port>]/?moid=<VM-id>
+    [&httpproxy=<proxy server>[:<proxy port>][&proxyuser=<proxy username>]
+    [&proxypasswd=<proxy auth password>]]
+or has the syntax:
+    vmrc://settings
+
+    example: vmrc://clone:ticket@vsphere-server/?moid=42
+    example: vmrc://username@vsphere-server/?moid=79
+    example: vmrc://<host>[:port]/?moid=1&httpproxy=<server>&proxyuser=<name>
+    exmaple: vmrc://settings
+
+Hints:
+    The '&' character in <proxy username> or <proxy auth password>
+    should be encoded as '%26'.
+
+The following arguments may be used for MKS connections:
+    &websocket=<WebSocket URL>
+    &mksticket=<ticket>
+    &thumbprint=<SSL thumbprint>
+    &path=<VM path>
+
+    example: vmrc://vRAserver/?thumbprint=aa:bb:cc
+             &websocket=wss://host:443/ticket/123
+
+Where will this virtual machine be stored?
+Where would you like to store the disk file?
+Where would you like to store the uploaded virtual machine?
+Where would you like to upload this virtual machine?
+Which SCSI controller type would you like to use for SCSI virtual disks?
+Which compatibility format would you like to convert to?
+Which disk do you want to use?
+Which hardware features are needed for this virtual machine?
+Which host will run this virtual machine?
+Which local hard disk do you want this virtual machine to use?
+Which operating system will be installed on this virtual machine?
+Which partitions would you like to use for this virtual machine?
+Which previously configured disk would you like to use?
+Win/Super + 
+Windows 10
+Windows 10 64-bit
+Windows 10 64-bit Arm
+Windows 11 64-bit
+Windows 11 64-bit Arm
+Windows 12 64-bit
+Windows 12 64-bit Arm
+Windows 3.1
+Windows 7
+Windows 7 64-bit
+Windows 8.x
+Windows 8.x 64-bit
+Windows 95
+Windows 98
+Windows Millennium Edition
+Windows NT
+Windows Server 2000
+Windows Server 2003
+Windows Server 2003 64-bit
+Windows Server 2008
+Windows Server 2008 64-bit
+Windows Server 2008 R2
+Windows Server 2012
+Windows Server 2016
+Windows Server 2019
+Windows Server 2022
+Windows Server 2025
+Windows Server 2028
+Windows Vista
+Windows Vista 64-bit
+Windows XP
+Windows XP Professional 64-bit
+Windows clustering does not work with the LSI Logic controller. To create a virtual machine compatible with Windows clustering, select the LSI Logic SAS controller instead.
+Windows product key
+Wor_king Directory
+Working directory "%s" does not exist
+Working directory "%s" exists, but is not a directory
+Workspace
+Workstation 10.x virtual machine
+Workstation 11.x virtual machine
+Workstation 12.x virtual machine
+Workstation 14.x virtual machine
+Workstation 15.x virtual machine
+Workstation 16.2.x virtual machine
+Workstation 16.x virtual machine
+Workstation 17.5-17.6.x virtual machine
+Workstation 17.x virtual machine
+Workstation 25H2 or later virtual machine
+Workstation 4.x virtual machine
+Workstation 4.x virtual machine; ESX 2.x compatible
+Workstation 5.x virtual machine
+Workstation 5.x virtual machine; ESX 3.x compatible
+Workstation 6.0 virtual machine
+Workstation 6.5-7.x virtual machine
+Workstation 8.x virtual machine
+Workstation 9.x virtual machine
+Would you like to check for product updates on startup?
+Would you like to clone this virtual machine before making changes?
+XXX
+You Are Here. 
+You are already connected to "%s" as "%s". Do you want to continue as that user?
+You are attempting to change the hardware compatibility of a virtual machine that this version of VMware Workstation does not support. This version only supports virtual machines created by VMware Workstation 4.0 and later.
+You are attempting to change the hardware compatibility of a virtual machine that this version of VMware Workstation does not understand. To do this, you must change the hardware compatibility of the virtual machine using the version of VMware Workstation that was used to create it.
+You are downgrading to a version that does not support %s as a guest operating system.
+You are downgrading to a version that does not support IDE disks larger than %s. To downgrade this virtual machine, remove the disk.
+You are downgrading to a version that does not support IDE disks. To downgrade this virtual machine, remove all IDE disks.
+You are downgrading to a version that does not support NVMe devices. To downgrade this virtual machine, remove all NVMe disks.
+You are downgrading to a version that does not support NVMe disks larger than %s. To downgrade this virtual machine, remove the disk.
+You are downgrading to a version that does not support SATA devices. To downgrade this virtual machine, remove all SATA disks.
+You are downgrading to a version that does not support SATA disks larger than %s. To downgrade this virtual machine, remove the disk.
+You are downgrading to a version that does not support SCSI disks larger than %s. To downgrade this virtual machine, remove the disk.
+You are downgrading to a version that does not support snapshots, but this VM has snapshots or recordings. Before downgrading, remove the snapshots.
+You are using a legacy virtual machine. If you would like to use physical disks with this virtual machine, please upgrade this virtual machine first by going to VM > Manage > Change Hardware Compatibility.
+You can change the screenshot preferences in Edit > Preferences > Workspace.
+You can't compact this virtual disk because it is preallocated.
+You can't expand this virtual disk because it is a linked clone.
+You cannot enter exclusive mode while the virtual machine is paused.
+You cannot expand the virtual disk because you have reached the maximum disk size limit.
+You cannot make a clone of a Workstation 4.x virtual machine.
+You cannot make a clone of a recording.
+You cannot make a clone of a shared or remote virtual machine.
+You cannot make a clone of a virtual machine or snapshot that is powered on or suspended.
+You cannot make a clone of a virtual machine with a physical disk.
+You cannot make a clone while the virtual machine is in the middle of an operation which might be modifying its disk.
+You cannot make a linked clone of a virtual machine or snapshot with an independent disk.
+You cannot make a linked clone of an encrypted virtual machine.
+You cannot mount this virtual disk while the virtual machine is encrypted.
+You did not enter a Windows product key. Easy Install may require you to enter it during the installation process. Would you like to continue?
+You did not enter a Windows product key. Windows will install without one, but must be manually activated later. Would you like to continue?
+You do not have permission to enter a license key. Try again using the system administrator account.
+You do not have permission to open the image file. Provide the location of an accessible image file or select a different option to continue.
+You do not have permission to write to the location "%s". Choose another location.
+You don't have enough disk space to perform this operation. You must free up at least %.0lf MB.
+You don't have enough disk space to perform this operation. You must free up at least %.1lf GB.
+You have entered a Full Name that may conflict with a built-in account in the guest operating system. If it does conflict, you may be asked for a new Full Name by the installer. Would you like to continue?
+You have entered a user name which is reserved by the guest operating system.
+You have entered an incorrect serial number for your installation of %s.  You must enter a serial number in the form:
+	XXXXX-XXXXX-XXXXX-XXXXX-XXXXX.
+You have entered an invalid Full name. A Full name must not contain the characters ':', '\', '=', '"', or ','.
+You have entered an invalid Full name. A Full name must not contain the characters ']]>' in a row.
+You have entered an invalid User name. A User name must only consist of lowercase characters, numbers 0 to 9 or dashes.
+You have entered an invalid disk file. You must enter a valid file name.
+You have entered an invalid password. Passwords must not contain the characters ']]>' in a row.
+You have entered an invalid virtual machine location.
+You have entered an invalid virtual machine location. Make sure that the location is an absolute path.
+You have selected a snapshot that has linked virtual machines dependent upon it. Deleting this snapshot will destroy the linked virtual machines and you will no longer be able to use them.
+
+Virtual machines linked to this snapshot:
+%s
+Are you sure you want to delete this snapshot?
+You have selected an LSI Logic controller for a Workstation 4.x virtual machine. This virtual machine will not be able to run in Workstation 4.0 or earlier.
+
+To create a virtual machine compatible with Workstation 4.0 and earlier, select the BusLogic controller instead.
+You have selected to create a full virtual machine clone with the following information:
+You have selected to create a linked virtual machine clone with the following information:
+You may choose to encrypt the virtual machine file for more security.
+You may need to install %s for these options to work correctly.
+You might not be able to boot your virtual machine after the downgrade for the following reasons:
+
+%s
+Are you sure you want to continue?
+You must be running Workstation as root to change these preferences.
+You must be running Workstation as root to change this preference.
+You must convert the team at "%s" before you can use it in this version of %s. When you convert a team, the team configuration (.vmtm) file will be deleted, and the virtual machines will be added to a new folder in the library. The virtual machines will retain their packet loss and bandwidth settings.
+
+Conversion cannot be undone.
+You must enter a User name for the account on the guest. This will be used to login to the guest.
+You must enter a host path for the shared folder.
+You must enter a hostname or IP address.
+You must enter a name for the shared folder.
+You must enter a password for the account on the guest. This will be used to login to the guest.
+You must enter a user name.
+You must enter the Full name. This will be used as the account name in the guest operating system.
+You must enter your current password in order to change it.
+You must select a destination folder.
+You must select a destination vDC.
+You must select at least one host network adapter to automatically bridge to.
+You must select at least one or more screenshot save types.
+You must select at least one partition.
+You must specify a disk device to continue
+You must specify a password.
+You must specify a virtual machine name and path.
+You must specify the current password.
+You must update %s in the virtual machine to use multiple monitors in Full Screen mode.
+You must update Tools to enable 3D acceleration in this virtual machine.
+Your Full name cannot be more than %u characters long for the selected guest operating system.
+Your User name cannot be more than %u characters long for the selected guest operating system.
+Your current subscription has expired. Please make sure to renew your license for continued support. Note: Workstation Pro is now licensed for personal use.
+Your hard drive is full. Free some space and try again.
+Your host computer must have more than one monitor.
+Your license expires in %d days.
+Your license expires in 1 day.
+Your license has expired. You must have a valid license to power on virtual machines.
+Your system is out of date. Ensure the required software is installed or contact your system administrator.
+Your user account is not authorized to connect to the Workstation Server. To use shared virtual machines, enter the username and password of an account that has access.
+Zoom In
+Zoom Out
+Zoom in
+Zoom out
+[configuration file(s)]
+_%d. Connect to %s
+_%d. Connect to %s (Auto detect)
+_Add
+_Add Network...
+_Add...
+_Address:
+_All the files (.vmdk, .vmx, etc.) for this virtual machine
+_Allocate all disk space now
+_Alter this virtual machine
+_Always trust this host with this certificate
+_Ask me
+_Assign Permissions
+_AutoProtect Settings...
+_Autofit guest (change guest resolution)
+_Automatically grab and ungrab the mouse cursor.
+_Automatically power on this virtual machine after creation.
+_Back
+_Bandwidth:
+_Bridged
+_Bridged (connect VMs directly to the external network)
+_Browse for Virtual Machine
+_Browse...
+_Clear Messages
+_Client
+_Clone
+_Clone this Snapshot...
+_Clone this Virtual Machine...
+_Collapse
+_Config Port:
+_Connect
+_Connect (Disconnect from %s)
+_Connect (Disconnect from host)
+_Connect to %s on Server
+_Connect to device on Server
+_Create a New VM
+_Created on:
+_Datastore:
+_Delete
+_Delete Recording
+_Delete Recordings
+_Delete Snapshot
+_Delete Snapshots
+_Delete Snapshots and Recordings
+_Delete VM from Disk
+_Description:
+_Description:
+(optional)
+_Details
+_Device:
+_Disconnect
+_Disconnect %s
+_Disconnect %s (Auto detect)
+_Disconnect %s in Another Console
+_Disconnect %s on Server
+_Disconnect (Connect to host)
+_Disconnect device in Another Console
+_Disconnect device on Server
+_Do not use a network connection
+_Domain:
+_Don't Assign Permissions
+_Done
+_Download
+_Download a Virtual Appliance
+_Edit Roles...
+_Edit virtual machine settings
+_Enable AutoProtect
+_Enable IPv6 NAT
+_Enable VNC Connections
+_Enable copy and paste
+_Enable write caching
+_Enabled
+_Enter full screen mode after powering on
+_Enter the driver location for Easy Install:
+_Enter your VMware vCloud credentials.
+_Expand
+_Filter:
+_Finish
+_Full name:
+_Generate
+_Go to Snapshot
+_Help Contents
+_Host
+_Host port:
+_Host-only
+_Hour
+_IDE
+_Independent
+_Just power off
+_Kbps
+_Keep
+_Keep VMs running after %s closes
+_Keep these AutoProtect Snapshots
+_Keep this AutoProtect Snapshot
+_LAN segment: A private network shared with other standard VMs
+_LSI Logic
+_LSI Logic (Recommended)
+_Leave the virtual machine running
+_Log virtual machine progress periodically
+_MAC Address
+_Manage VM power actions
+_Manual proxy settings
+_Map as a network drive in Windows guests
+_Maximum AutoProtect snapshots:
+_Maximum resolution of any one monitor:
+_Minute
+_Monitor device
+_Move the virtual machine
+_NAT
+_NAT (share host's IP address with VMs)
+_Name
+_Never show this hint when starting a VM
+_Never show this when a new device is available
+_New Password:
+_Next
+_No proxy
+_Nonpersistent
+_Nonpersistent: Discard changes after powering off
+_Number of monitors:
+_Old password:
+_Omit frames in which nothing occurs
+_Only the files needed to support a virtual TPM (.nvram, .vmss, .vmem, .vmx, .vmsn)
+_Open
+_Open All Background Virtual Machines
+_Open Message Log
+_Open a VM
+_Open a Virtual Machine
+_Options
+_Organization:
+_Other
+_Packet Loss (%):
+_Paravirtualized SCSI
+_Paravirtualized SCSI (Recommended)
+_Pause All Virtual Machines
+_Persistent
+_Physical SCSI device:
+_Port:
+_Power On Guest
+_Power off the virtual machine
+_Quality:
+_Quit
+_Remember password
+_Remove Network
+_Remove VM from the Library
+_Remove Virtual Machine from Library
+_Remove affected permissions
+_Reset Guest
+_Restart Guest
+_Restore snapshots in the background when possible
+_Revert to snapshot
+_Role:
+_SCSI
+_SCSI (Recommended)
+_Save username and password
+_Scan for Virtual Machines...
+_Send Ctrl+Alt+Del
+_Server name:
+_Server:
+_Shared VM Name
+_Show in Status Bar
+_Snapshot
+_Stretch guest (no resolution change)
+_Suspend All Virtual Machines
+_Suspend Guest
+_Suspend Guest and Quit
+_Suspend the virtual machine
+_System proxy settings
+_TCP
+_Take Snapshot
+_Take Snapshot of this Virtual Machine...
+_Take snapshots in the background when possible
+_To: 
+_Type:
+_Typical (recommended)
+_UDP
+_UDP timeout (in seconds):
+_Undoable: Ask to save changes after powering off
+_Unmount Disk...
+_Update VM Location
+_Update my snapshot
+_Use a local physical drive:
+_Use a physical disk (for advanced users)
+_Use a physical drive across sessions:
+_Use a physical drive for this session:
+_Use a physical drive:
+_Use a remote physical drive:
+_Use application default (currently update automatically)
+_Use application default (currently update manually)
+_Use host settings for monitors
+_Use individual partitions
+_Version:
+_View VNC Connections
+_Virtual Device Node
+_Virtual Machine
+_Yield CPU on poll
+_vDC:
+a connection error occurred.
+a connection error occurred. The server side WebSocket connection limit has been exceeded. This can be adjusted on the server side to allow more concurrent connections.
+a connection error occurred. The web remote device ticket has expired.
+all USB ports are currently being used. To connect this device, disconnect another USB device and try again.
+audio device
+auto-bridging
+auto-detect
+bridged
+by <span weight='bold'>%s</span>
+connected as %s
+datacenter
+days
+disconnected
+e.x.p build-%05u
+eComStation
+floppy
+floppy image file
+generic SCSI
+geometry
+helper process %s failed with status %d
+host-only
+host:port
+hours
+it is not safe to connect the device to the virtual machine. In general, USB mice and keyboards appear as PS/2 devices and should not be connected as USB peripherals. USB devices containing files in use by a running virtual machine cannot be connected to the virtual machine. See the product documentation for more information.
+macOS 10.12
+macOS 10.13
+macOS 10.14
+macOS 10.15
+macOS 11
+macOS 12
+macOS 13
+macOS 14
+macOS 15
+macOS 26
+macOS 27
+maintenance mode
+minutes
+moid
+months
+no
+none
+not responding
+output file
+parallel port
+password
+seconds
+serial port
+the USB device is already connected to another virtual machine.
+the USB device is no longer attached to the computer.
+the client requested disconnection.
+the device is already connected.
+the host is currently using the USB device. Close applications that might be accessing the device, then try again.
+the host requires this USB device for input.
+the server requested disconnection.
+the virtual machine has reached the maximum number of connected USB devices.
+username
+version <span weight='bold'>%s</span>
+version <span weight='bold'>%s</span> by <span weight='bold'>%s</span>
+vmnet
+vmnet%d: %s
+vmnet%d: Invalid MTU value. Must be between %d and %d.
+vmnet%d: Subnet IP must have no blank fields.
+vmnet%d: Subnet IPs must all be unique.
+vmrc://[<user>|(<ticket-type>:<ticket>)@]<host>[:<port>][/[<path>][?<object-type>=<object-id>][&[...]]
+vmware-rvm://[<user>|(<user>:<password>)@]<host>[:<port>]
+weeks
+yes
