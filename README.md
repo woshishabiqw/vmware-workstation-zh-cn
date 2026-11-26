@@ -7,16 +7,16 @@ VMware Workstation Pro 内置多语言消息字典：当系统区域为 `zh_CN` 
 对话框、向导、设置、快照、许可、网络编辑器、VIX 错误等界面文案（约 4430 条）。
 
 ## 适用版本
-本语言包针对 **VMware Workstation Pro 26.0.1（产品标识 26H1，build 25688693，Linux 版）** 制作与验证。
+本语言包针对 **VMware Workstation Pro 26H1u1（内部版本 26.0.1，build 25688693，Linux 版）** 制作与验证。
 - 语言包按该版本的界面字符串生成；**其他 VMware 版本**可能缺少或多出条目，需用 `build/build.sh` 在本机重新提取并补充翻译后再用。
 - 升级/修复 VMware 后，建议重新安装与对应版本匹配的汉化包。
 
 ## 安装
-从 [Releases](../../releases) 下载 `vmware-workstation-zh-cn_1.0.2_all.deb` 后：
+从 [Releases](../../releases) 下载 `vmware-workstation-zh-cn_1.0.3_all.deb` 后：
 ```bash
-sudo apt install ./vmware-workstation-zh-cn_1.0.2_all.deb
+sudo apt install ./vmware-workstation-zh-cn_1.0.3_all.deb
 # 或
-sudo dpkg -i vmware-workstation-zh-cn_1.0.2_all.deb
+sudo dpkg -i vmware-workstation-zh-cn_1.0.3_all.deb
 ```
 安装后**完全退出并重新打开 VMware** 生效（系统区域需为 `zh_CN`）。
 
@@ -30,7 +30,7 @@ sudo apt remove vmware-workstation-zh-cn
 ```bash
 cd build
 ./build.sh
-# 生成 dist/vmware-workstation-zh-cn_1.0.2_all.deb
+# 生成 dist/vmware-workstation-zh-cn_1.0.3_all.deb
 ```
 `build/extract.py` 会在**你本机**从已安装的 VMware 二进制中提取界面原文字符串，
 再与 `phrase*.tsv` / `keyphrase*.tsv` 词表合并生成语言包；仓库本身不包含官方原文数据。
